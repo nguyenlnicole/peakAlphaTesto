@@ -24,6 +24,20 @@ function DropdownMenu() {
         width: "80%", 
       }}
     >
+
+            <img
+        src="/Logo.png"
+        alt="Logo"
+        style={{
+          position: "absolute", 
+          top: "10px", 
+          left: "10px", 
+          width: "50px", 
+          height: "auto",
+        }}
+      />
+
+
       <select
         onChange={handleChange}
         defaultValue=""
@@ -43,7 +57,7 @@ function DropdownMenu() {
         }}
       >
         <option value="" disabled style={{ backgroundColor: "white", color: "black" }}>
-          Select a page
+          Let's Explore
         </option>
         <option value="/">Home</option>
         <option value="/about-us">About Us</option>
