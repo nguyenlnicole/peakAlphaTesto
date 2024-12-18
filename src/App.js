@@ -57,7 +57,7 @@ function DropdownMenu() {
         }}
       >
         <option value="" disabled style={{ backgroundColor: "white", color: "black" }}>
-          Let's Explore
+          Let's Explore!
         </option>
         <option value="/">Home</option>
         <option value="/about-us">About Us</option>
@@ -433,12 +433,12 @@ function LipotropicInjection() {
     
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
        <img
-        src="/Lipot.jpg" // Update with the correct path to your image
+        src="/Lipot.jpg" 
         alt="Lipotrpic Injections"
         style={{
-          width: "100%", // Full width of the parent container
-          height: "auto", // Maintains aspect ratio
-          maxWidth: "800px", // Optional: Limits the width for larger screens
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -520,7 +520,8 @@ function AboutLoanDoan() {
     <div style={{ textAlign: 'center' }}>
             <h1 style={{ color: 'white' }}>Meet Loan (Lexi) Doan, PA-C, M.S. in Physician Assistant Studies </h1>
             <img
-        src="/LoanDoan.jpg" // Ensure this file exists in the 'public' folder
+        src="/LoanDoan.jpg" 
+
         alt="Loan Doan"
         style={{
           width: '300px',
