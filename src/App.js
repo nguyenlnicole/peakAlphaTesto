@@ -48,7 +48,7 @@ function DropdownMenu() {
         <option value="/">Home</option>
         <option value="/about-us">About Us</option>
         <option value="/services">Services</option>
-        <option value="/about-loan-doan">About Loan Doan</option>
+        <option value="/about-loan-doan">Provider</option>
         <option value="/contact-us">Contact Us</option>
       </select>
     </div>
@@ -354,12 +354,12 @@ function PhosphatidylcholineDeoxycholateInjections() {
     >
       {/* Responsive Image Section */}
       <img
-        src="/pdinj.jpg" // Update with the correct path to your image
+        src="/pdinj.jpg" 
         alt="Phosphatidylcholine/Deoxycholate Injections"
         style={{
-          width: "100%", // Full width of the parent container
-          height: "auto", // Maintains aspect ratio
-          maxWidth: "800px", // Optional: Limits the width for larger screens
+          width: "100%",
+          height: "auto", 
+          maxWidth: "800px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -739,8 +739,8 @@ function ContactUs() {
           >
             <option value="Lipotropic Injection">Lipotropic Injection</option>
             <option value="Phosphatidylcholine/Deoxycholate Injections">
-              Phosphatidylcholine/Deoxycholate Injections
-            </option>
+              Phosphatidylcholine/Deoxycholate Injections</option>
+            <option value="Consultation">Consultation</option>
           </select>
 
           {/* Submit Button */}
