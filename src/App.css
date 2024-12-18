@@ -1,0 +1,61 @@
+
+@font-face {
+  font-family: 'MF'; 
+  src: url('./fonts/MF-Regular.ttf') format('truetype'); 
+}
+
+/* Apply the font globally */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #AEC6CF;
+  font-family: 'MF', sans-serif; 
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.App-header {
+  background-color: #AEC6CF;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: 'MF', sans-serif;
+}
+
+select {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-family: 'MF', sans-serif;
+}
+
+.App-link {
+  color: #61dafb;
+  font-family: 'MF', sans-serif;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
