@@ -433,6 +433,25 @@ function PhosphatidylcholineDeoxycholateInjections() {
 <br></br><b>Treatment:</b> Fat-dissolving injections are administered to the targeted areas.
 <br></br>Recovery: Return to your normal routine right away – it’s that simple.
 <br></br><b>Results:</b> Start seeing changes in a few weeks, with optimal results after a few sessions.
+
+<br></br>
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Back to Services
+      </button>
+
     </div>
   );
 }
