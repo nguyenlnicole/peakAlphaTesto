@@ -26,7 +26,7 @@ function DropdownMenu() {
     >
 
             <img
-        src="/Logo2.png"
+        src="/Logo2.jpg"
         alt="Logo2"
         style={{
           position: "absolute", 
@@ -53,7 +53,7 @@ function DropdownMenu() {
           width: "70%", 
           maxWidth: "200px", 
           
-          marginRight: "-20px",
+          marginRight: "-55px",
         }}
       >
         <option value="" disabled style={{ backgroundColor: "white", color: "black" }}>
