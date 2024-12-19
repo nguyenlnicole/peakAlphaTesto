@@ -352,7 +352,14 @@ function Services() {
             href="/services/beautiTOX"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
-          <br></br>  BeutiTOX
+          <br></br> BeutiTOX
+          </a>
+
+          <a
+            href="/services/Testosterone"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  Testosterone
           </a>
 
         </li>
@@ -572,6 +579,40 @@ Results begin to appear within days and improve over time with repeated sessions
     </div>
 );
 }
+
+function Testosterone() {
+  return (
+
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+       <img
+        src="/Testo.jpg" 
+        alt="Testosterone"
+        style={{
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
+
+
+<h1 style={{ color: "white" }}>Testosterone Therapy: Feel Like Yourself Again</h1>
+      <h1>Boost Your Energy, Strength, and Confidence
+        </h1>
+        Do you feel tired, unmotivated, or not quite like yourself? Many men experience these changes with age, 
+        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
+        <br></br>the solution to restore your vitality and confidence.
+
+
+
+    </div>
+);
+}
+
+
+
 
 
 function AboutLoanDoan() {
@@ -818,8 +859,10 @@ function ContactUs() {
             <option value="Phosphatidylcholine/Deoxycholate Injections">
               Phosphatidylcholine/Deoxycholate Injections</option>
               <option value="BeautiTOX">BeautiTOX</option>
+            <option value="Testosterone  ">Testosterone</option>
             <option value="Consultation">Consultation</option>
-            
+
+
             
           </select>
 
@@ -868,7 +911,8 @@ function App() {
             path="/services/phosphatidylcholine-deoxycholate-injections"
             element={<PhosphatidylcholineDeoxycholateInjections />} />
              <Route path="/services/lipotropic-injection" element={<LipotropicInjection />} />
-             <Route path="services/beautiTOX" element ={<BeautiTOX />} />  
+             <Route path="services/beautiTOX" element ={<BeautiTOX />} />
+             <Route path="services/testosterone" element ={<Testosterone />} />
         </Routes>
 
         <footer>
