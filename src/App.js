@@ -53,7 +53,7 @@ function DropdownMenu() {
           width: "70%", 
           maxWidth: "200px", 
           
-          marginRight: "-55px",
+          marginRight: "-60px",
         }}
       >
         <option value="" disabled style={{ backgroundColor: "white", color: "black" }}>
@@ -263,9 +263,9 @@ function AboutUs() {
 
       {/* Services Section */}
       <h4 style={{ marginBottom: '5px' }}>
-        <u>
+        
           <b>Our Services</b>
-        </u>
+      
       </h4>
 
       <div style={{ lineHeight: '1.6' }}>
@@ -282,9 +282,9 @@ function AboutUs() {
 
  
       <h4>
-        <u>
+        
           <b>Why Choose Us?</b>
-        </u>
+        
       </h4>
       <div style={{ lineHeight: '1.6' }}>
         <ul style={{ listStyleType: 'disc', listStylePosition: 'inside', paddingLeft: '0' }}>
