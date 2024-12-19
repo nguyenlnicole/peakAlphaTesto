@@ -323,6 +323,22 @@ We support individuals looking to:
 <h3>📅 Book a Consultation Now
 Let us create the perfect care plan for you.</h3>
 <br></br>
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+      Let’s Explore Services!
+      </button>
 <br></br>
 <br></br>
 
@@ -449,7 +465,7 @@ function PhosphatidylcholineDeoxycholateInjections() {
           cursor: "pointer",
         }}
       >
-        Back to Services
+      Let’s Explore More!
       </button>
 
     </div>
