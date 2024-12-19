@@ -27,7 +27,7 @@ function DropdownMenu() {
 
             <img
         src="/Logo2.png"
-        alt="Logo"
+        alt="Logo2"
         style={{
           position: "absolute", 
           top: "10px", 
@@ -309,7 +309,7 @@ function AboutUs() {
 
 
 
-      <h4><b><u>Who We Serve</u></b></h4>
+      <h4><b>Who We Serve</b></h4>
 We support individuals looking to:
 <br></br><ul style={{ listStyleType: 'disc', listStylePosition: 'inside', paddingLeft: '0' }}>
 <li>Boost energy and vitality</li>
@@ -348,6 +348,13 @@ function Services() {
           >
           <br></br>  Lipotropic Injections
           </a>
+          <a
+            href="/services/beautiTOX"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  BeutiTOX
+          </a>
+
         </li>
       </ul>
     </div>
@@ -501,18 +508,70 @@ Lipotropic Injections can transform your wellness journey with the following ben
         <li>Need an energy boost to stay active and motivated.</li>
         <li>Are looking for an effective way to complement their diet and exercise plan.</li>
       </ul>
-  
-
-
-
     </div>
-
-
 );
 }
 
+function BeautiTOX() {
+  return (
+
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+       <img
+        src="/BeautiTOX.jpg" 
+        alt="BeautiTOX"
+        style={{
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
 
 
+<h1 style={{ color: "white" }}>BeautiTOX: Smooth Wrinkles and Refresh Your Look</h1>
+      <h1>Smooth Wrinkles & Refresh Your Look with Neurotoxin Treatments
+        </h1>
+        Noticing fine lines and wrinkles? Neurotoxin treatments could be the solution you’ve been 
+        <br></br>looking for! These non-surgical treatments smooth wrinkles, prevent future lines, 
+        <br></br>and even address issues like headaches and excessive sweating—all while restoring your youthful glow.
+
+<br></br>Feel confident and refreshed with neurotoxin treatments today!
+<h3>Benefits of Neurotoxin Treatments:</h3>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+
+<li>Erase Wrinkles: Smooth frown lines, crow’s feet, and forehead creases.</li>
+
+<li>Prevent Aging: Delay new wrinkles by relaxing facial muscles.</li>
+
+<li>Quick & Easy: Minimal pain, no downtime, and results in just a few days.</li>
+
+<li>Health Perks: Treat migraines, excessive sweating, and jaw clenching.</li>
+</ul>
+
+<h3>What to Expect:</h3>
+
+Before Treatment:
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<li>Stop NSAIDs and supplements a week prior.</li>
+
+<li>Avoid alcohol 24 hours before treatment.</li>
+
+<li>Eat a healthy snack (avoid caffeine) to prevent lightheadedness.</li>
+</ul>
+
+<h3>After Treatment:</h3>
+
+Results begin to appear within days and improve over time with repeated sessions.
+
+<br></br>Note: Neurotoxins are not recommended for pregnant or breastfeeding women.
+
+
+    </div>
+);
+}
 
 
 function AboutLoanDoan() {
@@ -578,6 +637,9 @@ function AboutLoanDoan() {
   );
 }
 
+
+
+
 function ContactUs() {
   const [formData, setFormData] = useState({
     fullName: "",
@@ -608,10 +670,10 @@ function ContactUs() {
       }}
     >
       <h1 style={{ color: "white", marginBottom: "20px" }}>Contact Us</h1>
-      <p style={{ marginBottom: "20px", color: "#333" }}>
+      <h1 style={{ marginBottom: "20px", color: "#333" }}>
         Schedule your appointment or contact us for more information!
-      </p>
-
+      </h1>
+     
       <div
         style={{
           maxWidth: "400px",
@@ -755,7 +817,10 @@ function ContactUs() {
             <option value="Lipotropic Injection">Lipotropic Injection</option>
             <option value="Phosphatidylcholine/Deoxycholate Injections">
               Phosphatidylcholine/Deoxycholate Injections</option>
+              <option value="BeautiTOX">BeautiTOX</option>
             <option value="Consultation">Consultation</option>
+            
+            
           </select>
 
           {/* Submit Button */}
@@ -774,8 +839,11 @@ function ContactUs() {
             }}
           >
             Submit Request
-          </button>
+          </button> 
+          
+
         </form>
+        <p>A $25 deposit is required to cover any no-show fees. Please note that the consultation is complimentary, and this deposit will be credited towards your service. </p>
       </div>
     </div>
   );
@@ -800,6 +868,7 @@ function App() {
             path="/services/phosphatidylcholine-deoxycholate-injections"
             element={<PhosphatidylcholineDeoxycholateInjections />} />
              <Route path="/services/lipotropic-injection" element={<LipotropicInjection />} />
+             <Route path="services/beautiTOX" element ={<BeautiTOX />} />  
         </Routes>
 
         <footer>
