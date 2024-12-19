@@ -516,14 +516,12 @@ Lipotropic Injections can transform your wellness journey with the following ben
         <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
         <li><b>Improves Energy</b>Detoxifies the liver and reduces fat buildup, improving overall function.</li>
         <li><b>Supports Liver Health:</b>Enhances calorie-burning potential.</li>
-        <li><b>Enhances Overall Health</b></li>
-        <li><b>CBoosts Metabolism:  </b>Enhances calorie-burning potential.</li>
-        <ul style={{ listStyleType: "circle", paddingLeft: "20px" }}>
+        <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
             <li>Promotes healthy skin, strong nails, and hair growth.</li>
             <li>Regulates cholesterol levels and estrogen balance.</li>
             <li>Prevents gallstones and supports long-term liver health.</li>
           </ul>
-      </ul>
+
 
 
 
@@ -534,6 +532,24 @@ Lipotropic Injections can transform your wellness journey with the following ben
         <li>Need an energy boost to stay active and motivated.</li>
         <li>Are looking for an effective way to complement their diet and exercise plan.</li>
       </ul>
+
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Back to Services
+      </button>
+
     </div>
 );
 }
