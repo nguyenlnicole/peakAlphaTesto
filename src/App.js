@@ -618,6 +618,24 @@ Neurotoxin treatments are safe and effective for most people, but they may not b
 <br></br>will help determine if this treatment is the best option for your goals.
 <br></br>
 <br></br><b>Note: Neurotoxins are not recommended for pregnant or breastfeeding women.</b>
+<br></br>
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Back to Services
+      </button>
+      <br></br>
 
 
     </div>
