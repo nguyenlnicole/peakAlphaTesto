@@ -26,13 +26,13 @@ function DropdownMenu() {
     >
 
             <img
-        src="/Logo.png"
+        src="/Logo2.png"
         alt="Logo"
         style={{
           position: "absolute", 
           top: "10px", 
           left: "10px", 
-          width: "50px", 
+          width: "200px", 
           height: "auto",
         }}
       />
