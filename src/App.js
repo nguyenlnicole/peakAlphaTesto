@@ -570,10 +570,19 @@ Before Treatment:
 </ul>
 
 <h3>After Treatment:</h3>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<li>Results will start to appear within a few days and continue to improve over the next week.</li>
+<li>Avoid rubbing or massaging the treated areas for the first 24 hours to allow the neurotoxin to settle properly.</li>
+<li>Repeated sessions will enhance and prolong the benefits over time</li>
+</ul>
 
-Results begin to appear within days and improve over time with repeated sessions.
-
-<br></br>Note: Neurotoxins are not recommended for pregnant or breastfeeding women.
+<h3>Is Neurotoxin Treatment Right for You?</h3>
+Neurotoxin treatments are safe and effective for most people, but they may not be 
+<br></br>suitable for everyone. They are not recommended for pregnant or breastfeeding women, 
+<br></br>or those with certain medical conditions. A consultation with a qualified provider 
+<br></br>will help determine if this treatment is the best option for your goals.
+<br></br>
+<br></br><b>Note: Neurotoxins are not recommended for pregnant or breastfeeding women.</b>
 
 
     </div>
@@ -604,6 +613,44 @@ function Testosterone() {
         Do you feel tired, unmotivated, or not quite like yourself? Many men experience these changes with age, 
         <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
         <br></br>the solution to restore your vitality and confidence.
+
+       <h3> What Is Testosterone Therapy?</h3>
+Testosterone is essential for energy, strength, mood, and libido. As men age, testosterone levels naturally decline, 
+<br></br>leading to fatigue, muscle loss, brain fog, and reduced libido. Testosterone therapy is a safe, doctor-supervised treatment 
+<br></br>designed to restore optimal hormone levels and help you feel your best again.
+
+<h3>Benefits of Testosterone Therapy</h3>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<li><b>Restore Energy</b>
+If you’re constantly feeling drained or sluggish, testosterone therapy can help. It works to 
+<br></br>boost your energy levels, helping you feel awake, alert, and ready to take on the challenges of each day.
+</li>
+<li><b>Boost Strength & Fitness</b>
+Struggling with workouts or noticing a loss of muscle mass? Testosterone therapy helps improve 
+<br></br>your muscle tone, endurance, and overall physical performance, making it easier to stay fit, active, and strong.
+</li>
+<li><b>Enhance Mood & Mental Clarity</b>
+Low testosterone can lead to irritability, brain fog, or even depression. Testosterone therapy 
+<br></br>helps stabilize your mood, clear mental fog, and restore your focus, helping you feel sharp and balanced.
+</li>
+<li><b>Reignite Libido</b>
+A drop in libido can affect your relationships and confidence. Testosterone therapy can restore 
+<br></br>your desire, reigniting your passion and helping you feel more connected to your partner.
+</li>
+<li><b>Combat the Effects of Aging</b>
+As testosterone levels decline, aging takes its toll on your body, from reduced bone density to a 
+<br></br>slower metabolism. Testosterone therapy helps counter these effects, promoting overall health and vitality.
+</li>
+</ul>
+
+<h3>Who Can Benefit from Testosterone Therapy?</h3>
+If you’re feeling less energetic, finding it harder to build or maintain muscle, struggling with 
+<br></br>mood changes, or experiencing a drop in intimacy, testosterone therapy might be the right choice for you. 
+<br></br>By restoring balance, this treatment can help you regain control over your body and mind, letting you live life to the fullest.
+
+<h3>Take Control of Your Health</h3>
+Stop letting low testosterone hold you back. With a simple consultation, we’ll evaluate 
+<br></br>your symptoms, discuss your goals, and create a personalized treatment plan to help you regain your energy, strength, and confidence.
 
 
 
