@@ -379,7 +379,7 @@ function Services() {
           </a>
 
           <a
-            href="/services/Testosterone"
+            href="/services/amino-injections"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
           <br></br>  Amino Injections
@@ -750,6 +750,95 @@ Stop letting low testosterone hold you back. With a simple consultation, we’ll
     </div>
 );
 }
+
+
+function AminoInjections() {
+  return (
+
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+       <img
+        src="/Testo.jpg" 
+        alt="Testosterone"
+        style={{
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
+
+
+<h1 style={{ color: "white" }}>Support Your Health & Wellness with Amino Injections</h1>
+      <h1>Boost Your Energy, Circulation, and Cardiovascular Health
+        </h1>
+        Are you ready to take your health routine to the next level? Amino Injections provide a simple,        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
+        <br></br>the solution to restore your vitality and confidence.
+
+       <h3> Why Amino Acids Are Essential</h3>
+       Amino acids are the building blocks of proteins and vital to many bodily functions. While some are
+       <br></br>essential (you must obtain them through diet), others are conditionally essential, meaning  
+       <br></br>your body needs extra support during times of stress or illness. That’s where Amino 
+       <br></br>Injections come in, delivering targeted amino acid support for better health.
+
+
+<h3>Benefits of Testosterone Therapy</h3>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<li><b>Restore Energy</b>
+If you’re constantly feeling drained or sluggish, testosterone therapy can help. It works to 
+<br></br>boost your energy levels, helping you feel awake, alert, and ready to take on the challenges of each day.
+</li>
+<li><b>Boost Strength & Fitness</b>
+Struggling with workouts or noticing a loss of muscle mass? Testosterone therapy helps improve 
+<br></br>your muscle tone, endurance, and overall physical performance, making it easier to stay fit, active, and strong.
+</li>
+<li><b>Enhance Mood & Mental Clarity</b>
+Low testosterone can lead to irritability, brain fog, or even depression. Testosterone therapy 
+<br></br>helps stabilize your mood, clear mental fog, and restore your focus, helping you feel sharp and balanced.
+</li>
+<li><b>Reignite Libido</b>
+A drop in libido can affect your relationships and confidence. Testosterone therapy can restore 
+<br></br>your desire, reigniting your passion and helping you feel more connected to your partner.
+</li>
+<li><b>Combat the Effects of Aging</b>
+As testosterone levels decline, aging takes its toll on your body, from reduced bone density to a 
+<br></br>slower metabolism. Testosterone therapy helps counter these effects, promoting overall health and vitality.
+</li>
+</ul>
+
+<h3>Who Can Benefit from Testosterone Therapy?</h3>
+If you’re feeling less energetic, finding it harder to build or maintain muscle, struggling with 
+<br></br>mood changes, or experiencing a drop in intimacy, testosterone therapy might be the right choice for you. 
+<br></br>By restoring balance, this treatment can help you regain control over your body and mind, letting you live life to the fullest.
+
+<h3>Take Control of Your Health</h3>
+Stop letting low testosterone hold you back. With a simple consultation, we’ll evaluate 
+<br></br>your symptoms, discuss your goals, and create a personalized treatment plan to help you regain your energy, strength, and confidence.
+<br></br>
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Let’s Explore More!
+      </button>
+      <br></br>
+
+
+    </div>
+);
+}
+
 
 
 
