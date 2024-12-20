@@ -783,28 +783,26 @@ function AminoInjections() {
        <br></br>Injections come in, delivering targeted amino acid support for better health.
 
 
-<h3>Benefits of Testosterone Therapy</h3>
+<h3>What Makes Amino Injections So Powerful?</h3>
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<li><b>Restore Energy</b>
-If you’re constantly feeling drained or sluggish, testosterone therapy can help. It works to 
-<br></br>boost your energy levels, helping you feel awake, alert, and ready to take on the challenges of each day.
+<li><b>Improves Cardiovascular Health </b>
+Amino injections support nitric oxide production, which promotes .
+<br></br>vasodilation (widening of blood vessels) This improves circulation, lowers blood pressure, and strengthens heart health
 </li>
-<li><b>Boost Strength & Fitness</b>
-Struggling with workouts or noticing a loss of muscle mass? Testosterone therapy helps improve 
-<br></br>your muscle tone, endurance, and overall physical performance, making it easier to stay fit, active, and strong.
+<li><b>Enhances Blood Flow </b>
+ Better circulation means more efficient blood flow throughout your body. This helps you 
+<br></br>feel energized and supports faster muscle recovery, especially after exercise.
 </li>
-<li><b>Enhance Mood & Mental Clarity</b>
-Low testosterone can lead to irritability, brain fog, or even depression. Testosterone therapy 
-<br></br>helps stabilize your mood, clear mental fog, and restore your focus, helping you feel sharp and balanced.
+<li><b>Supports Longevity </b>
+By boosting blood flow and cardiovascular function, Amino injections promote overall 
+<br></br>health and longevity, helping you stay active and youthful.
+
 </li>
-<li><b>Reignite Libido</b>
-A drop in libido can affect your relationships and confidence. Testosterone therapy can restore 
-<br></br>your desire, reigniting your passion and helping you feel more connected to your partner.
+<li><b>Boosts General Wellness </b>
+Amino acids aid in producing hormones and neurotransmitters that regulate mood, energy,
+<br></br>and mental clarity. Amino injections help maintain balance, keeping your body performing at its best
 </li>
-<li><b>Combat the Effects of Aging</b>
-As testosterone levels decline, aging takes its toll on your body, from reduced bone density to a 
-<br></br>slower metabolism. Testosterone therapy helps counter these effects, promoting overall health and vitality.
-</li>
+
 </ul>
 
 <h3>Who Can Benefit from Testosterone Therapy?</h3>
