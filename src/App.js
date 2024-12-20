@@ -378,6 +378,13 @@ function Services() {
           <br></br>  Testosterone
           </a>
 
+          <a
+            href="/services/Testosterone"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  Amino Injections
+          </a>
+
         </li>
       </ul>
     </div>
@@ -993,6 +1000,7 @@ function ContactUs() {
               Phosphatidylcholine/Deoxycholate Injections</option>
               <option value="BeautiTOX">BeautiTOX</option>
             <option value="Testosterone  ">Testosterone</option>
+            <option value="Testosterone  ">Amino Injections</option>
             <option value="Consultation">Consultation</option>
 
 
@@ -1046,6 +1054,7 @@ function App() {
              <Route path="/services/lipotropic-injection" element={<LipotropicInjection />} />
              <Route path="services/beautiTOX" element ={<BeautiTOX />} />
              <Route path="services/testosterone" element ={<Testosterone />} />
+             <Route path="services/amino-injections" element ={<AminoInjections />} />
         </Routes>
 
         <footer>
