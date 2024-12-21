@@ -1109,7 +1109,7 @@ function ContactUs() {
               width: "100%",
               padding: "10px",
               borderRadius: "5px",
-              backgroundColor: "#007BFF",
+              backgroundColor: "#78A2CC",
               color: "white",
               border: "none",
               cursor: "pointer",
