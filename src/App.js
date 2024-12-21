@@ -1094,8 +1094,8 @@ function ContactUs() {
             <option value="Phosphatidylcholine/Deoxycholate Injections">
               Phosphatidylcholine/Deoxycholate Injections</option>
               <option value="BeautiTOX">BeautiTOX</option>
-            <option value="Testosterone  ">Testosterone</option>
-            <option value="Testosterone  ">Amino Injections</option>
+            <option value="Testosterone">Testosterone</option>
+            <option value="Amino Injection">Amino Injections</option>
             <option value="Consultation">Consultation</option>
 
 
