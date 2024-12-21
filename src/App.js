@@ -805,7 +805,17 @@ Amino acids aid in producing hormones and neurotransmitters that regulate mood, 
 
 </ul>
 <h3>Is Amino Right for You?</h3>
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}></ul>
+Amino injections are ideal for anyone looking to:
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<li>Improve cardiovascular health and blood flow.</li>
+<li>Enhance exercise performance and recovery.</li>
+<li>Support overall wellness and longevity.</li>
+<li>Maintain healthy blood pressure and energy levels</li>
+
+Whether you're an athlete aiming to recover faster or simply want to feel your best every day, 
+<br></br>Amino injections are a non-invasive, effective addition to your wellness routine.
+</ul>
+
 
 <button
 
