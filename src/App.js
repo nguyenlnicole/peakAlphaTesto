@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, useNavigate } from 'react-router-dom';
 import './App.css';
-
 
 function DropdownMenu() {
   const navigate = useNavigate();
@@ -17,42 +16,41 @@ function DropdownMenu() {
     <div
       style={{
         display: "flex",
-        justifyContent: "flex-end", 
-        alignItems: "center", 
-        padding: "10px 20px", 
+        justifyContent: "flex-end",
+        alignItems: "center",
+        padding: "10px 20px",
         boxSizing: "border-box",
-        width: "80%", 
+        width: "80%",
       }}
     >
+      {/* Link for the logo */}
+      <Link to="/" style={{ position: "absolute", top: "10px", left: "10px" }}>
+        <img
+          src="/Logo2.jpg"
+          alt="Logo2"
+          style={{
+            width: "200px",
+            height: "auto",
+            cursor: "pointer", // Makes the logo look clickable
+          }}
+        />
+      </Link>
 
-            <img
-        src="/Logo2.jpg"
-        alt="Logo2"
-        style={{
-          position: "absolute", 
-          top: "10px", 
-          left: "10px", 
-          width: "200px", 
-          height: "auto",
-        }}
-      />
-
-
+      {/* Dropdown for navigation */}
       <select
         onChange={handleChange}
         defaultValue=""
         style={{
-          backgroundColor: "#AEC6CF", 
-          color: "gray", 
+          backgroundColor: "#AEC6CF",
+          color: "gray",
           padding: "10px",
           borderRadius: "6px",
           border: "1px solid #AEC6CF",
-          fontSize: "clamp(1.5rem, 2.5vw, 1.5rem)", 
+          fontSize: "clamp(1.5rem, 2.5vw, 1.5rem)",
           cursor: "pointer",
           outline: "none",
-          width: "70%", 
-          maxWidth: "200px", 
-          
+          width: "70%",
+          maxWidth: "200px",
           marginRight: "-60px",
         }}
       >
