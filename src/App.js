@@ -805,6 +805,7 @@ Amino acids aid in producing hormones and neurotransmitters that regulate mood, 
 
 </ul>
 <h3>Is Amino Right for You?</h3>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}></ul>
 
 <button
 
