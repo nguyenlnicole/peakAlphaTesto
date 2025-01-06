@@ -1286,54 +1286,47 @@ function B12Injections() {
         }}
       />
       <h1 style={{ color: "white" }}>
-      Enhance Your Sexual Health and Pleasure with Our Specially Formulated Sexual Cream</h1>
-      <h1>Reignite Desire, Boost Intimacy, and Experience More Pleasure
+      Reclaim Your Energy and Vitality with B12 Injections</h1>
+      <h1>Boost Your Energy, Focus, and Well-Being
         </h1>
-        As women age or go through life changes, it’s common to experience reduced sexual drive, discomfort during intimacy,        <br></br>have to live with. If you’re struggling with ED, know that effective, non-invasive treatments are available to help
-        <br></br>or a loss of sensation. Our Sexual Cream is designed to address these concerns, helping you rediscover intimacy, enhance
-        <br></br>sexual pleasure, and reconnect with your partner.
+        Do you often feel tired, mentally drained, or unable to focus? You’re not alone. Many people unknowingly suffer        
+        <br></br>from a B12 deficiency, which can leave you feeling sluggish and mentally foggy. Vitamin B12 is essential for
+        <br></br>red blood cell production, nerve function, and metabolism, but factors like poor diet, age, and certain medications can deplete your levels.
+        <br></br>
+        <br></br>Our B12 injections provide a fast, effective way to restore balance, delivering the vitamin directly into your bloodstream for
+        <br></br>maximum absorption and immediate results.
 
-      <h3>What is Sexual Cream?</h3>
-      Our Sexual Cream is a topical solution specially crafted to heighten female sexual pleasure. This unique blend of ingredients works to:      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li>Increase blood flow</li>
-        <li>Enhance sensation</li>
-        <li>Boost sexual desire </li>
-        Whether you want to improve intimacy, experience heightened orgasms, or reconnect with your partner, our cream is here to help.
+      <h3>Key Benefits of B12 Injections</h3>
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Increased Energy</b> - Say goodbye to fatigue! B12 injections give you the boost you need to power through your day, whether you’re managing work, family, or personal goals.</li>
+        <li><b>Enhanced Mental Focus & Clarity </b> - Improve concentration, mental sharpness, and memory with regular B12 injections, ensuring you stay at your best. </li>
+        <li><b>Mood Boost</b> - Support serotonin production, the “feel-good” hormone, to improve emotional well-being and reduce stress levels.</li>
+        <li><b>Improved Immune Function:</b>  - Strengthen your immune system, helping your body fight off illnesses and infections more effectively.</li>
+        <li><b>Supports Healthy Metabolism</b> - Convert food into energy more efficiently, making it easier to maintain a healthy weight and stay energized.</li>
+
       </ul>
 
 
 
-      <h3>How Does It Work?</h3>
+      <h3>Who Should Consider B12 Injections?</h3>
       Our cream combines potent ingredients that target various aspects of sexual health:
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Testosterone:</b> Improves sexual function, increases libido, and supports vitality.</li>
-        <li><b>L-Arginine: </b> Boosts blood flow to the genital area, enhancing arousal and sensitivity. </li>
-        <li><b>Pentoxifylline:</b> Enhances circulation for better lubrication and increased pleasure.</li>
-        <li><b>Sildenafil:</b>  Improves clitoral blood flow, intensifying stimulation and orgasms.</li>
-        <li><b>Niacin (Vitamin B3):</b> Supports blood flow to genitalia for easier arousal and satisfaction.</li>
-        <li><b>Oxytocin:</b> Strengthens emotional bonding and sexual receptiveness.</li>
-        Each cream is customized with a specific blend tailored to your needs for maximum effectiveness.
-
+        <li><b>Busy Professionals:</b> If your demanding lifestyle leaves you feeling drained, a B12 boost can keep you sharp and energized.</li>
+        <li><b>Athletes & Fitness Enthusiasts: </b> Enhance performance, support recovery, and maintain energy levels during intense training. </li>
+        <li><b>Anyone Feeling Sluggish:</b> If you’re dealing with brain fog or low energy, B12 injections can help you feel like yourself again.</li>
+        <li><b>People with B12 Deficiency</b> Ideal for individuals with medical conditions, specific diets (like vegan or vegetarian), or medications that lower B12 levels.</li>
 
       </ul>
     
 
       <h3>Benefits of Our Sexual Cream</h3>
-      <br></br><b>✔ Increase Libido </b>- Rediscover your sexual desire and enjoy a more fulfilling intimate life.
-        <br></br><b>✔ Improve Sexual Receptiveness </b>- Experience enhanced stimulation and responsiveness for more enjoyable intimacy.
-        <br></br><b>✔ Increase Vaginal Blood Flow </b>- Improved circulation ensures heightened sensation and easier arousal.
-        <br></br><b>✔ Enhance Bonding and Intimacy </b>- Strengthen emotional connections with your partner through oxytocin’s effects.
-        <br></br><b>✔ Intensify Orgasms </b>- Enjoy stronger, more satisfying orgasms with enhanced sensitivity.
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Personalized Care:</b> Our team provides tailored treatments based on your unique needs and health goals.</li>
+        <li><b>Fast, Effective Results: </b> Unlike oral supplements, injections deliver B12 directly into your bloodstream for maximum absorption.</li>
+        <li><b>Comfortable Environment:</b> Our clinic offers a supportive, relaxing space for your treatments.</li>
+        Whether you’re looking to boost energy, sharpen focus, or improve overall health, our B12 injections provide a simple and effective solution to help you feel your best.
 
-
-<h3>Why Choose Our Clinic?</h3>
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Tailored Solutions: </b> Customized blends to meet your specific needs and goals.</li>
-        <li><b>Safe and Effective:</b> Formulated with proven, clinically supported ingredients.</li>
-        <li><b>Confidential Care</b> Compassionate and discreet support for your sexual wellness journey.</li>
-          </ul>
-
+      </ul>
 
 
 <button
