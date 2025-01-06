@@ -995,48 +995,53 @@ function Sermorelin() {
 
 
 
-      <h3>How Lipotropic Injections Work</h3>
-      Our injections are powered by key compounds like Methionine and Choline:
+      <h3>Why Consider Sermorelin?</h3>
+      Sermorelin offers a wide range of benefits that can help you regain vitality and improve overall well-being.
+      <br></br><b>Key Benefits</b>
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Methionine:</b> A powerful agent that aids in fat mobilization and detoxifies the liver.</li>
-        <li><b>Choline: </b>Helps break down fats and ensures healthy liver function.</li>
-      </ul>
-      Together, these compounds deliver maximum fat-burning and detoxifying benefits.
-
-
-      <h3>Why Choose Lipotropic Injections?</h3>
-      While lipotropic compounds are available as supplements, injections offer unique advantages:
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Better Absorption:</b> Directly absorbed into the bloodstream for maximum impact.</li>
-        <li><b>Faster Results: </b>Notice improvements sooner due to higher bioavailability.</li>
-        <li><b>Ideal for Absorption Issues:</b>Perfect for individuals with gastrointestinal conditions that may prevent proper nutrient absorption.</li>
+        <li><b>Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.</li>
+        <li><b>Supports Muscle Growth & Fat Loss </b>- Build lean muscle and reduce stubborn fat for a more toned physique.</li>
+        <li><b>Improves Recovery Time </b>- Speed up recovery after workouts, reduce muscle soreness, and enhance performance.</li>
+        <li><b>Enhances Sleep Quality </b>- Enjoy deeper, more restorative sleep, leaving you refreshed and focused.</li>
+        <li><b>Promotes Healthy Aging </b>- Improve skin elasticity, joint health, and overall vitality to age gracefully.</li>
+        <li><b>Safe and Natural </b>- Stimulates your body’s natural GH production, avoiding the risks of synthetic treatments.</li>
       </ul>
 
-<h3>Benefits of Lipotropic Injections</h3>
-Lipotropic Injections can transform your wellness journey with the following benefits:
+
+
+      <h3>Additional Benefits</h3>
+    
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li>Improved immune function</li>
+        <li>Increased libido</li>
+        <li>Healthier, more youthful-looking skin</li>
+      </ul>
+
+<h3>What to Expect with Sermorelin Therapy</h3>
+Sermorelin provides noticeable improvements within weeks of use:
 
 
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Supports Fat Loss:</b>Helps your body metabolize fat more efficiently.</li>
-        <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
-        <li><b>Improves Energy</b>Detoxifies the liver and reduces fat buildup, improving overall function.</li>
-        <li><b>Supports Liver Health:</b>Enhances calorie-burning potential.</li>
-        <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
-            <li>Promotes healthy skin, strong nails, and hair growth.</li>
-            <li>Regulates cholesterol levels and estrogen balance.</li>
-            <li>Prevents gallstones and supports long-term liver health.</li>
+        <li><b>Week 1:</b>Better sleep quality</li>
+        <li><b>Week 2:</b>Faster recovery from workouts</li>
+        <li><b>Week 4:</b> Enhanced mental clarity</li>
+        <li><b>Week 6:</b>Improved skin elasticity</li>
+        <li><b>Week 8:</b>Noticeable changes in body composition</li>
           </ul>
 
 
 
 
-      <h3>Is Lipotropic Right for You?</h3>
-      Lipotropic Injections are perfect for those who:
+      <h3>Is Sermorelin Right for You?</h3>
+      Sermorelin is ideal for individuals seeking to:
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li>Struggle with stubborn fat in specific areas. </li>
+        <li>Regain energy and vitality </li>
         <li>Need an energy boost to stay active and motivated.</li>
-        <li>Are looking for an effective way to complement their diet and exercise plan.</li>
+        <li>Slow down the effects of aging</li>
+        <li>Support overall wellness</li>
       </ul>
+
+
 
 <button
 
