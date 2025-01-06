@@ -1096,7 +1096,7 @@ function ErectileDysfunction() {
     
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
        <img
-        src="/ErectileDysfunction.jpg" 
+        src="/ED.jpg" 
         alt="Erectile Dysfunction "
         style={{
           width: "100%", 
