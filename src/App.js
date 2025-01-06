@@ -963,6 +963,102 @@ Fillers work for all age groups—whether you’re in your 30s aiming to prevent
 );
 }
 
+function Sermorelin() {
+  return (
+
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+       <img
+        src="/Sermorelin.jpg" 
+        alt="Sermorelin "
+        style={{
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
+      <h1 style={{ color: "white" }}>Reignite Your Energy & Vitality with Sermorelin</h1>
+      <h1>Unlock Your Potential with Growth Hormone Therapy
+        </h1>
+        Are you feeling tired, struggling to maintain muscle tone, or noticing a slower recovery from workout
+        <br></br>or daily activities? These changes may be due to the natural decline in growth hormone (GH) levels as we age. 
+        <br></br>Sermorelin therapy can help restore your balance, boost your energy, and rejuvenate your health.
+
+
+      <h3>What Is Sermorelin?</h3>
+      Sermorelin is a peptide therapy that works with your body’s natural processes to stimulate the pituitary gland,
+      <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
+      <br></br>and fat loss safely and naturally. This non-invasive treatment is designed to help you feel younger, 
+      <br></br>more energized, and ready to take on life’s challenges.
+
+
+
+      <h3>How Lipotropic Injections Work</h3>
+      Our injections are powered by key compounds like Methionine and Choline:
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Methionine:</b> A powerful agent that aids in fat mobilization and detoxifies the liver.</li>
+        <li><b>Choline: </b>Helps break down fats and ensures healthy liver function.</li>
+      </ul>
+      Together, these compounds deliver maximum fat-burning and detoxifying benefits.
+
+
+      <h3>Why Choose Lipotropic Injections?</h3>
+      While lipotropic compounds are available as supplements, injections offer unique advantages:
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Better Absorption:</b> Directly absorbed into the bloodstream for maximum impact.</li>
+        <li><b>Faster Results: </b>Notice improvements sooner due to higher bioavailability.</li>
+        <li><b>Ideal for Absorption Issues:</b>Perfect for individuals with gastrointestinal conditions that may prevent proper nutrient absorption.</li>
+      </ul>
+
+<h3>Benefits of Lipotropic Injections</h3>
+Lipotropic Injections can transform your wellness journey with the following benefits:
+
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Supports Fat Loss:</b>Helps your body metabolize fat more efficiently.</li>
+        <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
+        <li><b>Improves Energy</b>Detoxifies the liver and reduces fat buildup, improving overall function.</li>
+        <li><b>Supports Liver Health:</b>Enhances calorie-burning potential.</li>
+        <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
+            <li>Promotes healthy skin, strong nails, and hair growth.</li>
+            <li>Regulates cholesterol levels and estrogen balance.</li>
+            <li>Prevents gallstones and supports long-term liver health.</li>
+          </ul>
+
+
+
+
+      <h3>Is Lipotropic Right for You?</h3>
+      Lipotropic Injections are perfect for those who:
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li>Struggle with stubborn fat in specific areas. </li>
+        <li>Need an energy boost to stay active and motivated.</li>
+        <li>Are looking for an effective way to complement their diet and exercise plan.</li>
+      </ul>
+
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Let’s Explore More!
+      </button>
+
+    </div>
+);
+}
+
 
 
 
