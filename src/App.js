@@ -31,7 +31,7 @@ function DropdownMenu() {
           style={{
             width: "200px",
             height: "auto",
-            cursor: "pointer", // Makes the logo look clickable
+            cursor: "pointer",
           }}
         />
       </Link>
@@ -396,11 +396,19 @@ function Services() {
           >
           <br></br>  Sermorelin
           </a>
+
           <a
             href="/services/erectile-dysfunction"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
           <br></br>  Erectile Dysfunction
+          </a>
+
+          <a
+            href="/services/sexual-cream"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  Sexual Cream
           </a>
 
 
@@ -1166,7 +1174,96 @@ We understand that ED can be a sensitive and frustrating issue. Seeking treatmen
 );
 }
 
+function SexualCream() {
+  return (
 
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+       <img
+        src="/ErectileDysfunction.jpg" 
+        alt="Erectile Dysfunction "
+        style={{
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
+      <h1 style={{ color: "white" }}>
+      Enhance Your Sexual Health and Pleasure with Our Specially Formulated Sexual Cream</h1>
+      <h1>Take Control of Your Sexual Health Today
+        </h1>
+        Erectile dysfunction (ED) is a common concern that affects millions of men, but it’s not something you
+        <br></br>have to live with. If you’re struggling with ED, know that effective, non-invasive treatments are available to help
+        <br></br>you regain your confidence, vitality, and intimacy.
+
+      <h3>What is Erectile Dysfunction?</h3>
+      ED is the inability to achieve or maintain an erection sufficient for sexual activity. It can be caused by various factors, including:      <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li>Age</li>
+        <li>Stress</li>
+        <li>Hormonal imbalances </li>
+        <li>Relationship issues</li>
+        <li>Underlying medical conditions like cardiovascular disease or diabetes</li>
+        While ED is a natural part of aging for some, it can also signal serious health issues. Fortunately, ED is treatable, and you don’t have to suffer in silence.
+      </ul>
+
+
+
+      <h3>Benefits of ED Treatment</h3>
+      
+        <br></br><b>✔ Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.
+        <br></br><b>✔ Improved Sexual Performance </b>- Achieve and maintain stronger, longer-lasting erections, boosting your confidence and performance.
+        <br></br><b>✔ Enhanced Relationship Satisfaction </b>- Overcoming ED can restore intimacy and deepen your connection with your partner.
+        <br></br><b>✔ Renewed Energy & Vitality </b>- Successful ED treatment can help you feel more energetic and confident in all areas of life.
+        <br></br><b>✔ Customized Care </b>- Our team tailors treatment plans to your unique needs and lifestyle, ensuring the best possible results.
+    
+
+
+
+      <h3>AHow We Treat Erectile Dysfunction</h3>
+      We offer a variety of advanced, effective solutions for ED, including:
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>P-Shot® (Priapus Shot)</b> - A non-surgical procedure that uses your own blood platelets to stimulate tissue growth and improve blood flow to the penis, enhancing erectile function.</li>
+        <li><b>Shockwave Therapy</b> - Low-intensity shockwave therapy is a non-invasive treatment that stimulates blood flow, improves erectile function, and promotes long-term results.</li>
+        <li><b>Hormone Therapy</b> - If low testosterone is contributing to your ED, our hormone replacement therapy can restore balance and boost libido and performance.</li>
+        <li><b>Prescription Medications</b> - Medications like sildenafil (Viagra) or tadalafil (Cialis) can be prescribed to help you achieve and maintain erections.</li>
+      </ul>
+
+<h3>Why Choose Our Clinic?</h3>
+We understand that ED can be a sensitive and frustrating issue. Seeking treatment is the first step toward reclaiming your confidence and sexual health. At our clinic, we provide:
+
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Discreet, Compassionate Care </b> - Your privacy and comfort are our top priorities.</li>
+        <li><b>Personalized Treatment Plans</b> - Every man’s situation is unique, and our team will create a plan tailored to your needs.</li>
+        <li><b>Advanced Medical Technology</b> - We use the latest treatments to ensure effective, long-lasting results.</li>
+       
+          </ul>
+
+
+
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Let’s Explore More!
+      </button>
+
+    </div>
+);
+}
 
 
 
@@ -1416,9 +1513,10 @@ function ContactUs() {
               <option value="BeautiTOX">BeautiTOX</option>
             <option value="Testosterone">Testosterone</option>
             <option value="Amino Injection">Amino Injections</option>
-            <option value="Amino Injection">Fillers</option>
-            <option value="Amino Injection">Sermorelin</option>
+            <option value="Fillers">Fillers</option>
+            <option value="Sermorelin">Sermorelin</option>
             <option value="Erectile Dysfunction">Erectile Dysfunction</option>
+            <option value="Sexual Cream">Sexual Cream</option>
             <option value="Consultation">Consultation</option>
             
 
@@ -1477,6 +1575,7 @@ function App() {
              <Route path="services/fillers" element ={<Fillers />} />
              <Route path="services/sermorelin" element ={<Sermorelin />} />
              <Route path="services/erectile-dysfunction" element ={<ErectileDysfunction />} />
+             <Route path="services/sexual-cream" element ={<SexualCream />} />
         </Routes>
 
         <footer>
