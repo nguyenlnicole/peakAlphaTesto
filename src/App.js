@@ -865,8 +865,8 @@ function Fillers() {
       />
 
 
-<h1 style={{ color: "white" }}>Support Your Health & Wellness with Amino Injections</h1>
-      <h1>Boost Your Energy, Circulation, and Cardiovascular Health
+<h1 style={{ color: "white" }}>Enhance Your Natural Beauty with Fillers</h1>
+      <h1>Achieve a Refreshed, Rejuvenated Look
         </h1>
         Are you ready to take your health routine to the next level? Amino Injections provide a simple,        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
         <br></br>the solution to restore your vitality and confidence.
