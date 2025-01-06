@@ -814,7 +814,7 @@ Amino injections are ideal for anyone looking to:
 Whether you're an athlete aiming to recover faster or simply want to feel your best every day, 
 <br></br>Amino injections are a non-invasive, effective addition to your wellness routine.
 </ul>
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<ul>
 Benefits at a Glance
 <li>✔ Improved circulation and heart health</li>
 <li>✔ Enhanced energy and stamina</li>
@@ -845,6 +845,102 @@ Benefits at a Glance
 );
 }
 
+
+
+function Fillers() {
+  return (
+
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+       <img
+        src="/Fillers.jpg" 
+        alt="fillers"
+        style={{
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
+
+
+<h1 style={{ color: "white" }}>Support Your Health & Wellness with Amino Injections</h1>
+      <h1>Boost Your Energy, Circulation, and Cardiovascular Health
+        </h1>
+        Are you ready to take your health routine to the next level? Amino Injections provide a simple,        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
+        <br></br>the solution to restore your vitality and confidence.
+
+       <h3> Why Amino Acids Are Essential</h3>
+       Amino acids are the building blocks of proteins and vital to many bodily functions. While some are
+       <br></br>essential (you must obtain them through diet), others are conditionally essential, meaning  
+       <br></br>your body needs extra support during times of stress or illness. That’s where Amino 
+       <br></br>Injections come in, delivering targeted amino acid support for better health.
+
+
+<h3>What Makes Amino Injections So Powerful?</h3>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<li><b>Improves Cardiovascular Health </b>
+Amino injections support nitric oxide production, which promotes .
+<br></br>vasodilation (widening of blood vessels) This improves circulation, lowers blood pressure, and strengthens heart health
+</li>
+<li><b>Enhances Blood Flow </b>
+ Better circulation means more efficient blood flow throughout your body. This helps you 
+<br></br>feel energized and supports faster muscle recovery, especially after exercise.
+</li>
+<li><b>Supports Longevity </b>
+By boosting blood flow and cardiovascular function, Amino injections promote overall 
+<br></br>health and longevity, helping you stay active and youthful.
+
+</li>
+<li><b>Boosts General Wellness </b>
+Amino acids aid in producing hormones and neurotransmitters that regulate mood, energy,
+<br></br>and mental clarity. Amino injections help maintain balance, keeping your body performing at its best
+</li>
+
+</ul>
+<h3>Is Amino Right for You?</h3>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+Amino injections are ideal for anyone looking to:
+<li>Improve cardiovascular health and blood flow.</li>
+<li>Enhance exercise performance and recovery.</li>
+<li>Support overall wellness and longevity.</li>
+<li>Maintain healthy blood pressure and energy levels</li>
+
+Whether you're an athlete aiming to recover faster or simply want to feel your best every day, 
+<br></br>Amino injections are a non-invasive, effective addition to your wellness routine.
+</ul>
+<ul>
+Benefits at a Glance
+<li>✔ Improved circulation and heart health</li>
+<li>✔ Enhanced energy and stamina</li>
+<li>✔ Faster recovery after workouts</li>
+<li>✔ Boosted overall health and longevity</li>
+<li>✔ Simple, non-invasive treatments</li>
+</ul>
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Let’s Explore More!
+      </button>
+      <br></br>
+
+
+    </div>
+);
+}
 
 
 
