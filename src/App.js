@@ -396,6 +396,13 @@ function Services() {
           >
           <br></br>  Sermorelin
           </a>
+          <a
+            href="/services/erectile-dysfunction"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  Erectile Dysfunction
+          </a>
+
 
         </li>
       </ul>
@@ -1068,6 +1075,111 @@ Sermorelin provides noticeable improvements within weeks of use:
 
 
 
+function ErectileDysfunction() {
+  return (
+
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+       <img
+        src="/ErectileDysfunction.jpg" 
+        alt="Erectile Dysfunction "
+        style={{
+          width: "100%", 
+          height: "auto", 
+          maxWidth: "800px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
+      <h1 style={{ color: "white" }}>Reignite Your Energy & Vitality with Sermorelin</h1>
+      <h1>Unlock Your Potential with Growth Hormone Therapy
+        </h1>
+        Are you feeling tired, struggling to maintain muscle tone, or noticing a slower recovery from workout
+        <br></br>or daily activities? These changes may be due to the natural decline in growth hormone (GH) levels as we age. 
+        <br></br>Sermorelin therapy can help restore your balance, boost your energy, and rejuvenate your health.
+
+
+      <h3>What Is Sermorelin?</h3>
+      Sermorelin is a peptide therapy that works with your body’s natural processes to stimulate the pituitary gland,
+      <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
+      <br></br>and fat loss safely and naturally. This non-invasive treatment is designed to help you feel younger, 
+      <br></br>more energized, and ready to take on life’s challenges.
+
+
+
+      <h3>Why Consider Sermorelin?</h3>
+      Sermorelin offers a wide range of benefits that can help you regain vitality and improve overall well-being.
+      <br></br><b>Key Benefits</b>
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.</li>
+        <li><b>Supports Muscle Growth & Fat Loss </b>- Build lean muscle and reduce stubborn fat for a more toned physique.</li>
+        <li><b>Improves Recovery Time </b>- Speed up recovery after workouts, reduce muscle soreness, and enhance performance.</li>
+        <li><b>Enhances Sleep Quality </b>- Enjoy deeper, more restorative sleep, leaving you refreshed and focused.</li>
+        <li><b>Promotes Healthy Aging </b>- Improve skin elasticity, joint health, and overall vitality to age gracefully.</li>
+        <li><b>Safe and Natural </b>- Stimulates your body’s natural GH production, avoiding the risks of synthetic treatments.</li>
+      </ul>
+
+
+
+      <h3>Additional Benefits</h3>
+    
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li>Improved immune function</li>
+        <li>Increased libido</li>
+        <li>Healthier, more youthful-looking skin</li>
+      </ul>
+
+<h3>What to Expect with Sermorelin Therapy</h3>
+Sermorelin provides noticeable improvements within weeks of use:
+
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li><b>Week 1:</b>Better sleep quality</li>
+        <li><b>Week 2:</b>Faster recovery from workouts</li>
+        <li><b>Week 4:</b> Enhanced mental clarity</li>
+        <li><b>Week 6:</b>Improved skin elasticity</li>
+        <li><b>Week 8:</b>Noticeable changes in body composition</li>
+          </ul>
+
+
+
+
+      <h3>Is Sermorelin Right for You?</h3>
+      Sermorelin is ideal for individuals seeking to:
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li>Regain energy and vitality </li>
+        <li>Need an energy boost to stay active and motivated.</li>
+        <li>Slow down the effects of aging</li>
+        <li>Support overall wellness</li>
+        If you’re feeling like your body isn’t functioning at its best, Sermorelin may be the key to unlocking a healthier, more vibrant version of yourself.
+      </ul>
+
+
+
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Let’s Explore More!
+      </button>
+
+    </div>
+);
+}
+
+
+
+
 
 function AboutLoanDoan() {
   return (
@@ -1317,7 +1429,9 @@ function ContactUs() {
             <option value="Amino Injection">Amino Injections</option>
             <option value="Amino Injection">Fillers</option>
             <option value="Amino Injection">Sermorelin</option>
+            <option value="Erectile Dysfunction">Erectile Dysfunction</option>
             <option value="Consultation">Consultation</option>
+            
 
 
             
@@ -1373,6 +1487,7 @@ function App() {
              <Route path="services/amino-injections" element ={<AminoInjections />} />
              <Route path="services/fillers" element ={<Fillers />} />
              <Route path="services/sermorelin" element ={<Sermorelin />} />
+             <Route path="services/erectile-dysfunction" element ={<ErectileDysfunction />} />
         </Routes>
 
         <footer>
