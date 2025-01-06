@@ -542,14 +542,15 @@ function LipotropicInjection() {
 
 
       <h3>What Are Lipotropic Compounds?</h3>
-      Lipotropics are a blend of essential vitamins, nutrients, and natural compounds designed to:
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+            Lipotropics are a blend of essential vitamins, nutrients, and natural compounds designed to:
+  
         <li><b>Support Fat Metabolism:</b> Break down fats more efficiently.</li>
         <li><b>Improve Body Composition: </b>Help reduce fat storage and promote a leaner, healthier physique.</li>
       </ul>
       <h3>How Lipotropic Injections Work</h3>
-      Our injections are powered by key compounds like Methionine and Choline:
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+              Our injections are powered by key compounds like Methionine and Choline:
         <li><b>Methionine:</b> A powerful agent that aids in fat mobilization and detoxifies the liver.</li>
         <li><b>Choline: </b>Helps break down fats and ensures healthy liver function.</li>
       </ul>
@@ -557,18 +558,20 @@ function LipotropicInjection() {
 
 
       <h3>Why Choose Lipotropic Injections?</h3>
-      While lipotropic compounds are available as supplements, injections offer unique advantages:
+      
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      While lipotropic compounds are available as supplements, injections offer unique advantages:
         <li><b>Better Absorption:</b> Directly absorbed into the bloodstream for maximum impact.</li>
         <li><b>Faster Results: </b>Notice improvements sooner due to higher bioavailability.</li>
         <li><b>Ideal for Absorption Issues: </b>Perfect for individuals with gastrointestinal conditions that may prevent proper nutrient absorption.</li>
       </ul>
 
 <h3>Benefits of Lipotropic Injections</h3>
-Lipotropic Injections can transform your wellness journey with the following benefits:
+
 
 
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+Lipotropic Injections can transform your wellness journey with the following benefits:
         <li><b>Supports Fat Loss:</b> Helps your body metabolize fat more efficiently.</li>
         <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
         <li><b>Improves Energy: </b>Detoxifies the liver and reduces fat buildup, improving overall function.</li>
@@ -583,8 +586,8 @@ Lipotropic Injections can transform your wellness journey with the following ben
 
 
       <h3>Is Lipotropic Right for You?</h3>
-      Lipotropic Injections are perfect for those who:
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      Lipotropic Injections are perfect for those who:
         <li>Struggle with stubborn fat in specific areas. </li>
         <li>Need an energy boost to stay active and motivated.</li>
         <li>Are looking for an effective way to complement their diet and exercise plan.</li>
@@ -665,7 +668,7 @@ Before Treatment:
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
 <li>Results will start to appear within a few days and continue to improve over the next week.</li>
 <li>Avoid rubbing or massaging the treated areas for the first 24 hours to allow the neurotoxin to settle properly.</li>
-<li>Repeated sessions will enhance and prolong the benefits over time</li>
+<li>Repeated sessions will enhance and prolong the benefits over time.</li>
 </ul>
 
 <h3>Is Neurotoxin Treatment Right for You?</h3>
@@ -731,24 +734,19 @@ Testosterone is essential for energy, strength, mood, and libido. As men age, te
 
 <h3>Benefits of Testosterone Therapy</h3>
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<li><b>Restore Energy</b>
-If you’re constantly feeling drained or sluggish, testosterone therapy can help. It works to 
+<li><b>Restore Energy</b> If you’re constantly feeling drained or sluggish, testosterone therapy can help. It works to 
 <br></br>boost your energy levels, helping you feel awake, alert, and ready to take on the challenges of each day.
 </li>
-<li><b>Boost Strength & Fitness</b>
-Struggling with workouts or noticing a loss of muscle mass? Testosterone therapy helps improve 
+<li><b>Boost Strength & Fitness</b> - Struggling with workouts or noticing a loss of muscle mass? Testosterone therapy helps improve 
 <br></br>your muscle tone, endurance, and overall physical performance, making it easier to stay fit, active, and strong.
 </li>
-<li><b>Enhance Mood & Mental Clarity</b>
-Low testosterone can lead to irritability, brain fog, or even depression. Testosterone therapy 
+<li><b>Enhance Mood & Mental Clarity</b> - Low testosterone can lead to irritability, brain fog, or even depression. Testosterone therapy 
 <br></br>helps stabilize your mood, clear mental fog, and restore your focus, helping you feel sharp and balanced.
 </li>
-<li><b>Reignite Libido</b>
-A drop in libido can affect your relationships and confidence. Testosterone therapy can restore 
+<li><b>Reignite Libido</b> - A drop in libido can affect your relationships and confidence. Testosterone therapy can restore 
 <br></br>your desire, reigniting your passion and helping you feel more connected to your partner.
 </li>
-<li><b>Combat the Effects of Aging</b>
-As testosterone levels decline, aging takes its toll on your body, from reduced bone density to a 
+<li><b>Combat the Effects of Aging</b> - As testosterone levels decline, aging takes its toll on your body, from reduced bone density to a 
 <br></br>slower metabolism. Testosterone therapy helps counter these effects, promoting overall health and vitality.
 </li>
 </ul>
