@@ -561,7 +561,7 @@ function LipotropicInjection() {
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
         <li><b>Better Absorption:</b> Directly absorbed into the bloodstream for maximum impact.</li>
         <li><b>Faster Results: </b>Notice improvements sooner due to higher bioavailability.</li>
-        <li><b>Ideal for Absorption Issues:</b>Perfect for individuals with gastrointestinal conditions that may prevent proper nutrient absorption.</li>
+        <li><b>Ideal for Absorption Issues: </b>Perfect for individuals with gastrointestinal conditions that may prevent proper nutrient absorption.</li>
       </ul>
 
 <h3>Benefits of Lipotropic Injections</h3>
@@ -569,7 +569,7 @@ Lipotropic Injections can transform your wellness journey with the following ben
 
 
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Supports Fat Loss:</b>Helps your body metabolize fat more efficiently.</li>
+        <li><b>Supports Fat Loss:</b> Helps your body metabolize fat more efficiently.</li>
         <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
         <li><b>Improves Energy: </b>Detoxifies the liver and reduces fat buildup, improving overall function.</li>
         <li><b>Supports Liver Health: </b>Enhances calorie-burning potential.</li>
