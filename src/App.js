@@ -390,6 +390,13 @@ function Services() {
           <br></br>  Fillers
           </a>
 
+          <a
+            href="/services/sermorelin"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  Sermorelin
+          </a>
+
         </li>
       </ul>
     </div>
@@ -1207,6 +1214,7 @@ function ContactUs() {
             <option value="Testosterone">Testosterone</option>
             <option value="Amino Injection">Amino Injections</option>
             <option value="Amino Injection">Fillers</option>
+            <option value="Amino Injection">Sermorelin</option>
             <option value="Consultation">Consultation</option>
 
 
@@ -1261,6 +1269,8 @@ function App() {
              <Route path="services/beautiTOX" element ={<BeautiTOX />} />
              <Route path="services/testosterone" element ={<Testosterone />} />
              <Route path="services/amino-injections" element ={<AminoInjections />} />
+             <Route path="services/fillers" element ={<Fillers />} />
+             <Route path="services/sermorelin" element ={<Sermorelin />} />
         </Routes>
 
         <footer>
