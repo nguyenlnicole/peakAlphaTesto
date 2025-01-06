@@ -868,15 +868,21 @@ function Fillers() {
 <h1 style={{ color: "white" }}>Enhance Your Natural Beauty with Fillers</h1>
       <h1>Achieve a Refreshed, Rejuvenated Look
         </h1>
-        Are you ready to take your health routine to the next level? Amino Injections provide a simple,        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
-        <br></br>the solution to restore your vitality and confidence.
+        Aging can lead to a loss of facial volume, elasticity, and the formation of wrinkles and fine lines.
+        <br></br> Whether you’re looking to restore youthful contours, smooth wrinkles, or add volume
+        <br></br>to areas like your cheeks or lips, dermal fillers offer a non-surgical solution to enhance your natural beauty.
 
-       <h3> Why Amino Acids Are Essential</h3>
-       Amino acids are the building blocks of proteins and vital to many bodily functions. While some are
-       <br></br>essential (you must obtain them through diet), others are conditionally essential, meaning  
-       <br></br>your body needs extra support during times of stress or illness. That’s where Amino 
-       <br></br>Injections come in, delivering targeted amino acid support for better health.
+       <h3> What Are Fillers?</h3>
+       Dermal fillers are safe, non-invasive treatments designed to restore lost volume, smooth wrinkles, 
+       <br></br>and enhance your facial features. Made from natural or synthetic substances that mimic your body’s structure,  
+       <br></br> fillers provide natural-looking results. Common treatment areas include:
 
+       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li>Cheeks</li>
+        <li>Lips</li>
+        <li>Under-eye hollows</li>
+        <li>Jawline</li>
+        </ul>
 
 <h3>What Makes Amino Injections So Powerful?</h3>
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
