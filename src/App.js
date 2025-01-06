@@ -1204,7 +1204,8 @@ function SexualCream() {
         <br></br>sexual pleasure, and reconnect with your partner.
 
       <h3>What is Sexual Cream?</h3>
-      Our Sexual Cream is a topical solution specially crafted to heighten female sexual pleasure. This unique blend of ingredients works to:      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      Our Sexual Cream is a topical solution specially crafted to heighten female sexual pleasure. This unique blend of ingredients works to:   
         <li>Increase blood flow</li>
         <li>Enhance sensation</li>
         <li>Boost sexual desire </li>
