@@ -1113,8 +1113,8 @@ function ErectileDysfunction() {
         <br></br>you regain your confidence, vitality, and intimacy.
 
       <h3>What is Erectile Dysfunction?</h3>
-      ED is the inability to achieve or maintain an erection sufficient for sexual activity. It can be caused by various factors, including:      <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      ED is the inability to achieve or maintain an erection sufficient for sexual activity. It can be caused by various factors, including:      
         <li>Age</li>
         <li>Stress</li>
         <li>Hormonal imbalances </li>
