@@ -383,6 +383,13 @@ function Services() {
           <br></br>  Amino Injections
           </a>
 
+          <a
+            href="/services/fillers"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  Fillers
+          </a>
+
         </li>
       </ul>
     </div>
@@ -884,46 +891,47 @@ function Fillers() {
         <li>Jawline</li>
         </ul>
 
-<h3>What Makes Amino Injections So Powerful?</h3>
+<h3>Why Choose Fillers?</h3>
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<li><b>Improves Cardiovascular Health </b>
-Amino injections support nitric oxide production, which promotes .
-<br></br>vasodilation (widening of blood vessels) This improves circulation, lowers blood pressure, and strengthens heart health
+<li><b>Look Younger Instantly</b>
+Reduce the appearance of wrinkles, fine lines, and hollows for a smoother, more youthful look.
 </li>
-<li><b>Enhances Blood Flow </b>
- Better circulation means more efficient blood flow throughout your body. This helps you 
-<br></br>feel energized and supports faster muscle recovery, especially after exercise.
-</li>
-<li><b>Supports Longevity </b>
-By boosting blood flow and cardiovascular function, Amino injections promote overall 
-<br></br>health and longevity, helping you stay active and youthful.
+<li><b>Non-Surgical with Quick Recovery </b>
+Dermal fillers are non-invasive and require minimal downtime, allowing you to return to your daily activities immediately. 
 
 </li>
-<li><b>Boosts General Wellness </b>
-Amino acids aid in producing hormones and neurotransmitters that regulate mood, energy,
-<br></br>and mental clarity. Amino injections help maintain balance, keeping your body performing at its best
+<li><b>Natural-Looking Results</b>
+Enhance your natural beauty with subtle, refined results that still feel like you
 </li>
+
+<li><b>Customized for You</b>
+From fuller lips to lifted cheeks, every treatment is tailored to your aesthetic goals.
+</li>
+
+<li><b>Long-Lasting Improvements</b>
+Results typically last 6 months to a year, providing long-term enhancements with simple maintenance touch-ups.</li>
 
 </ul>
-<h3>Is Amino Right for You?</h3>
+<h3>Benefits of Fillers</h3>
 
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-Amino injections are ideal for anyone looking to:
-<li>Improve cardiovascular health and blood flow.</li>
-<li>Enhance exercise performance and recovery.</li>
-<li>Support overall wellness and longevity.</li>
-<li>Maintain healthy blood pressure and energy levels</li>
-
-Whether you're an athlete aiming to recover faster or simply want to feel your best every day, 
-<br></br>Amino injections are a non-invasive, effective addition to your wellness routine.
-</ul>
 <ul>
-Benefits at a Glance
-<li>✔ Improved circulation and heart health</li>
-<li>✔ Enhanced energy and stamina</li>
-<li>✔ Faster recovery after workouts</li>
-<li>✔ Boosted overall health and longevity</li>
-<li>✔ Simple, non-invasive treatments</li>
+Amino injections are ideal for anyone looking to:
+<li><b>✔ Smooth Wrinkles & Fine Lines</b> Soften laugh lines, crow’s feet, and other wrinkles for a more youthful appearance.</li>
+<li><b>✔ Restore Volume</b> Replenish fullness in areas like cheeks and under the eyes, reversing sagging or hollowing.</li>
+<li><b>✔ Enhance Lips</b> Achieve naturally fuller, plumper lips with soft, smooth results.</li>
+<li><b>✔ Lift & Contour</b> Subtly lift and define areas like the jawline or cheeks for a more balanced facial structure.</li>
+<li><b>✔ Minimal Downtime</b> Enjoy quick recovery with slight redness or swelling that resolves within hours to a day.</li>
+
+</ul>
+
+<h3>Who Can Benefit from Fillers?</h3>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+Dermal fillers are ideal for anyone looking to:
+<li>Restore a youthful appearance without surgery.</li>
+<li>Enhance facial features like lips, cheeks, or jawline.</li>
+<li>Smooth wrinkles and fine lines.</li>
+<li>Address signs of aging or maintain a youthful look.</li>
+Fillers work for all age groups—whether you’re in your 30s aiming to prevent signs of aging or in your 50s+ seeking to restore volume and smooth wrinkles.
 </ul>
 <button
 
@@ -1198,6 +1206,7 @@ function ContactUs() {
               <option value="BeautiTOX">BeautiTOX</option>
             <option value="Testosterone">Testosterone</option>
             <option value="Amino Injection">Amino Injections</option>
+            <option value="Amino Injection">Fillers</option>
             <option value="Consultation">Consultation</option>
 
 
