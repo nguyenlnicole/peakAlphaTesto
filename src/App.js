@@ -1214,8 +1214,9 @@ function SexualCream() {
 
 
       <h3>How Does It Work?</h3>
-      Our cream combines potent ingredients that target various aspects of sexual health:
+      
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        Our cream combines potent ingredients that target various aspects of sexual health:
         <li><b>Testosterone:</b> Improves sexual function, increases libido, and supports vitality.</li>
         <li><b>L-Arginine: </b> Boosts blood flow to the genital area, enhancing arousal and sensitivity. </li>
         <li><b>Pentoxifylline:</b> Enhances circulation for better lubrication and increased pleasure.</li>
@@ -1307,9 +1308,9 @@ function B12Injections() {
 
 
       <h3>Who Should Consider B12 Injections?</h3>
-      Our cream combines potent ingredients that target various aspects of sexual health:
+    
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Busy Professionals:</b> If your demanding lifestyle leaves you feeling drained, a B12 boost can keep you sharp and energized.</li>
+          <li><b>Busy Professionals:</b> If your demanding lifestyle leaves you feeling drained, a B12 boost can keep you sharp and energized.</li>
         <li><b>Athletes & Fitness Enthusiasts: </b> Enhance performance, support recovery, and maintain energy levels during intense training. </li>
         <li><b>Anyone Feeling Sluggish:</b> If you’re dealing with brain fog or low energy, B12 injections can help you feel like yourself again.</li>
         <li><b>People with B12 Deficiency</b> Ideal for individuals with medical conditions, specific diets (like vegan or vegetarian), or medications that lower B12 levels.</li>
