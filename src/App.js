@@ -1187,8 +1187,8 @@ function SexualCream() {
     
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
        <img
-        src="/ErectileDysfunction.jpg" 
-        alt="Erectile Dysfunction "
+        src="/scream.jpg" 
+        alt="Sexual Cream "
         style={{
           width: "100%", 
           height: "auto", 
@@ -1275,8 +1275,8 @@ function B12Injections() {
     
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
        <img
-        src="/ErectileDysfunction.jpg" 
-        alt="Erectile Dysfunction "
+        src="/b12.jpg" 
+        alt="B12 Injections "
         style={{
           width: "100%", 
           height: "auto", 
