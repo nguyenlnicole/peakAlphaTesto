@@ -488,7 +488,7 @@ function PhosphatidylcholineDeoxycholateInjections() {
 <h3>How It Works</h3>
 <b>Consultation:</b> Our experts will assess your target areas and explain the procedure.
 <br></br><b>Treatment:</b> Fat-dissolving injections are administered to the targeted areas.
-<br></br>Recovery: Return to your normal routine right away – it’s that simple.
+<br></br><b>Recovery:</b> Return to your normal routine right away – it’s that simple.
 <br></br><b>Results:</b> Start seeing changes in a few weeks, with optimal results after a few sessions.
 
 <br></br>
