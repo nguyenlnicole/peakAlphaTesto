@@ -1039,6 +1039,7 @@ Sermorelin provides noticeable improvements within weeks of use:
         <li>Need an energy boost to stay active and motivated.</li>
         <li>Slow down the effects of aging</li>
         <li>Support overall wellness</li>
+        If you’re feeling like your body isn’t functioning at its best, Sermorelin may be the key to unlocking a healthier, more vibrant version of yourself.
       </ul>
 
 
