@@ -169,7 +169,7 @@ function Home() {
   </p>
   <h2 style={{ fontSize: "1.5rem", margin: "10px 0" }}>Get $50 Off Semaglutide!</h2>
   <h2 style={{ fontSize: "1.5rem", margin: "10px 0" }}>
-    Or Free injection of FREE wellness injection:
+    Or FREE wellness injection:
   </h2>
   <h6 style={{ fontSize: "1rem", margin: "5px 0" }}>
     - Amino Blend Injection: Boost your energy and support your muscle recovery.
