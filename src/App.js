@@ -571,9 +571,9 @@ Lipotropic Injections can transform your wellness journey with the following ben
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
         <li><b>Supports Fat Loss:</b>Helps your body metabolize fat more efficiently.</li>
         <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
-        <li><b>Improves Energy</b>Detoxifies the liver and reduces fat buildup, improving overall function.</li>
-        <li><b>Supports Liver Health:</b>Enhances calorie-burning potential.</li>
-        <li><b>Boosts Metabolism:  </b>Enhances calorie-burning potential.</li>
+        <li><b>Improves Energy: </b>Detoxifies the liver and reduces fat buildup, improving overall function.</li>
+        <li><b>Supports Liver Health: </b>Enhances calorie-burning potential.</li>
+        <li><b>Boosts Metabolism: </b>Enhances calorie-burning potential.</li>
             <li>Promotes healthy skin, strong nails, and hair growth.</li>
             <li>Regulates cholesterol levels and estrogen balance.</li>
             <li>Prevents gallstones and supports long-term liver health.</li>
