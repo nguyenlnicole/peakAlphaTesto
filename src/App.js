@@ -866,7 +866,7 @@ function AboutLoanDoan() {
         }}
       />
 
-      <p>With a dedication to advancing health and wellness, Lexi is deeply committed to helping 
+      <p>With a dedication to advancing health and wellness, Lexi is deeply committed to helping. 
         <br></br>Board-Certified Physician Assistant with a strong background in Aesthetic Medicine, 
         <br></br>Hormone Replacement Therapy (HRT), and Urgent Care, she combines her clinical expertise 
         <br></br>and passion for patient care to offer a personalized approach to every individual she 
@@ -889,7 +889,7 @@ function AboutLoanDoan() {
         <br></br>
         <br></br><b>A Holistic Approach to Health and Aesthetics As a medical professional</b> 
         
-        <br></br>passionate about both wellness and aesthetics, Lexi takes a holistic approach to care. Whether 
+        <br></br>Passionate about both wellness and aesthetics, Lexi takes a holistic approach to care. Whether 
         <br></br> you are seeking weight loss support, neurotoxin for wrinkle reduction, fillers for facial 
         <br></br>volume restoration, or hormone replacement therapy, she will take the time to understand your 
         <br></br>personal goals, lifestyle, and medical history before recommending the best course of treatment 
