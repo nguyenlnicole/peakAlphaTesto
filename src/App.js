@@ -846,7 +846,7 @@ Whether you're an athlete aiming to recover faster or simply want to feel your b
 <br></br>Amino injections are a non-invasive, effective addition to your wellness routine.
 </ul>
 <ul>
-Benefits at a Glance
+Benefits at a Glance :
 <li>✔ Improved circulation and heart health</li>
 <li>✔ Enhanced energy and stamina</li>
 <li>✔ Faster recovery after workouts</li>
@@ -904,11 +904,12 @@ function Fillers() {
         <br></br>to areas like your cheeks or lips, dermal fillers offer a non-surgical solution to enhance your natural beauty.
 
        <h3> What Are Fillers?</h3>
-       Dermal fillers are safe, non-invasive treatments designed to restore lost volume, smooth wrinkles, 
+       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        Dermal fillers are safe, non-invasive treatments designed to restore lost volume, smooth wrinkles, 
        <br></br>and enhance your facial features. Made from natural or synthetic substances that mimic your body’s structure,  
        <br></br> fillers provide natural-looking results. Common treatment areas include:
 
-       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+       
         <li>Cheeks</li>
         <li>Lips</li>
         <li>Under-eye hollows</li>
@@ -1014,8 +1015,9 @@ function Sermorelin() {
 
       <h3>Why Consider Sermorelin?</h3>
       Sermorelin offers a wide range of benefits that can help you regain vitality and improve overall well-being.
-      <br></br><b>Key Benefits</b>
+      
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      <br></br><b>Key Benefits</b> 
         <li><b>Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.</li>
         <li><b>Supports Muscle Growth & Fat Loss </b>- Build lean muscle and reduce stubborn fat for a more toned physique.</li>
         <li><b>Improves Recovery Time </b>- Speed up recovery after workouts, reduce muscle soreness, and enhance performance.</li>
@@ -1050,8 +1052,9 @@ Sermorelin provides noticeable improvements within weeks of use:
 
 
       <h3>Is Sermorelin Right for You?</h3>
-      Sermorelin is ideal for individuals seeking to:
+      
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      Sermorelin is ideal for individuals seeking to:  
         <li>Regain energy and vitality </li>
         <li>Need an energy boost to stay active and motivated.</li>
         <li>Slow down the effects of aging</li>
