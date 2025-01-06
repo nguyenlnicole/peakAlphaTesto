@@ -928,15 +928,15 @@ Results typically last 6 months to a year, providing long-term enhancements with
 </ul>
 <h3>Benefits of Fillers</h3>
 
-<ul>
-Amino injections are ideal for anyone looking to:
-<li><b>✔ Smooth Wrinkles & Fine Lines</b> Soften laugh lines, crow’s feet, and other wrinkles for a more youthful appearance.</li>
-<li><b>✔ Restore Volume</b> Replenish fullness in areas like cheeks and under the eyes, reversing sagging or hollowing.</li>
-<li><b>✔ Enhance Lips</b> Achieve naturally fuller, plumper lips with soft, smooth results.</li>
-<li><b>✔ Lift & Contour</b> Subtly lift and define areas like the jawline or cheeks for a more balanced facial structure.</li>
-<li><b>✔ Minimal Downtime</b> Enjoy quick recovery with slight redness or swelling that resolves within hours to a day.</li>
 
-</ul>
+Amino injections are ideal for anyone looking to:
+<br></br><b>✔ Smooth Wrinkles & Fine Lines</b> Soften laugh lines, crow’s feet, and other wrinkles for a more youthful appearance.
+<br></br><b>✔ Restore Volume</b> Replenish fullness in areas like cheeks and under the eyes, reversing sagging or hollowing.
+<br></br><b>✔ Enhance Lips</b> Achieve naturally fuller, plumper lips with soft, smooth results.
+<br></br><b>✔ Lift & Contour</b> Subtly lift and define areas like the jawline or cheeks for a more balanced facial structure.
+<br></br><b>✔ Minimal Downtime</b> Enjoy quick recovery with slight redness or swelling that resolves within hours to a day.
+
+
 
 <h3>Who Can Benefit from Fillers?</h3>
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
@@ -1091,68 +1091,57 @@ function ErectileDysfunction() {
           marginBottom: "20px",
         }}
       />
-      <h1 style={{ color: "white" }}>Reignite Your Energy & Vitality with Sermorelin</h1>
-      <h1>Unlock Your Potential with Growth Hormone Therapy
+      <h1 style={{ color: "white" }}>
+      Regain Confidence and Vitality with Our ED Treatment Solutions</h1>
+      <h1>Take Control of Your Sexual Health Today
         </h1>
-        Are you feeling tired, struggling to maintain muscle tone, or noticing a slower recovery from workout
-        <br></br>or daily activities? These changes may be due to the natural decline in growth hormone (GH) levels as we age. 
-        <br></br>Sermorelin therapy can help restore your balance, boost your energy, and rejuvenate your health.
+        Erectile dysfunction (ED) is a common concern that affects millions of men, but it’s not something you
+        <br></br>have to live with. If you’re struggling with ED, know that effective, non-invasive treatments are available to help
+        <br></br>you regain your confidence, vitality, and intimacy.
 
-
-      <h3>What Is Sermorelin?</h3>
-      Sermorelin is a peptide therapy that works with your body’s natural processes to stimulate the pituitary gland,
-      <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
-      <br></br>and fat loss safely and naturally. This non-invasive treatment is designed to help you feel younger, 
-      <br></br>more energized, and ready to take on life’s challenges.
-
-
-
-      <h3>Why Consider Sermorelin?</h3>
-      Sermorelin offers a wide range of benefits that can help you regain vitality and improve overall well-being.
-      <br></br><b>Key Benefits</b>
+      <h3>What is Erectile Dysfunction?</h3>
+      ED is the inability to achieve or maintain an erection sufficient for sexual activity. It can be caused by various factors, including:      <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.</li>
-        <li><b>Supports Muscle Growth & Fat Loss </b>- Build lean muscle and reduce stubborn fat for a more toned physique.</li>
-        <li><b>Improves Recovery Time </b>- Speed up recovery after workouts, reduce muscle soreness, and enhance performance.</li>
-        <li><b>Enhances Sleep Quality </b>- Enjoy deeper, more restorative sleep, leaving you refreshed and focused.</li>
-        <li><b>Promotes Healthy Aging </b>- Improve skin elasticity, joint health, and overall vitality to age gracefully.</li>
-        <li><b>Safe and Natural </b>- Stimulates your body’s natural GH production, avoiding the risks of synthetic treatments.</li>
+        <li>Age</li>
+        <li>Stress</li>
+        <li>Hormonal imbalances </li>
+        <li>Relationship issues</li>
+        <li>Underlying medical conditions like cardiovascular disease or diabetes</li>
+        While ED is a natural part of aging for some, it can also signal serious health issues. Fortunately, ED is treatable, and you don’t have to suffer in silence.
       </ul>
 
 
 
-      <h3>Additional Benefits</h3>
+      <h3>Benefits of ED Treatment</h3>
+      
+        <br></br><b>✔ Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.
+        <br></br><b>✔ Improved Sexual Performance </b>- Achieve and maintain stronger, longer-lasting erections, boosting your confidence and performance.
+        <br></br><b>✔ Enhanced Relationship Satisfaction </b>- Overcoming ED can restore intimacy and deepen your connection with your partner.
+        <br></br><b>✔ Renewed Energy & Vitality </b>- Successful ED treatment can help you feel more energetic and confident in all areas of life.
+        <br></br><b>✔ Customized Care </b>- Our team tailors treatment plans to your unique needs and lifestyle, ensuring the best possible results.
     
+
+
+
+      <h3>AHow We Treat Erectile Dysfunction</h3>
+      We offer a variety of advanced, effective solutions for ED, including:
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li>Improved immune function</li>
-        <li>Increased libido</li>
-        <li>Healthier, more youthful-looking skin</li>
+        <li><b>P-Shot® (Priapus Shot)</b> - A non-surgical procedure that uses your own blood platelets to stimulate tissue growth and improve blood flow to the penis, enhancing erectile function.</li>
+        <li><b>Shockwave Therapy</b> - Low-intensity shockwave therapy is a non-invasive treatment that stimulates blood flow, improves erectile function, and promotes long-term results.</li>
+        <li><b>Hormone Therapy</b> - If low testosterone is contributing to your ED, our hormone replacement therapy can restore balance and boost libido and performance.</li>
+        <li><b>Prescription Medications</b> - Medications like sildenafil (Viagra) or tadalafil (Cialis) can be prescribed to help you achieve and maintain erections.</li>
       </ul>
 
-<h3>What to Expect with Sermorelin Therapy</h3>
-Sermorelin provides noticeable improvements within weeks of use:
+<h3>Why Choose Our Clinic?</h3>
+We understand that ED can be a sensitive and frustrating issue. Seeking treatment is the first step toward reclaiming your confidence and sexual health. At our clinic, we provide:
 
 
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Week 1:</b>Better sleep quality</li>
-        <li><b>Week 2:</b>Faster recovery from workouts</li>
-        <li><b>Week 4:</b> Enhanced mental clarity</li>
-        <li><b>Week 6:</b>Improved skin elasticity</li>
-        <li><b>Week 8:</b>Noticeable changes in body composition</li>
+        <li><b>Discreet, Compassionate Care </b> - Your privacy and comfort are our top priorities.</li>
+        <li><b>Personalized Treatment Plans</b> - Every man’s situation is unique, and our team will create a plan tailored to your needs.</li>
+        <li><b>Advanced Medical Technology</b> - We use the latest treatments to ensure effective, long-lasting results.</li>
+       
           </ul>
-
-
-
-
-      <h3>Is Sermorelin Right for You?</h3>
-      Sermorelin is ideal for individuals seeking to:
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li>Regain energy and vitality </li>
-        <li>Need an energy boost to stay active and motivated.</li>
-        <li>Slow down the effects of aging</li>
-        <li>Support overall wellness</li>
-        If you’re feeling like your body isn’t functioning at its best, Sermorelin may be the key to unlocking a healthier, more vibrant version of yourself.
-      </ul>
 
 
 
