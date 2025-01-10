@@ -516,12 +516,7 @@ function PhosphatidylcholineDeoxycholateInjections() {
 <br></br>✔ Minimal, short-term side effects
 <br></br>✔ Gradual and natural-looking results</b>
 
-<h3>How It Works</h3>
-<b>Consultation:</b> Our experts will assess your target areas and explain the procedure.
-<br></br><b>Treatment:</b> Fat-dissolving injections are administered to the targeted areas.
-<br></br><b>Recovery:</b> Return to your normal routine right away – it’s that simple.
-<br></br><b>Results:</b> Start seeing changes in a few weeks, with optimal results after a few sessions.
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}></ul>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
 <h3>Pre-Care: Getting Ready for Your Treatment </h3>
 <li><b>Stay Hydrated: </b>Drinking plenty of water helps your body process and flush out the dissolved fat effectively. 
 <br></br>Aim for at least 8 glasses of water daily leading up to your appointment. Do not drink all in one sitting</li>
@@ -529,7 +524,37 @@ function PhosphatidylcholineDeoxycholateInjections() {
 <br></br> 7 days before your treatment unless directed otherwise by your doctor. This minimizes the risk of bruising.</li>
 <li><b>Skip Alcohol: </b>Avoid alcohol for at least 24 hours before your session, as it can increase the likelihood of swelling and bruising.</li>
 <li><b>Comfortable Clothing: </b>Wear loose-fitting clothes on the day of your appointment to avoid irritation in the treatment area.</li>
-<li><b>Plan Your Schedule: </b>Mild swelling and redness are normal after the procedure. Schedule your session at least a few days before major events or social engagements. </li>
+<li><b>Plan Your Schedule: </b>Mild swelling and redness are normal after the procedure. Schedule your session at least a few days before 
+<br></br>major events or social engagements. </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Post-Care: Maximizing Your Results </h3>
+<li><b>Manage Swelling and Redness: </b> Apply a cool compress to the treated area for 10–15 minutes at a time if you experience swelling. 
+<br></br>This is normal and typically subsides within a few days.</li> 
+
+<li><b>Stay Active: </b>Gentle walking or light activity can help stimulate your lymphatic system and support fat elimination. However, avoid intense workouts for the first 48 hours.</li>
+
+<li><b>Hydration is Key: </b>Continue drinking plenty of water to help your body metabolize and eliminate the dissolved fat.</li>
+
+<li><b>Avoid Heat and Sun Exposure: </b>Skip saunas, hot tubs, and direct sun exposure for at least 72 hours. Heat can increase swelling and discomfort.</li>
+
+<li><b>Healthy Eating: </b>Stick to a balanced diet to enhance and maintain your results. Avoid excessive fatty or sugary foods, as they can interfere with fat elimination. </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>What to Expect After Treatment </h3>
+<li><b>Visible Swelling: </b>This is normal and can last for a few days. It’s a sign the treatment is working.</li> 
+
+<li><b>Bruising or Tenderness: </b>Some light bruising or tenderness may occur but typically resolves within a week.</li> 
+
+<li><b>Gradual Results: </b>You may start noticing changes within a few weeks, with full results becoming visible after multiple sessions.</li> 
+
+
+</ul>
+
+
+
 
 
 <br></br>
