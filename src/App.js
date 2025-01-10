@@ -105,7 +105,7 @@ function Home() {
         <div>
           
           <h3> Unleash Your Best Self: Peak Performance, Peak Confidence, Peak Alpha.</h3>
-          <h6>Transform Your Life with Medical Weight Loss: Achieve Real and Lasting Results </h6>
+          
 
           <img
         src="/PATCover2.jpg" 
@@ -126,7 +126,7 @@ function Home() {
 <br></br>for males to weight loss and aesthetic improvements, our experienced healthcare providers are 
 <br></br>dedicated to helping you achieve your goals.We specialize in effective, customized treatments 
 <br></br>tailored to each patient's unique needs. By addressing your medical concerns and supporting your
-<br></br>personalhealth objectives, we create care plans that promote a healthier, more vibrant life.</h6>
+<br></br>personal health objectives, we create care plans that promote a healthier, more vibrant life.</h6>
         </div>
       </header>
        {/* Pop-Up Modal */}
