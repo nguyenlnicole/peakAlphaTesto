@@ -521,6 +521,16 @@ function PhosphatidylcholineDeoxycholateInjections() {
 <br></br><b>Treatment:</b> Fat-dissolving injections are administered to the targeted areas.
 <br></br><b>Recovery:</b> Return to your normal routine right away – it’s that simple.
 <br></br><b>Results:</b> Start seeing changes in a few weeks, with optimal results after a few sessions.
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}></ul>
+<h3>Pre-Care: Getting Ready for Your Treatment </h3>
+<li><b>Stay Hydrated: </b>Drinking plenty of water helps your body process and flush out the dissolved fat effectively. 
+<br></br>Aim for at least 8 glasses of water daily leading up to your appointment. Do not drink all in one sitting</li>
+<li><b>Avoid Blood Thinners:</b>Refrain from taking aspirin, ibuprofen, or similar blood-thinning medications for at least
+<br></br> 7 days before your treatment unless directed otherwise by your doctor. This minimizes the risk of bruising.</li>
+<li><b>Skip Alcohol: </b>Avoid alcohol for at least 24 hours before your session, as it can increase the likelihood of swelling and bruising.</li>
+<li><b>Comfortable Clothing: </b>Wear loose-fitting clothes on the day of your appointment to avoid irritation in the treatment area.</li>
+<li><b>Plan Your Schedule: </b>Mild swelling and redness are normal after the procedure. Schedule your session at least a few days before major events or social engagements. </li>
+
 
 <br></br>
 <button
