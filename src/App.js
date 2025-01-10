@@ -181,6 +181,38 @@ function Home() {
     - B12 Injection: Increase your energy, boost your mood, and support overall wellness.
   </h6>
 
+ {/* First Name Field */}
+ <input
+        type="text"
+        placeholder="Enter your first name"
+        style={{
+          padding: "10px",
+          border: "1px solid #ccc",
+          borderRadius: "5px",
+          width: "100%",
+          maxWidth: "300px",
+          fontSize: "1rem",
+          margin: "10px 0",
+        }}
+      />
+      <br />
+
+      {/* Last Name Field */}
+      <input
+        type="text"
+        placeholder="Enter your last name"
+        style={{
+          padding: "10px",
+          border: "1px solid #ccc",
+          borderRadius: "5px",
+          width: "100%",
+          maxWidth: "300px",
+          fontSize: "1rem",
+          margin: "10px 0",
+        }}
+      />
+      <br />
+
   <input
     type="email"
     placeholder="Enter your email"
@@ -206,8 +238,7 @@ function Home() {
       fontWeight: "bold",
       fontSize: "1rem", 
     }}
-    onClick={() => alert("Email submitted!")}
-  >
+    onClick={() => alert("First Name, Last Name, and Email submitted!")}  >
     Submit
   </button>
   <button
