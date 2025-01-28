@@ -231,6 +231,7 @@ function Home() {
   />
   <br />
   <button
+  id= "btn_sub_submit"
     style={{
       backgroundColor: "#007BFF",
       color: "white",
@@ -241,7 +242,20 @@ function Home() {
       fontWeight: "bold",
       fontSize: "1rem", 
     }}
-    onClick={() => alert("First Name, Last Name, and Email submitted!")}  >
+    onClick={() => {document.querySelector("#btn_sub_submit").style.display = "none";
+      fetch("submit-appointment", {
+          method: "POST",
+          headers: {
+              "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+              "firstName": document.querySelector("#in_sub_firstName").value,
+              "lastName": document.querySelector("#in_sub_lastName").value,
+              "email": document.querySelector("#in_sub_emailName").value
+          })
+      }).then(res => {
+          (res.ok) ? alert("Submitted!") : alert("Error Occured");
+      });}}  >
     Submit
   </button>
   <button
@@ -1153,6 +1167,7 @@ Benefits at a Glance :
 
 <li><b>Customizable Benefits: </b>Tailored formulations address unique needs, whether it’s fat burning, recovery, or overall wellness.</li> 
 <br></br>
+</ul>
 
 Take your energy, recovery, and metabolism to the next level with amino acid injections. Start your journey to feeling stronger and healthier today! 💪✨ <br></br>
 
