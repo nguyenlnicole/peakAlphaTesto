@@ -381,12 +381,21 @@ function Services() {
       <h1>Services Page</h1>
       <ul style={{ listStyle: 'none', padding: 0 }}>
         <li>
+        <a
+            href="/services/medical-weight-loss"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+            Medical Weight Loss
+          </a>
+          <br></br>
+
           <a
             href="/services/phosphatidylcholine-deoxycholate-injections"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
             Phosphatidylcholine/Deoxycholate Injections
           </a>
+          
           <a
             href="/services/lipotropic-injection"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
@@ -457,6 +466,140 @@ function Services() {
 }
 
 // New Page Component
+
+function MedicalWeightLoss() {
+  return (
+    <div
+      style={{
+        padding: "20px",
+        textAlign: "center",
+        backgroundColor: "#AEC6CF",
+        fontFamily: "Arial, sans-serif",
+        lineHeight: "1.6",
+      }}
+    >
+      {/* Responsive Image Section */}
+      <img
+        src="/MWL.jpg" 
+        alt="Medical Weight Loss"
+        style={{
+          width: "60%",
+          height: "auto", 
+          maxWidth: "600px", 
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      />
+
+      {/* Content Section */}
+      <h1 style={{ color: 'white' }}>Transform Your Life with Medical Weight Loss</h1>
+
+      
+      <h1>Achieve Real, Lasting Results</h1>
+      Are you tired of struggling with weight loss programs that just don’t work? Medical weight loss offers a science-backed 
+        <br>
+        </br>approach to help you shed those stubborn pounds and reclaim your confidence, energy, and health—once and for all.
+
+        <h3>What Is Medical Weight Loss?</h3>
+Medical weight loss is a personalized program designed by trained medical professionals who understand that every body is unique.        <br></br>treatment that effectively targets and breaks down stubborn fat in specific areas of your body.
+<br></br>
+Whether you're battling slow metabolism, hormonal imbalances, or need extra support to break through weight loss plateaus,
+<br></br>
+we offer targeted treatments that work with your body’s natural processes.
+
+      
+
+    <h3>Why Choose Medical Weight Loss?</h3>
+    <b>Proven Results:</b> Forget gimmicks. Our medical weight loss plans, including FDA-approved medications like Semaglutide, deliver real, sustainable weight loss.
+<br></br><b>Personalized Plans: </b> Receive customized strategies with medical evaluations, lab work, and ongoing support
+<br></br><b>Comprehensive Support:</b> Transform your relationship with food, improve metabolism, and address underlying conditions like hormonal imbalances
+<br></br><b>Faster, Sustainable Results: </b> Lose weight more efficiently and safely with medical treatments that accelerate the process.
+<br></br><b>Boost Your Health: </b> Improve overall health and reduce risks of heart disease, diabetes, and high blood pressure.
+    
+    <h3>Benefits of Semaglutide</h3>
+    Semaglutide is an FDA-approved medication used for nearly a decade to treat high blood sugar and diabetes. Recently approved for weight loss, it’s effective even for individuals without diabetes, helping to:
+    <br></br>
+    <b>✔ Suppress appetite.
+<br></br>✔ Improve metabolism.
+<br></br>✔ Deliver noticeable weight loss results.</b>
+
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Pre-Care: Preparing for Your Treatment  </h3>
+<li><b>Consultation is Key: </b>Before starting weight loss injections like semaglutide or tirzepatide, you’ll have a consultation with a healthcare provider to discuss your goals, health history, and expectations.</li>
+<li><b>Healthy Start:</b>Begin incorporating a balanced diet and regular light activity to prepare your body for the treatment. These injections work best when combined with healthy lifestyle changes. </li>
+
+
+<li><b>Stay Hydrated: </b>Drinking plenty of water supports your metabolism and helps your body adjust to the treatment..</li>
+<li><b>Avoid Heavy Meals Before Your Appointment </b>Eating smaller, balanced meals before treatment can help minimize potential nausea, a common side effect.</li>
+<li><b>Understand the Process </b>These injections are typically administered weekly, and results are gradual. Consistency is key to achieving your goals. </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Post-Care: Maximizing Your Results </h3>
+<li><b>Follow Your Provider’s Guidance: </b> Stick to the prescribed dosage schedule and follow any dietary or activity recommendations from your provider.</li> 
+
+<li><b>Monitor Your Body: </b>Pay attention to how your body responds. Mild nausea, decreased appetite, or gastrointestinal discomfort are common and usually subside as your body adjusts. Notify your provider if you experience severe side effects.</li>
+
+<li><b>Stay Active: </b>Incorporate regular, moderate exercise like walking, yoga, or swimming to boost the effectiveness of the treatment.</li>
+
+<li><b>Balanced Nutrition: </b>Focus on a high-protein, nutrient-dense diet with smaller, frequent meals. Avoid heavy, greasy, or sugary foods to reduce the risk of nausea.</li>
+
+<li><b>Hydration is Vital: </b>Drink plenty of water throughout the day to support your body’s metabolism and overall health. </li>
+<li><b>Avoid Alcohol: </b>Limit alcohol consumption, especially during the early weeks of treatment, as it may amplify side effects like nausea. </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>What to Expect After Treatment </h3>
+<li><b>Appetite Suppression: </b>You may feel less hungry, which helps you naturally consume fewer calories.</li> 
+
+<li><b>Gradual Weight Loss: </b>Most patients see consistent, steady progress over weeks or months.</li> 
+
+<li><b>Side Effects: </b>Mild nausea or upset stomach may occur initially but typically improves as your body adjusts.</li>
+<li><b>Ongoing Adjustments </b>Regular check-ins with your provider will ensure the treatment plan is working effectively and can be adjusted as needed.</li> 
+
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Why People Love Medical Weight Loss Injections  </h3>
+<li><b>Sustainable Results: </b>These treatments offer a science-backed way to achieve weight loss goals with gradual, lasting results.</li> 
+
+<li><b>Boost Confidence: </b>Feel empowered and energized as you see progress over time.</li> 
+
+<li><b>Convenience: </b>Quick sessions that fit into a busy lifestyle.</li> 
+
+<li><b>Minimal Disruption: </b>Weekly injections fit seamlessly into busy lifestyles, offering flexibility and convenience.</li> 
+Take control of your health and start your transformation today. Your weight loss journey begins here! 🌟 
+</ul>
+
+
+
+
+<br></br>
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#78A2CC",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+      Let’s Explore More!
+      </button>
+
+    </div>
+  );
+}
+
+
+
+
 function PhosphatidylcholineDeoxycholateInjections() {
   return (
     <div
@@ -1048,7 +1191,8 @@ Fillers work for all age groups—whether you’re in your 30s aiming to prevent
 <li><b>Plan Your Schedule </b> - Mild swelling or bruising is normal post-treatment, so book your session at least a week before major events. 
 </li>
 </ul>
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}></ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
 <h3>Post-Care: Ensuring the Best Results </h3>
 <li><b>Hands Off </b> - Avoid touching, massaging, or applying pressure to the treated areas for at least 24 hours. Let the filler settle naturally. 
 </li>
@@ -1062,6 +1206,29 @@ Fillers work for all age groups—whether you’re in your 30s aiming to prevent
 </li>
 <li> <b>Stay Hydrated </b> - Drinking plenty of water helps maintain the results and keeps your skin glowing. 
 </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>What to Expect After Treatment </h3>
+<li><b>Swelling and Bruising:</b> Mild swelling or bruising at the injection site is normal and should subside within a few days. 
+</li>
+<li><b>Instant Results:</b> You’ll notice immediate improvement, with full results becoming more apparent after the swelling resolves. 
+</li>
+<li><b>Longevity:</b> Depending on the type of filler, results can last anywhere from 6 months to 2 years. 
+</li>
+</ul>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Why People Love Fillers </h3>
+<li><b>Subtle Enhancements:</b> Whether it’s plumper lips, contoured cheeks, or a smoother profile, fillers offer natural-looking results. 
+</li>
+<li><b>Quick Confidence Boost:</b> Treatments are fast, with minimal downtime, perfect for a busy lifestyle. 
+</li>
+<li><b>Customizable:</b> Tailored to enhance your unique features and achieve your aesthetic goals. 
+</li>
+Get ready to enhance, contour, and glow with fillers. Confidence starts here—let’s bring out your best features! 💋 
+
+</ul>
+
 <button
 
         onClick={() => window.location.href = '/services'}
@@ -1702,6 +1869,7 @@ function ContactUs() {
               marginBottom: "15px",
             }}
           >
+            <option value="MEdical Weight Loss">Medical Weight Loss</option>
             <option value="Lipotropic Injection">Lipotropic Injection</option>
             <option value="Phosphatidylcholine/Deoxycholate Injections">
               Phosphatidylcholine/Deoxycholate Injections</option>
@@ -1761,6 +1929,7 @@ function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/about-loan-doan" element={<AboutLoanDoan />} />
           <Route path="/contact-us" element={<ContactUs />} />
+          <Route path="services/Medical-weight-loss" element ={<MedicalWeightLoss />} />
           <Route
             path="/services/phosphatidylcholine-deoxycholate-injections"
             element={<PhosphatidylcholineDeoxycholateInjections />} />
