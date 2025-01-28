@@ -473,9 +473,9 @@ function PhosphatidylcholineDeoxycholateInjections() {
         src="/pdinj.jpg" 
         alt="Phosphatidylcholine/Deoxycholate Injections"
         style={{
-          width: "100%",
+          width: "60%",
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -600,9 +600,9 @@ function LipotropicInjection() {
         src="/Lipot.jpg" 
         alt="Lipotrpic Injections"
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -697,9 +697,9 @@ function BeautiTOX() {
         src="/BeautiTOX.jpg" 
         alt="BeautiTOX"
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -785,9 +785,9 @@ function Testosterone() {
         src="/Testo.jpg" 
         alt="Testosterone"
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -864,9 +864,9 @@ function AminoInjections() {
         src="/amino.jpg" 
         alt="aminoInjection"
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -1032,19 +1032,36 @@ Dermal fillers are ideal for anyone looking to:
 <li>Address signs of aging or maintain a youthful look.</li>
 Fillers work for all age groups—whether you’re in your 30s aiming to prevent signs of aging or in your 50s+ seeking to restore volume and smooth wrinkles.
 </ul>
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
 <h3>Pre-Care: Preparing for Your Filler Treatment</h3> 
+
+<li><b>Know Your Goals</b> - Fillers are perfect for enhancing features, adding volume, and reducing signs of aging. Have a clear idea of the areas you’d like to treat, such as lips, cheeks, or under-eye hollows. 
+</li>
+<li><b>Avoid Blood Thinners </b> - Refrain from taking aspirin, ibuprofen, fish oil, vitamin E, or similar supplements for 7 days before your treatment. This reduces the likelihood of bruising. 
+</li>
+<li><b>Skip Alcohol </b> - Avoid alcohol for at least 24 hours before your appointment to minimize swelling or bruising. 
+</li>
+<li><b>Stay Hydrated </b> - Well-hydrated skin responds better to filler treatments. Drink plenty of water in the days leading up to your session. 
+</li>
+<li><b>Makeup-Free Skin </b> - Arrive with a clean face or be prepared to remove makeup at the clinic. This ensures a safe, sterile application. 
+</li>
+<li><b>Plan Your Schedule </b> - Mild swelling or bruising is normal post-treatment, so book your session at least a week before major events. 
+</li>
+</ul>
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}></ul>
-<br></br>
-<b>Know Your Goals</b> - Fillers are perfect for enhancing features, adding volume, and reducing signs of aging. Have a clear idea of the areas you’d like to treat, such as lips, cheeks, or under-eye hollows. 
-<br></br>
-<b>Avoid Blood Thinners </b> - Refrain from taking aspirin, ibuprofen, fish oil, vitamin E, or similar supplements for 7 days before your treatment. This reduces the likelihood of bruising. 
-<br></br>
-<b>Skip Alcohol </b> - Avoid alcohol for at least 24 hours before your appointment to minimize swelling or bruising. 
-<br></br>
-<b>Stay Hydrated </b> - Well-hydrated skin responds better to filler treatments. Drink plenty of water in the days leading up to your session. 
-<br></br>
-<b>Makeup-Free Skin </b> - Arrive with a clean face or be prepared to remove makeup at the clinic. This ensures a safe, sterile application. 
-<br></br>
+<h3>Post-Care: Ensuring the Best Results </h3>
+<li><b>Hands Off </b> - Avoid touching, massaging, or applying pressure to the treated areas for at least 24 hours. Let the filler settle naturally. 
+</li>
+<li><b>Stay Cool </b> - Avoid hot environments like saunas, hot tubs, or tanning beds for 24–48 hours, as heat can worsen swelling. 
+</li>
+<li><b>Skip Intense Workouts</b> - Avoid strenuous exercise for 24 hours post-treatment to reduce the risk of swelling or bruising. 
+</li>
+<li><b>Sleep Elevated </b> - Sleep with your head slightly elevated for the first night to minimize swelling. 
+</li>
+<li><b>Gentle Skincare  - Avoid harsh skincare products, exfoliants, or facial treatments for at least 48 hours. Stick to gentle cleansers and moisturizers. </b>
+</li>
+<li> <b>Stay Hydrated </b> - Drinking plenty of water helps maintain the results and keeps your skin glowing. 
+</li>
 <button
 
         onClick={() => window.location.href = '/services'}
@@ -1077,9 +1094,9 @@ function Sermorelin() {
         src="/Sermorelin.jpg" 
         alt="Sermorelin "
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -1184,9 +1201,9 @@ function ErectileDysfunction() {
         src="/ED.jpg" 
         alt="Erectile Dysfunction "
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -1275,9 +1292,9 @@ function SexualCream() {
         src="/scream.jpg" 
         alt="Sexual Cream "
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -1365,9 +1382,9 @@ function B12Injections() {
         src="/b12.jpg" 
         alt="B12 Injections "
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
