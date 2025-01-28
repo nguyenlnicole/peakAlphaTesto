@@ -183,6 +183,7 @@ function Home() {
 
  {/* First Name Field */}
  <input
+        id="in_sub_firstName"
         type="text"
         placeholder="Enter your first name"
         style={{
@@ -199,6 +200,7 @@ function Home() {
 
       {/* Last Name Field */}
       <input
+       id="in_sub_lastName"
         type="text"
         placeholder="Enter your last name"
         style={{
@@ -214,6 +216,7 @@ function Home() {
       <br />
 
   <input
+     id="in_sub_email"
     type="email"
     placeholder="Enter your email"
     style={{
@@ -556,7 +559,7 @@ we offer targeted treatments that work with your body’s natural processes.
 <li><b>Gradual Weight Loss: </b>Most patients see consistent, steady progress over weeks or months.</li> 
 
 <li><b>Side Effects: </b>Mild nausea or upset stomach may occur initially but typically improves as your body adjusts.</li>
-<li><b>Ongoing Adjustments </b>Regular check-ins with your provider will ensure the treatment plan is working effectively and can be adjusted as needed.</li> 
+<li><b>Ongoing Adjustments: </b>Regular check-ins with your provider will ensure the treatment plan is working effectively and can be adjusted as needed.</li> 
 
 </ul>
 
@@ -811,6 +814,51 @@ Lipotropic Injections can transform your wellness journey with the following ben
         <li>Need an energy boost to stay active and motivated.</li>
         <li>Are looking for an effective way to complement their diet and exercise plan.</li>
       </ul>
+
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Pre-Care: Preparing for Your Lipotropic Injection  </h3>
+<li><b>Understand the Benefits: </b>Lipotropic injections are designed to enhance fat metabolism, boost energy, and support overall wellness. They’re a great addition to a weight loss plan or for maintaining a healthy lifestyle.</li>
+<li><b>Stay Hydrated:</b>Proper hydration is essential for optimal fat metabolism and to help your body process the nutrients in the injection effectively.</li>
+<li><b>Plan for Consistency: </b>Lipotropic injections work best when taken regularly. Discuss the recommended frequency with your provider to align with your goals.</li>
+<li><b>Eat a Balanced Meal: </b>A light meal before your appointment can help you avoid any lightheadedness or discomfort during the injection.</li>
+<li><b>Wear Comfortable Clothing: </b> Loose-fitting clothes make it easier to access the injection site, typically in the upper arm, thigh, or buttocks.</li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Post-Care: What to Do After Your Lipotropic Injection  </h3>
+<li><b>Stay Active: </b> Incorporate light physical activity to stimulate blood flow and enhance fat metabolism. A brisk walk or yoga session works well.</li> 
+
+<li><b>Keep Hydrated: </b>Drinking plenty of water helps your body flush out toxins and maximizes the fat-burning benefits of the injection.</li>
+
+<li><b>Follow a Healthy Diet: </b>Combine your injection with a nutrient-rich, balanced diet high in lean proteins, vegetables, and whole grains to support weight loss and energy levels.</li>
+
+<li><b>Avoid Alcohol: </b> Limit alcohol consumption for at least 24 hours, as it can interfere with fat metabolism and the injection's effectiveness.</li>
+
+<li><b>Monitor for Side Effects: </b>Mild soreness or redness at the injection site is normal and should subside quickly. Notify your provider if you experience unusual reactions. </li>
+
+<li><b>Plan Regular Appointments: </b> For the best results, stick to your provider's recommended schedule, which might be weekly or bi-weekly depending on your goals. </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>What to Expect After Treatment </h3>
+<li><b>Increased Energy: </b>You may notice a boost in energy within a few days, making it easier to stay active and motivated.</li> 
+
+<li><b>Improved Fat Metabolism: </b>Helps your body break down fat more efficiently, supporting weight loss efforts.</li> 
+
+<li><b>Mood Support:: </b>Ingredients like B12 can enhance mood and focus, helping you feel your best.</li> 
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Why People Love Lipotropic Injections  </h3>
+<li><b>Supports Active Lifestyles: </b>Boosts energy and metabolism, perfect for busy schedules.</li> 
+
+<li><b>Fat-Burning Benefits:  </b>Complements diet and exercise for effective weight management. </li> 
+
+<li><b>Quick and Convenient: </b>A fast appointment with no downtime fits into any routine.</li> 
+<br></br>
+
+Boost your energy and take control of your wellness journey with lipotropic injections. Your best self is just a step away—start today! 🌟💉 </ul>
+<br></br>
 
 <button
 
@@ -1593,7 +1641,7 @@ function B12Injections() {
       </ul>
     
 
-      <h3>Benefits of Our Sexual Cream</h3>
+      <h3>Benefits of Our B12 </h3>
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
         <li><b>Personalized Care:</b> Our team provides tailored treatments based on your unique needs and health goals.</li>
         <li><b>Fast, Effective Results: </b> Unlike oral supplements, injections deliver B12 directly into your bloodstream for maximum absorption.</li>
@@ -1601,6 +1649,52 @@ function B12Injections() {
         Whether you’re looking to boost energy, sharpen focus, or improve overall health, our B12 injections provide a simple and effective solution to help you feel your best.
 
       </ul>
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Pre-Care: Preparing for Your B12 Injection  </h3>
+<li><b>Understand the Benefits: </b>B12 injections are designed to boost energy, support metabolism, and enhance overall wellness. They're especially beneficial if you're deficient in vitamin B12.</li>
+<li><b>Stay Hydrated: </b>Drinking plenty of water helps your body absorb and utilize the injection effectively. </li>
+<li><b>Discuss Medications: </b>Let your provider know if you're taking any medications or supplements. While rare, some substances can interact with vitamin B12 absorption.</li>
+<li><b>Eat a Light Meal: </b>Have a small, balanced meal before your appointment to prevent lightheadedness, especially if you’re prone to feeling faint during injections.</li>
+<li><b>Plan for Quick Recovery: </b>The injection is fast and requires little to no downtime, so you can easily schedule it during your day. </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Post-Care: What to Do After Your B12 Injection  </h3>
+<li><b>Stay Active: </b> Light activity can help circulate the B12 throughout your system and enhance its absorption.</li> 
+
+<li><b>Hydrate Well: </b>Continue drinking water to support your metabolism and overall energy levels.</li>
+
+<li><b>Watch for Minor Side Effects: </b>Some people may experience mild soreness at the injection site or a temporary boost in energy. These effects are normal and short-lived.</li>
+
+<li><b>Eat Balanced Meals: </b>Combine your injection with a nutrient-rich diet to maximize its benefits. Foods high in protein, iron, and folate can work synergistically with B12.</li>
+
+<li><b>Skip Intense Activities: </b>Avoid strenuous exercise or heavy lifting for the first 24 hours if you feel any soreness in the injection area. </li>
+<li><b>Plan Your Next Appointment: </b>Depending on your needs, B12 injections are typically given weekly, bi-weekly, or monthly. Regular appointments ensure you maintain optimal levels. </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>What to Expect After Treatment </h3>
+<li><b>Energy Boost: </b>Many people notice an increase in energy within a few days of the injection. </li> 
+
+<li><b>Improved Mood and Focus: </b>B12 supports brain function and can enhance your mental clarity and mood.</li> 
+
+<li><b>Metabolic Support: </b>Helps improve your metabolism, supporting weight management and overall health. </li>
+
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Why People Love B12 Injections  </h3>
+<li><b>Instant Energy: </b>Perfect for those with busy schedules or feeling fatigued.</li> 
+
+<li><b>Metabolism Boost: </b>Helps your body process food efficiently, supporting weight management goals.</li> 
+
+<li><b>Simple and Fast:  </b>Quick appointments with no downtime fit seamlessly into a hectic lifestyle.</li> 
+
+
+<br></br>
+Reclaim your energy and feel your best with B12 injections. Book your session today and start thriving! 💉✨ </ul>
+
+      
 
 
 <button
