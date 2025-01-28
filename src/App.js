@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router, Routes, Route, Link, useNavigate } from 'react-router-dom';
+import { Link, Route, BrowserRouter as Router, Routes, useNavigate } from 'react-router-dom';
 import './App.css';
 
 function DropdownMenu() {
@@ -560,8 +560,6 @@ function PhosphatidylcholineDeoxycholateInjections() {
 <li><b>Convenience: </b>Quick sessions that fit into a busy lifestyle.</li> 
 
 Embrace a confident, sculpted look with PCDC treatments. Start your journey today! 💙 
-
-
 </ul>
 
 
@@ -963,9 +961,9 @@ function Fillers() {
         src="/Fillers.jpg" 
         alt="fillers"
         style={{
-          width: "100%", 
+          width: "60%", 
           height: "auto", 
-          maxWidth: "800px", 
+          maxWidth: "600px", 
           borderRadius: "10px",
           marginBottom: "20px",
         }}
@@ -1034,6 +1032,19 @@ Dermal fillers are ideal for anyone looking to:
 <li>Address signs of aging or maintain a youthful look.</li>
 Fillers work for all age groups—whether you’re in your 30s aiming to prevent signs of aging or in your 50s+ seeking to restore volume and smooth wrinkles.
 </ul>
+<h3>Pre-Care: Preparing for Your Filler Treatment</h3> 
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}></ul>
+<br></br>
+<b>Know Your Goals</b> - Fillers are perfect for enhancing features, adding volume, and reducing signs of aging. Have a clear idea of the areas you’d like to treat, such as lips, cheeks, or under-eye hollows. 
+<br></br>
+<b>Avoid Blood Thinners </b> - Refrain from taking aspirin, ibuprofen, fish oil, vitamin E, or similar supplements for 7 days before your treatment. This reduces the likelihood of bruising. 
+<br></br>
+<b>Skip Alcohol </b> - Avoid alcohol for at least 24 hours before your appointment to minimize swelling or bruising. 
+<br></br>
+<b>Stay Hydrated </b> - Well-hydrated skin responds better to filler treatments. Drink plenty of water in the days leading up to your session. 
+<br></br>
+<b>Makeup-Free Skin </b> - Arrive with a clean face or be prepared to remove makeup at the clinic. This ensures a safe, sterile application. 
+<br></br>
 <button
 
         onClick={() => window.location.href = '/services'}
@@ -1512,7 +1523,13 @@ function ContactUs() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    alert(`Appointment Request Submitted!\n${JSON.stringify(formData, null, 2)}`);
+    fetch("submit-appointment", {
+      method: "POST",
+      headers: {
+          "Content-Type": "application/json",
+      },
+      body: JSON.stringify(formData)});
+
   };
 
   return (
