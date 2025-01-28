@@ -569,6 +569,7 @@ we offer targeted treatments that work with your body’s natural processes.
 <li><b>Convenience: </b>Quick sessions that fit into a busy lifestyle.</li> 
 
 <li><b>Minimal Disruption: </b>Weekly injections fit seamlessly into busy lifestyles, offering flexibility and convenience.</li> 
+<br></br>
 Take control of your health and start your transformation today. Your weight loss journey begins here! 🌟 
 </ul>
 
@@ -701,6 +702,7 @@ function PhosphatidylcholineDeoxycholateInjections() {
 <li><b>Customizable: </b>Tailored to treat specific areas like the double chin, stomach, or thighs.</li> 
 
 <li><b>Convenience: </b>Quick sessions that fit into a busy lifestyle.</li> 
+<br></br>
 
 Embrace a confident, sculpted look with PCDC treatments. Start your journey today! 💙 
 </ul>
@@ -1225,6 +1227,7 @@ Fillers work for all age groups—whether you’re in your 30s aiming to prevent
 </li>
 <li><b>Customizable:</b> Tailored to enhance your unique features and achieve your aesthetic goals. 
 </li>
+<br></br>
 Get ready to enhance, contour, and glow with fillers. Confidence starts here—let’s bring out your best features! 💋 
 
 </ul>
