@@ -845,7 +845,7 @@ Lipotropic Injections can transform your wellness journey with the following ben
 
 <li><b>Improved Fat Metabolism: </b>Helps your body break down fat more efficiently, supporting weight loss efforts.</li> 
 
-<li><b>Mood Support:: </b>Ingredients like B12 can enhance mood and focus, helping you feel your best.</li> 
+<li><b>Mood Support: </b>Ingredients like B12 can enhance mood and focus, helping you feel your best.</li> 
 </ul>
 
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
@@ -919,17 +919,6 @@ function BeautiTOX() {
 <li>Health Perks: Treat migraines, excessive sweating, and jaw clenching.</li>
 </ul>
 
-<h3>What to Expect:</h3>
-
-Before Treatment:
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<li>Stop NSAIDs and supplements a week prior.</li>
-
-<li>Avoid alcohol 24 hours before treatment.</li>
-
-<li>Eat a healthy snack (avoid caffeine) to prevent lightheadedness.</li>
-</ul>
 
 <h3>After Treatment:</h3>
 <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
@@ -1120,6 +1109,53 @@ Benefits at a Glance :
 <li>✔ Boosted overall health and longevity</li>
 <li>✔ Simple, non-invasive treatments</li>
 </ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Pre-Care: Preparing for Your Amino Acid Injection   </h3>
+<li><b>Understand the Benefits: </b>Amino acid injections help boost energy, support muscle recovery, enhance fat metabolism, and improve overall wellness. Perfect for those pursuing fitness or lifestyle goals.</li>
+<li><b>Stay Hydrated:</b>Proper hydration is essential for optimal fat metabolism and to help your body process the nutrients in the injection effectively.</li>
+<li><b>Eat a Balanced Meal: </b>A light meal before your injection can help prevent lightheadedness, especially if you’re sensitive to injections..</li>
+<li><b>Discuss Medications: </b>Let your provider know if you’re taking any supplements or medications to ensure compatibility with the injection.</li>
+<li><b>Wear Comfortable Clothing: </b>Wear loose-fitting clothing to allow easy access to the injection site, typically in the upper arm, thigh, or gluteal area..</li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Post-Care: Ensuring the Best Results </h3>
+<li><b>Stay Active: </b> Light exercise or movement can help distribute the amino acids effectively throughout your body, enhancing their benefits.</li> 
+
+<li><b>Hydrate Well: </b>Continue drinking plenty of water to optimize the effects of the injection and support your body’s natural processes.</li>
+
+<li><b>Avoid Alcohol: </b>Refrain from consuming alcohol for at least 24 hours, as it may interfere with the amino acids’ absorption and effectiveness.</li>
+
+<li><b>Follow a Balanced Diet: </b> Combine the injection with a protein-rich diet to maximize muscle recovery, energy, and metabolism. Focus on lean meats, fish, beans, and vegetables.</li>
+
+<li><b>Monitor for Mild Reactions: </b>Temporary soreness or redness at the injection site is normal. Notify your provider if you experience unusual symptoms.</li>
+
+<li><b>Schedule Regular Treatments: </b> For sustained benefits, follow the injection schedule recommended by your provider, whether weekly, bi-weekly, or monthly.  </li>
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>What to Expect After Treatment </h3>
+<li><b>Increased Energy: </b>Feel revitalized and ready to tackle your day shortly after your injection.</li> 
+
+<li><b>Improved Muscle Recovery: </b>Amino acids help reduce soreness and repair muscles faster after workouts.</li> 
+
+<li><b>Fat Metabolism Support: </b>Encourages your body to burn fat more effectively as part of a healthy lifestyle.</li>
+<li><b>Enhanced Focus:: </b>Many amino acids play a role in brain health, supporting mental clarity and mood.</li>
+
+</ul>
+
+<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+<h3>Why People Love Amino Acid Injections </h3>
+<li><b>Supports Fitness Goals: </b>Perfect for gym enthusiasts or anyone looking to enhance workout performance and recovery.</li> 
+
+<li><b>Boosts Energy: </b>Provides a natural energy lift without relying on caffeine or stimulants. </li> 
+
+<li><b>Customizable Benefits: </b>Tailored formulations address unique needs, whether it’s fat burning, recovery, or overall wellness.</li> 
+<br></br>
+
+Take your energy, recovery, and metabolism to the next level with amino acid injections. Start your journey to feeling stronger and healthier today! 💪✨ <br></br>
+
 <button
 
         onClick={() => window.location.href = '/services'}
