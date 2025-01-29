@@ -243,7 +243,7 @@ function Home() {
       fontSize: "1rem", 
     }}
     onClick={() => {document.querySelector("#btn_sub_submit").style.display = "none";
-      fetch("submit-appointment", {
+      fetch("submit-subscriber", {
           method: "POST",
           headers: {
               "Content-Type": "application/json",
@@ -251,7 +251,7 @@ function Home() {
           body: JSON.stringify({
               "firstName": document.querySelector("#in_sub_firstName").value,
               "lastName": document.querySelector("#in_sub_lastName").value,
-              "email": document.querySelector("#in_sub_emailName").value
+              "email": document.querySelector("#in_sub_email").value
           })
       }).then(res => {
           (res.ok) ? alert("Submitted!") : alert("Error Occured");
@@ -1855,12 +1855,15 @@ function ContactUs() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
+    document.querySelector("#btn_apt_submit").style.display = "none";
     fetch("submit-appointment", {
       method: "POST",
       headers: {
           "Content-Type": "application/json",
       },
-      body: JSON.stringify(formData)});
+      body: JSON.stringify(formData)}).then(res => {
+        (res.ok) ? alert("Submitted!") : alert("Error Occured");
+    });;
 
   };
 
@@ -1999,7 +2002,7 @@ function ContactUs() {
           >
             <option value="Morning">Morning</option>
             <option value="Afternoon">Afternoon</option>
-            <option value="Morning">Evening</option>
+            <option value="Evening">Evening</option>
           </select>
 
           {/* Service Requesting Dropdown */}
@@ -2038,6 +2041,7 @@ function ContactUs() {
 
           {/* Submit Button */}
           <button
+            id="btn_apt_submit"
             type="submit"
             style={{
               width: "100%",
