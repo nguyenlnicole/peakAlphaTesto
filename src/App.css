@@ -9,7 +9,7 @@ body, html {
   margin: 0;
   padding: 0;
   height: 100%;
-  background-color: #AEC6CF;
+  background-color: #E0BFB8;
   font-family: 'MF', sans-serif; 
 }
 
@@ -19,7 +19,7 @@ body, html {
 }
 
 .App-header {
-  background-color: #AEC6CF;
+  background-color: #E0BFB8;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
@@ -40,7 +40,7 @@ select {
 }
 
 .App-link {
-  color: #61dafb;
+  color: #FFE6EE;
   font-family: 'MF', sans-serif;
 }
 

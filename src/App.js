@@ -41,11 +41,11 @@ function DropdownMenu() {
         onChange={handleChange}
         defaultValue=""
         style={{
-          backgroundColor: "#AEC6CF",
+          backgroundColor: "##E0BFB8",
           color: "gray",
           padding: "10px",
           borderRadius: "6px",
-          border: "1px solid #AEC6CF",
+          border: "1px solid #E0BFB8",
           fontSize: "clamp(1.5rem, 2.5vw, 1.5rem)",
           cursor: "pointer",
           outline: "none",
@@ -107,26 +107,15 @@ function Home() {
           <h3> Unleash Your Best Self: Peak Performance and Peak Confidence.</h3>
           
 
-          <img
-        src="/PATCover2.jpg" 
-        alt="Loan Doan"
-        style={{
-          width: '300px',
-          height: 'auto',
-          borderRadius: '10px',
-          marginTop: '20px',
-        }}
-      />
 
           <h4>Welcome to Our Medical Clinic – Where Health, Confidence, and Wellness Meet </h4>
 
           <h6>
-<br></br>At our clinic, we offer a wide range of personalized health services to support your well-being 
-<br></br>and boost your confidence. From enhancing sexual health and managing hormone replacement therapy 
-<br></br>for males to weight loss and aesthetic improvements, our experienced healthcare providers are 
-<br></br>dedicated to helping you achieve your goals.We specialize in effective, customized treatments 
-<br></br>tailored to each patient's unique needs. By addressing your medical concerns and supporting your
-<br></br>personal health objectives, we create care plans that promote a healthier, more vibrant life.</h6>
+<br></br>At our clinic, we’re here to help you feel your best and embrace a more confident you. Whether you're 
+looking to improve your sexual health, achieve weight loss goals, or enhance your appearance, our expert team is 
+dedicated to providing personalized care just for you. We specialize in customized treatments that are designed 
+to meet your unique needs, ensuring a tailored approach to support your health journey. Let us partner with you 
+to create a plan that enhances your well-being and brings out the vibrant life you deserve.</h6>
         </div>
       </header>
        {/* Pop-Up Modal */}
@@ -147,7 +136,7 @@ function Home() {
         >
           <div
  style={{
-  backgroundColor: "#87CEEb", // 
+  backgroundColor: "#DEA193", // 
   color: "white",
   padding: "20px",
   borderRadius: "10px",
@@ -315,15 +304,30 @@ function AboutUs() {
       </h4>
 
       <div style={{ lineHeight: '1.6' }}>
-        1. <b>Hormone Replacement Therapy (HRT)</b> - Restore energy, mood, and libido with personalized hormone treatments. Effectively address fatigue, mood swings, and imbalances.
+        1. <b>Neuromodulators (Botox, Dysport, Xeomin, Daxxify, etc.)</b> 
+        <br></br>Our neuromodulator treatments are designed to help you achieve smoother,
+        <br />wrinkle-free skin. Botox, Dysport, Daxxify and Xeomin are injectable treatments 
+         <br />that temporarily reduce the appearance of fine lines and wrinkles by relaxing 
+         <br />the muscles responsible for their formation. Whether you're concerned about crow’s 
+         <br />feet, forehead lines, or frown lines, these treatments can help restore a youthful, 
+         <br />fresh appearance.
+         <br />
+
+        2. <b>Dermal Fillers (Hyaluronic Acid, EZ Gel, Sculptra)</b> 
         <br />
-        2. <b>Erectile Dysfunction Treatment</b> - Advanced non-invasive treatments improve blood flow and performance. Regain intimacy and confidence.
-        <br />
-        3. <b>Weight Loss Solutions</b> - Pharmaceutical treatments like Semaglutide and PCDC support weight loss. Achieve results with personalized plans and guidance.
-        <br />
-        4. <b>Pain Management</b> - Ozone Trigger Point Injections relieve acute and chronic pain. Reduce inflammation, heal, and restore mobility naturally.
-        <br />
-        5. <b>Aesthetic Treatments (Botox & Fillers)</b> - Smooth fine lines, restore volume, and enhance your natural beauty. Services include wrinkle reduction, lip enhancement, and youthful facial contouring.
+        <br />Our dermal filler options are perfect for adding volume, enhancing facial contours, and 
+        <br />reducing the appearance of fine lines. Hyaluronic Acid (HA) fillers like Juvederm and 
+        <br /> Restylane are popular choices for restoring lost volume in the face, smoothing wrinkles, 
+        <br />and creating a plump, youthful look. EZ Gel is an advanced filler designed to provide a 
+        <br />natural, soft feel. Sculptra, a unique collagen stimulator, promotes the gradual production 
+        <br />of your own collagen, resulting in long-lasting, natural volume restoration.
+<br></br>
+        3. <b>Hyperpigmentation Treatments</b> 
+        <br />Say goodbye to dark spots and uneven skin tone with our hyperpigmentation treatments. Whether 
+        <br />it’s caused by sun exposure, acne scars, or melasma, we offer customized solutions to brighten 
+        <br /> and even out your skin tone. Using advanced techniques and high-quality products, we’ll help 
+        <br /> you achieve a glowing, clear complexion.
+
       </div>
 
  
@@ -333,21 +337,23 @@ function AboutUs() {
         
       </h4>
       <div style={{ lineHeight: '1.6' }}>
+      We understand that beauty is personal, and so are our treatments. Here’s why you should choose us for your aesthetic journey:
         <ul style={{ listStyleType: 'disc', listStylePosition: 'inside', paddingLeft: '0' }}>
           <li>
-            <b>Comprehensive Care:</b> From hormone therapy to aesthetics, we address your internal health and external appearance.
+            <b>Personalized Care:</b> We take the time to listen to your needs and customize treatments to fit your individual goals.
           </li>
           <li>
-            <b>Experienced Team:</b> Highly trained professionals dedicated to your wellness journey.
+            <b>Expert Professionals</b> Our team is highly trained in the latest techniques and technologies, ensuring you get the best results.
           </li>
           <li>
-            <b>Personalized Plans:</b> Tailored treatments that meet your unique goals and lifestyle.
+            <b>Minimal Downtime:</b> We offer non-invasive treatments that fit seamlessly into your busy life, so you can look great and feel confident without taking time out of your day.
+            .
           </li>
           <li>
-            <b>Cutting-Edge Treatments:</b> The latest in medical advancements to deliver visible, lasting results.
+            <b>Modern and Relaxed Environment:</b> We create a welcoming space where you can relax, unwind, and enjoy the experience
           </li>
           <li>
-            <b>Comfort & Confidentiality:</b> A caring, supportive environment where your privacy comes first.
+            <b>Affordable Options:</b> Beauty should be accessible to everyone, so we offer competitive pricing and payment plans to fit your budget.
           </li>
         </ul>
 
@@ -361,8 +367,8 @@ We support individuals looking to:
 <li>Boost energy and vitality</li>
 <li>Manage weight and feel healthier</li>
 <li>Enhance confidence in their appearance</li>
-<li>Improve intimacy and sexual performance</li>
-<li>Find relief from chronic pain</li>
+{/* <li>Improve intimacy and sexual performance</li> */}
+{/* <li>Find relief from chronic pain</li> */}
 <li>Take the First Step Today</li>
 <li>Discover how our tailored treatments can help you live healthier, feel confident, and look your best.</li>
 </ul>
@@ -433,12 +439,12 @@ function Services() {
           <br></br>  Testosterone
           </a> */}
 
-          <a
+          {/* <a
             href="/services/amino-injections"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
           <br></br>  Amino Injections
-          </a>
+          </a> */}
 
           <a
             href="/services/fillers"
@@ -447,12 +453,12 @@ function Services() {
           <br></br>  Fillers
           </a>
 
-          <a
+          {/* <a
             href="/services/sermorelin"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
           <br></br>  Sermorelin
-          </a>
+          </a> */}
 
           {/* <a
             href="/services/erectile-dysfunction"
@@ -490,7 +496,7 @@ function MedicalWeightLoss() {
       style={{
         padding: "20px",
         textAlign: "center",
-        backgroundColor: "#AEC6CF",
+        backgroundColor: "#E0BFB8",
         fontFamily: "Arial, sans-serif",
         lineHeight: "1.6",
       }}
@@ -624,7 +630,7 @@ function PhosphatidylcholineDeoxycholateInjections() {
       style={{
         padding: "20px",
         textAlign: "center",
-        backgroundColor: "#AEC6CF",
+        backgroundColor: "#E0BFB8",
         fontFamily: "Arial, sans-serif",
         lineHeight: "1.6",
       }}
@@ -757,7 +763,7 @@ function LipotropicInjection() {
   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
        <img
         src="/Lipot.jpg" 
         alt="Lipotrpic Injections"
@@ -899,7 +905,7 @@ function BeautiTOX() {
   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
        <img
         src="/BeautiTOX.jpg" 
         alt="BeautiTOX"
@@ -1051,148 +1057,148 @@ Neurotoxin treatments are safe and effective for most people, but they may not b
 // }
 
 
-function AminoInjections() {
-  return (
+// function AminoInjections() {
+//   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/amino.jpg" 
-        alt="aminoInjection"
-        style={{
-          width: "60%", 
-          height: "auto", 
-          maxWidth: "600px", 
-          borderRadius: "10px",
-          marginBottom: "20px",
-        }}
-      />
+//     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+//        <img
+//         src="/amino.jpg" 
+//         alt="aminoInjection"
+//         style={{
+//           width: "60%", 
+//           height: "auto", 
+//           maxWidth: "600px", 
+//           borderRadius: "10px",
+//           marginBottom: "20px",
+//         }}
+//       />
 
 
-<h1 style={{ color: "white" }}>Support Your Health & Wellness with Amino Injections</h1>
-      <h1>Boost Your Energy, Circulation, and Cardiovascular Health
-        </h1>
-        Are you ready to take your health routine to the next level? Amino Injections provide a simple,        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
-        <br></br>the solution to restore your vitality and confidence.
+// <h1 style={{ color: "white" }}>Support Your Health & Wellness with Amino Injections</h1>
+//       <h1>Boost Your Energy, Circulation, and Cardiovascular Health
+//         </h1>
+//         Are you ready to take your health routine to the next level? Amino Injections provide a simple,        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
+//         <br></br>the solution to restore your vitality and confidence.
 
-       <h3> Why Amino Acids Are Essential</h3>
-       Amino acids are the building blocks of proteins and vital to many bodily functions. While some are
-       <br></br>essential (you must obtain them through diet), others are conditionally essential, meaning  
-       <br></br>your body needs extra support during times of stress or illness. That’s where Amino 
-       <br></br>Injections come in, delivering targeted amino acid support for better health.
-
-
-<h3>What Makes Amino Injections So Powerful?</h3>
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<li><b>Improves Cardiovascular Health </b>
-Amino injections support nitric oxide production, which promotes .
-<br></br>vasodilation (widening of blood vessels) This improves circulation, lowers blood pressure, and strengthens heart health
-</li>
-<li><b>Enhances Blood Flow </b>
- Better circulation means more efficient blood flow throughout your body. This helps you 
-<br></br>feel energized and supports faster muscle recovery, especially after exercise.
-</li>
-<li><b>Supports Longevity </b>
-By boosting blood flow and cardiovascular function, Amino injections promote overall 
-<br></br>health and longevity, helping you stay active and youthful.
-
-</li>
-<li><b>Boosts General Wellness </b>
-Amino acids aid in producing hormones and neurotransmitters that regulate mood, energy,
-<br></br>and mental clarity. Amino injections help maintain balance, keeping your body performing at its best
-</li>
-
-</ul>
-<h3>Is Amino Right for You?</h3>
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-Amino injections are ideal for anyone looking to:
-<li>Improve cardiovascular health and blood flow.</li>
-<li>Enhance exercise performance and recovery.</li>
-<li>Support overall wellness and longevity.</li>
-<li>Maintain healthy blood pressure and energy levels</li>
-
-Whether you're an athlete aiming to recover faster or simply want to feel your best every day, 
-<br></br>Amino injections are a non-invasive, effective addition to your wellness routine.
-</ul>
-<ul>
-Benefits at a Glance :
-<li>✔ Improved circulation and heart health</li>
-<li>✔ Enhanced energy and stamina</li>
-<li>✔ Faster recovery after workouts</li>
-<li>✔ Boosted overall health and longevity</li>
-<li>✔ Simple, non-invasive treatments</li>
-</ul>
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>Pre-Care: Preparing for Your Amino Acid Injection   </h3>
-<li><b>Understand the Benefits: </b>Amino acid injections help boost energy, support muscle recovery, enhance fat metabolism, and improve overall wellness. Perfect for those pursuing fitness or lifestyle goals.</li>
-<li><b>Stay Hydrated:</b>Proper hydration is essential for optimal fat metabolism and to help your body process the nutrients in the injection effectively.</li>
-<li><b>Eat a Balanced Meal: </b>A light meal before your injection can help prevent lightheadedness, especially if you’re sensitive to injections..</li>
-<li><b>Discuss Medications: </b>Let your provider know if you’re taking any supplements or medications to ensure compatibility with the injection.</li>
-<li><b>Wear Comfortable Clothing: </b>Wear loose-fitting clothing to allow easy access to the injection site, typically in the upper arm, thigh, or gluteal area..</li>
-</ul>
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>Post-Care: Ensuring the Best Results </h3>
-<li><b>Stay Active: </b> Light exercise or movement can help distribute the amino acids effectively throughout your body, enhancing their benefits.</li> 
-
-<li><b>Hydrate Well: </b>Continue drinking plenty of water to optimize the effects of the injection and support your body’s natural processes.</li>
-
-<li><b>Avoid Alcohol: </b>Refrain from consuming alcohol for at least 24 hours, as it may interfere with the amino acids’ absorption and effectiveness.</li>
-
-<li><b>Follow a Balanced Diet: </b> Combine the injection with a protein-rich diet to maximize muscle recovery, energy, and metabolism. Focus on lean meats, fish, beans, and vegetables.</li>
-
-<li><b>Monitor for Mild Reactions: </b>Temporary soreness or redness at the injection site is normal. Notify your provider if you experience unusual symptoms.</li>
-
-<li><b>Schedule Regular Treatments: </b> For sustained benefits, follow the injection schedule recommended by your provider, whether weekly, bi-weekly, or monthly.  </li>
-</ul>
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>What to Expect After Treatment </h3>
-<li><b>Increased Energy: </b>Feel revitalized and ready to tackle your day shortly after your injection.</li> 
-
-<li><b>Improved Muscle Recovery: </b>Amino acids help reduce soreness and repair muscles faster after workouts.</li> 
-
-<li><b>Fat Metabolism Support: </b>Encourages your body to burn fat more effectively as part of a healthy lifestyle.</li>
-<li><b>Enhanced Focus:: </b>Many amino acids play a role in brain health, supporting mental clarity and mood.</li>
-
-</ul>
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>Why People Love Amino Acid Injections </h3>
-<li><b>Supports Fitness Goals: </b>Perfect for gym enthusiasts or anyone looking to enhance workout performance and recovery.</li> 
-
-<li><b>Boosts Energy: </b>Provides a natural energy lift without relying on caffeine or stimulants. </li> 
-
-<li><b>Customizable Benefits: </b>Tailored formulations address unique needs, whether it’s fat burning, recovery, or overall wellness.</li> 
-<br></br>
-</ul>
-
-Take your energy, recovery, and metabolism to the next level with amino acid injections. Start your journey to feeling stronger and healthier today! 💪✨ <br></br>
-
-<button
-
-        onClick={() => window.location.href = '/services'}
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          fontSize: "16px",
-          color: "#ffffff",
-          backgroundColor: "#78A2CC",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-      >
-        Let’s Explore More!
-      </button>
-      <br></br>
+//        <h3> Why Amino Acids Are Essential</h3>
+//        Amino acids are the building blocks of proteins and vital to many bodily functions. While some are
+//        <br></br>essential (you must obtain them through diet), others are conditionally essential, meaning  
+//        <br></br>your body needs extra support during times of stress or illness. That’s where Amino 
+//        <br></br>Injections come in, delivering targeted amino acid support for better health.
 
 
-    </div>
-);
-}
+// <h3>What Makes Amino Injections So Powerful?</h3>
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <li><b>Improves Cardiovascular Health </b>
+// Amino injections support nitric oxide production, which promotes .
+// <br></br>vasodilation (widening of blood vessels) This improves circulation, lowers blood pressure, and strengthens heart health
+// </li>
+// <li><b>Enhances Blood Flow </b>
+//  Better circulation means more efficient blood flow throughout your body. This helps you 
+// <br></br>feel energized and supports faster muscle recovery, especially after exercise.
+// </li>
+// <li><b>Supports Longevity </b>
+// By boosting blood flow and cardiovascular function, Amino injections promote overall 
+// <br></br>health and longevity, helping you stay active and youthful.
+
+// </li>
+// <li><b>Boosts General Wellness </b>
+// Amino acids aid in producing hormones and neurotransmitters that regulate mood, energy,
+// <br></br>and mental clarity. Amino injections help maintain balance, keeping your body performing at its best
+// </li>
+
+// </ul>
+// <h3>Is Amino Right for You?</h3>
+
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// Amino injections are ideal for anyone looking to:
+// <li>Improve cardiovascular health and blood flow.</li>
+// <li>Enhance exercise performance and recovery.</li>
+// <li>Support overall wellness and longevity.</li>
+// <li>Maintain healthy blood pressure and energy levels</li>
+
+// Whether you're an athlete aiming to recover faster or simply want to feel your best every day, 
+// <br></br>Amino injections are a non-invasive, effective addition to your wellness routine.
+// </ul>
+// <ul>
+// Benefits at a Glance :
+// <li>✔ Improved circulation and heart health</li>
+// <li>✔ Enhanced energy and stamina</li>
+// <li>✔ Faster recovery after workouts</li>
+// <li>✔ Boosted overall health and longevity</li>
+// <li>✔ Simple, non-invasive treatments</li>
+// </ul>
+
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>Pre-Care: Preparing for Your Amino Acid Injection   </h3>
+// <li><b>Understand the Benefits: </b>Amino acid injections help boost energy, support muscle recovery, enhance fat metabolism, and improve overall wellness. Perfect for those pursuing fitness or lifestyle goals.</li>
+// <li><b>Stay Hydrated:</b>Proper hydration is essential for optimal fat metabolism and to help your body process the nutrients in the injection effectively.</li>
+// <li><b>Eat a Balanced Meal: </b>A light meal before your injection can help prevent lightheadedness, especially if you’re sensitive to injections..</li>
+// <li><b>Discuss Medications: </b>Let your provider know if you’re taking any supplements or medications to ensure compatibility with the injection.</li>
+// <li><b>Wear Comfortable Clothing: </b>Wear loose-fitting clothing to allow easy access to the injection site, typically in the upper arm, thigh, or gluteal area..</li>
+// </ul>
+
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>Post-Care: Ensuring the Best Results </h3>
+// <li><b>Stay Active: </b> Light exercise or movement can help distribute the amino acids effectively throughout your body, enhancing their benefits.</li> 
+
+// <li><b>Hydrate Well: </b>Continue drinking plenty of water to optimize the effects of the injection and support your body’s natural processes.</li>
+
+// <li><b>Avoid Alcohol: </b>Refrain from consuming alcohol for at least 24 hours, as it may interfere with the amino acids’ absorption and effectiveness.</li>
+
+// <li><b>Follow a Balanced Diet: </b> Combine the injection with a protein-rich diet to maximize muscle recovery, energy, and metabolism. Focus on lean meats, fish, beans, and vegetables.</li>
+
+// <li><b>Monitor for Mild Reactions: </b>Temporary soreness or redness at the injection site is normal. Notify your provider if you experience unusual symptoms.</li>
+
+// <li><b>Schedule Regular Treatments: </b> For sustained benefits, follow the injection schedule recommended by your provider, whether weekly, bi-weekly, or monthly.  </li>
+// </ul>
+
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>What to Expect After Treatment </h3>
+// <li><b>Increased Energy: </b>Feel revitalized and ready to tackle your day shortly after your injection.</li> 
+
+// <li><b>Improved Muscle Recovery: </b>Amino acids help reduce soreness and repair muscles faster after workouts.</li> 
+
+// <li><b>Fat Metabolism Support: </b>Encourages your body to burn fat more effectively as part of a healthy lifestyle.</li>
+// <li><b>Enhanced Focus:: </b>Many amino acids play a role in brain health, supporting mental clarity and mood.</li>
+
+// </ul>
+
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>Why People Love Amino Acid Injections </h3>
+// <li><b>Supports Fitness Goals: </b>Perfect for gym enthusiasts or anyone looking to enhance workout performance and recovery.</li> 
+
+// <li><b>Boosts Energy: </b>Provides a natural energy lift without relying on caffeine or stimulants. </li> 
+
+// <li><b>Customizable Benefits: </b>Tailored formulations address unique needs, whether it’s fat burning, recovery, or overall wellness.</li> 
+// <br></br>
+// </ul>
+
+// Take your energy, recovery, and metabolism to the next level with amino acid injections. Start your journey to feeling stronger and healthier today! 💪✨ <br></br>
+
+// <button
+
+//         onClick={() => window.location.href = '/services'}
+//         style={{
+//           marginTop: "20px",
+//           padding: "10px 20px",
+//           fontSize: "16px",
+//           color: "#ffffff",
+//           backgroundColor: "#78A2CC",
+//           border: "none",
+//           borderRadius: "5px",
+//           cursor: "pointer",
+//         }}
+//       >
+//         Let’s Explore More!
+//       </button>
+//       <br></br>
+
+
+//     </div>
+// );
+// }
 
 
 
@@ -1200,7 +1206,7 @@ function Fillers() {
   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
        <img
         src="/Fillers.jpg" 
         alt="fillers"
@@ -1354,109 +1360,109 @@ Get ready to enhance, contour, and glow with fillers. Confidence starts here—l
 );
 }
 
-function Sermorelin() {
-  return (
+// function Sermorelin() {
+//   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/Sermorelin.jpg" 
-        alt="Sermorelin "
-        style={{
-          width: "60%", 
-          height: "auto", 
-          maxWidth: "600px", 
-          borderRadius: "10px",
-          marginBottom: "20px",
-        }}
-      />
-      <h1 style={{ color: "white" }}>Reignite Your Energy & Vitality with Sermorelin</h1>
-      <h1>Unlock Your Potential with Growth Hormone Therapy
-        </h1>
-        Are you feeling tired, struggling to maintain muscle tone, or noticing a slower recovery from workout
-        <br></br>or daily activities? These changes may be due to the natural decline in growth hormone (GH) levels as we age. 
-        <br></br>Sermorelin therapy can help restore your balance, boost your energy, and rejuvenate your health.
+//     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+//        <img
+//         src="/Sermorelin.jpg" 
+//         alt="Sermorelin "
+//         style={{
+//           width: "60%", 
+//           height: "auto", 
+//           maxWidth: "600px", 
+//           borderRadius: "10px",
+//           marginBottom: "20px",
+//         }}
+//       />
+//       <h1 style={{ color: "white" }}>Reignite Your Energy & Vitality with Sermorelin</h1>
+//       <h1>Unlock Your Potential with Growth Hormone Therapy
+//         </h1>
+//         Are you feeling tired, struggling to maintain muscle tone, or noticing a slower recovery from workout
+//         <br></br>or daily activities? These changes may be due to the natural decline in growth hormone (GH) levels as we age. 
+//         <br></br>Sermorelin therapy can help restore your balance, boost your energy, and rejuvenate your health.
 
 
-      <h3>What Is Sermorelin?</h3>
-      Sermorelin is a peptide therapy that works with your body’s natural processes to stimulate the pituitary gland,
-      <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
-      <br></br>and fat loss safely and naturally. This non-invasive treatment is designed to help you feel younger, 
-      <br></br>more energized, and ready to take on life’s challenges.
+//       <h3>What Is Sermorelin?</h3>
+//       Sermorelin is a peptide therapy that works with your body’s natural processes to stimulate the pituitary gland,
+//       <br></br>increasing the production of growth hormone. Unlike synthetic GH injections, Sermorelin enhances your energy, muscle growth
+//       <br></br>and fat loss safely and naturally. This non-invasive treatment is designed to help you feel younger, 
+//       <br></br>more energized, and ready to take on life’s challenges.
 
 
 
-      <h3>Why Consider Sermorelin?</h3>
-      Sermorelin offers a wide range of benefits that can help you regain vitality and improve overall well-being.
+//       <h3>Why Consider Sermorelin?</h3>
+//       Sermorelin offers a wide range of benefits that can help you regain vitality and improve overall well-being.
       
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-      <br></br><b>Key Benefits</b> 
-        <li><b>Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.</li>
-        <li><b>Supports Muscle Growth & Fat Loss </b>- Build lean muscle and reduce stubborn fat for a more toned physique.</li>
-        <li><b>Improves Recovery Time </b>- Speed up recovery after workouts, reduce muscle soreness, and enhance performance.</li>
-        <li><b>Enhances Sleep Quality </b>- Enjoy deeper, more restorative sleep, leaving you refreshed and focused.</li>
-        <li><b>Promotes Healthy Aging </b>- Improve skin elasticity, joint health, and overall vitality to age gracefully.</li>
-        <li><b>Safe and Natural </b>- Stimulates your body’s natural GH production, avoiding the risks of synthetic treatments.</li>
-      </ul>
+//       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//       <br></br><b>Key Benefits</b> 
+//         <li><b>Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.</li>
+//         <li><b>Supports Muscle Growth & Fat Loss </b>- Build lean muscle and reduce stubborn fat for a more toned physique.</li>
+//         <li><b>Improves Recovery Time </b>- Speed up recovery after workouts, reduce muscle soreness, and enhance performance.</li>
+//         <li><b>Enhances Sleep Quality </b>- Enjoy deeper, more restorative sleep, leaving you refreshed and focused.</li>
+//         <li><b>Promotes Healthy Aging </b>- Improve skin elasticity, joint health, and overall vitality to age gracefully.</li>
+//         <li><b>Safe and Natural </b>- Stimulates your body’s natural GH production, avoiding the risks of synthetic treatments.</li>
+//       </ul>
 
 
 
-      <h3>Additional Benefits</h3>
+//       <h3>Additional Benefits</h3>
     
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li>Improved immune function</li>
-        <li>Increased libido</li>
-        <li>Healthier, more youthful-looking skin</li>
-      </ul>
+//       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//         <li>Improved immune function</li>
+//         <li>Increased libido</li>
+//         <li>Healthier, more youthful-looking skin</li>
+//       </ul>
 
-<h3>What to Expect with Sermorelin Therapy</h3>
-Sermorelin provides noticeable improvements within weeks of use:
-
-
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Week 1:</b>Better sleep quality</li>
-        <li><b>Week 2:</b>Faster recovery from workouts</li>
-        <li><b>Week 4:</b> Enhanced mental clarity</li>
-        <li><b>Week 6:</b>Improved skin elasticity</li>
-        <li><b>Week 8:</b>Noticeable changes in body composition</li>
-          </ul>
+// <h3>What to Expect with Sermorelin Therapy</h3>
+// Sermorelin provides noticeable improvements within weeks of use:
 
 
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//         <li><b>Week 1:</b>Better sleep quality</li>
+//         <li><b>Week 2:</b>Faster recovery from workouts</li>
+//         <li><b>Week 4:</b> Enhanced mental clarity</li>
+//         <li><b>Week 6:</b>Improved skin elasticity</li>
+//         <li><b>Week 8:</b>Noticeable changes in body composition</li>
+//           </ul>
 
 
-      <h3>Is Sermorelin Right for You?</h3>
+
+
+//       <h3>Is Sermorelin Right for You?</h3>
       
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-      Sermorelin is ideal for individuals seeking to:  
-        <li>Regain energy and vitality </li>
-        <li>Need an energy boost to stay active and motivated.</li>
-        <li>Slow down the effects of aging</li>
-        <li>Support overall wellness</li>
-        If you’re feeling like your body isn’t functioning at its best, Sermorelin may be the key to unlocking a healthier, more vibrant version of yourself.
-      </ul>
+//       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//       Sermorelin is ideal for individuals seeking to:  
+//         <li>Regain energy and vitality </li>
+//         <li>Need an energy boost to stay active and motivated.</li>
+//         <li>Slow down the effects of aging</li>
+//         <li>Support overall wellness</li>
+//         If you’re feeling like your body isn’t functioning at its best, Sermorelin may be the key to unlocking a healthier, more vibrant version of yourself.
+//       </ul>
 
 
 
-<button
+// <button
 
-        onClick={() => window.location.href = '/services'}
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          fontSize: "16px",
-          color: "#ffffff",
-          backgroundColor: "#78A2CC",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-      >
-        Let’s Explore More!
-      </button>
+//         onClick={() => window.location.href = '/services'}
+//         style={{
+//           marginTop: "20px",
+//           padding: "10px 20px",
+//           fontSize: "16px",
+//           color: "#ffffff",
+//           backgroundColor: "#78A2CC",
+//           border: "none",
+//           borderRadius: "5px",
+//           cursor: "pointer",
+//         }}
+//       >
+//         Let’s Explore More!
+//       </button>
 
-    </div>
-);
-}
+//     </div>
+// );
+// }
 
 
 
@@ -1646,7 +1652,7 @@ function B12Injections() {
   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
        <img
         src="/b12.jpg" 
         alt="B12 Injections "
@@ -1885,7 +1891,7 @@ function ContactUs() {
           maxWidth: "400px",
           margin: "20px auto",
           padding: "20px",
-          backgroundColor: "#AEC6CF",
+          backgroundColor: "#E0BFB8",
           borderRadius: "10px",
   
         }}
@@ -2026,9 +2032,9 @@ function ContactUs() {
               Phosphatidylcholine/Deoxycholate Injections</option>
               <option value="BeautiTOX">BeautiTOX</option>
             {/* <option value="Testosterone">Testosterone</option> */}
-            <option value="Amino Injection">Amino Injections</option>
+            {/* <option value="Amino Injection">Amino Injections</option> */}
             <option value="Fillers">Fillers</option>
-            <option value="Sermorelin">Sermorelin</option>
+            {/* <option value="Sermorelin">Sermorelin</option> */}
             /
             {/* <option value="Sexual Cream">Sexual Cream</option> */}
             <option value="B12 Injections">B12 Injections</option>
@@ -2088,16 +2094,16 @@ function App() {
              <Route path="/services/lipotropic-injection" element={<LipotropicInjection />} />
              <Route path="services/beautiTOX" element ={<BeautiTOX />} />
              {/* <Route path="services/testosterone" element ={<Testosterone />} /> */}
-             <Route path="services/amino-injections" element ={<AminoInjections />} />
+             {/* <Route path="services/amino-injections" element ={<AminoInjections />} /> */}
              <Route path="services/fillers" element ={<Fillers />} />
-             <Route path="services/sermorelin" element ={<Sermorelin />} />
+             {/* <Route path="services/sermorelin" element ={<Sermorelin />} /> */}
              {/* <Route path="services/erectile-dysfunction" element ={<ErectileDysfunction />} /> */}
              {/* <Route path="services/sexual-cream" element ={<SexualCream />} /> */}
              <Route path="services/b12-injections" element ={<B12Injections />} />
         </Routes>
 
         <footer>
-        <p>(210) - 881-9050</p>
+        <p>(210)-920-0253</p>
         <p>9150 Huebner Road Suite 204, San Antonio, Texas 78240, United States</p>
       </footer>
       </div>
