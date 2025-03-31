@@ -222,7 +222,7 @@ to create a plan that enhances your well-being and brings out the vibrant life y
   <button
   id= "btn_sub_submit"
     style={{
-      backgroundColor: "#007BFF",
+      backgroundColor: "#B76E79",
       color: "white",
       border: "none",
       padding: "10px 20px",
@@ -250,7 +250,7 @@ to create a plan that enhances your well-being and brings out the vibrant life y
   <button
     style={{
       backgroundColor: "white",
-      color: "#007BFF",
+      color: "#B76E79",
       border: "none",
       padding: "10px 20px",
       borderRadius: "5px",
@@ -2053,7 +2053,7 @@ function ContactUs() {
               width: "100%",
               padding: "10px",
               borderRadius: "5px",
-              backgroundColor: "#78A2CC",
+              backgroundColor: "#E0A2A2",
               color: "white",
               border: "none",
               cursor: "pointer",
