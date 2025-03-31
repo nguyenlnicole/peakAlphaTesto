@@ -104,7 +104,7 @@ function Home() {
         </div>
         <div>
           
-          <h3> Unleash Your Best Self: Peak Performance, Peak Confidence, Peak Alpha.</h3>
+          <h3> Unleash Your Best Self: Peak Performance and Peak Confidence.</h3>
           
 
           <img
