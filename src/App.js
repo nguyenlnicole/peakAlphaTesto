@@ -98,7 +98,7 @@ function Home() {
             width: '90%',
           }}
         >
-          <h1 className="main-title">Peak Alpha Testo</h1>
+          <h1 className="main-title">EverPure Aesthetics</h1>
           <h2 className="sub-title">San Antonio Elite Wellness Center</h2>
 
         </div>
@@ -426,12 +426,12 @@ function Services() {
           <br></br> BeutiTOX
           </a>
 
-          <a
+          {/* <a
             href="/services/Testosterone"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
           <br></br>  Testosterone
-          </a>
+          </a> */}
 
           <a
             href="/services/amino-injections"
@@ -454,7 +454,7 @@ function Services() {
           <br></br>  Sermorelin
           </a>
 
-          <a
+          {/* <a
             href="/services/erectile-dysfunction"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
@@ -466,7 +466,7 @@ function Services() {
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
           <br></br>  Sexual Cream
-          </a>
+          </a> */}
 
           <a
             href="/services/b12-injections"
@@ -972,83 +972,83 @@ Neurotoxin treatments are safe and effective for most people, but they may not b
 );
 }
 
-function Testosterone() {
-  return (
+// function Testosterone() {
+//   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/Testo.jpg" 
-        alt="Testosterone"
-        style={{
-          width: "60%", 
-          height: "auto", 
-          maxWidth: "600px", 
-          borderRadius: "10px",
-          marginBottom: "20px",
-        }}
-      />
+//     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+//        <img
+//         src="/Testo.jpg" 
+//         alt="Testosterone"
+//         style={{
+//           width: "60%", 
+//           height: "auto", 
+//           maxWidth: "600px", 
+//           borderRadius: "10px",
+//           marginBottom: "20px",
+//         }}
+//       />
 
 
-<h1 style={{ color: "white" }}>Testosterone Therapy: Feel Like Yourself Again</h1>
-      <h1>Boost Your Energy, Strength, and Confidence
-        </h1>
-        Do you feel tired, unmotivated, or not quite like yourself? Many men experience these changes with age, 
-        <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
-        <br></br>the solution to restore your vitality and confidence.
+// <h1 style={{ color: "white" }}>Testosterone Therapy: Feel Like Yourself Again</h1>
+//       <h1>Boost Your Energy, Strength, and Confidence
+//         </h1>
+//         Do you feel tired, unmotivated, or not quite like yourself? Many men experience these changes with age, 
+//         <br></br>often due to declining testosterone levels. But you don’t have to settle for feeling "off." Testosterone therapy may be 
+//         <br></br>the solution to restore your vitality and confidence.
 
-       <h3> What Is Testosterone Therapy?</h3>
-Testosterone is essential for energy, strength, mood, and libido. As men age, testosterone levels naturally decline, 
-<br></br>leading to fatigue, muscle loss, brain fog, and reduced libido. Testosterone therapy is a safe, doctor-supervised treatment 
-<br></br>designed to restore optimal hormone levels and help you feel your best again.
+//        <h3> What Is Testosterone Therapy?</h3>
+// Testosterone is essential for energy, strength, mood, and libido. As men age, testosterone levels naturally decline, 
+// <br></br>leading to fatigue, muscle loss, brain fog, and reduced libido. Testosterone therapy is a safe, doctor-supervised treatment 
+// <br></br>designed to restore optimal hormone levels and help you feel your best again.
 
-<h3>Benefits of Testosterone Therapy</h3>
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<li><b>Restore Energy</b> If you’re constantly feeling drained or sluggish, testosterone therapy can help. It works to 
-<br></br>boost your energy levels, helping you feel awake, alert, and ready to take on the challenges of each day.
-</li>
-<li><b>Boost Strength & Fitness</b> - Struggling with workouts or noticing a loss of muscle mass? Testosterone therapy helps improve 
-<br></br>your muscle tone, endurance, and overall physical performance, making it easier to stay fit, active, and strong.
-</li>
-<li><b>Enhance Mood & Mental Clarity</b> - Low testosterone can lead to irritability, brain fog, or even depression. Testosterone therapy 
-<br></br>helps stabilize your mood, clear mental fog, and restore your focus, helping you feel sharp and balanced.
-</li>
-<li><b>Reignite Libido</b> - A drop in libido can affect your relationships and confidence. Testosterone therapy can restore 
-<br></br>your desire, reigniting your passion and helping you feel more connected to your partner.
-</li>
-<li><b>Combat the Effects of Aging</b> - As testosterone levels decline, aging takes its toll on your body, from reduced bone density to a 
-<br></br>slower metabolism. Testosterone therapy helps counter these effects, promoting overall health and vitality.
-</li>
-</ul>
+// <h3>Benefits of Testosterone Therapy</h3>
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <li><b>Restore Energy</b> If you’re constantly feeling drained or sluggish, testosterone therapy can help. It works to 
+// <br></br>boost your energy levels, helping you feel awake, alert, and ready to take on the challenges of each day.
+// </li>
+// <li><b>Boost Strength & Fitness</b> - Struggling with workouts or noticing a loss of muscle mass? Testosterone therapy helps improve 
+// <br></br>your muscle tone, endurance, and overall physical performance, making it easier to stay fit, active, and strong.
+// </li>
+// <li><b>Enhance Mood & Mental Clarity</b> - Low testosterone can lead to irritability, brain fog, or even depression. Testosterone therapy 
+// <br></br>helps stabilize your mood, clear mental fog, and restore your focus, helping you feel sharp and balanced.
+// </li>
+// <li><b>Reignite Libido</b> - A drop in libido can affect your relationships and confidence. Testosterone therapy can restore 
+// <br></br>your desire, reigniting your passion and helping you feel more connected to your partner.
+// </li>
+// <li><b>Combat the Effects of Aging</b> - As testosterone levels decline, aging takes its toll on your body, from reduced bone density to a 
+// <br></br>slower metabolism. Testosterone therapy helps counter these effects, promoting overall health and vitality.
+// </li>
+// </ul>
 
-<h3>Who Can Benefit from Testosterone Therapy?</h3>
-If you’re feeling less energetic, finding it harder to build or maintain muscle, struggling with 
-<br></br>mood changes, or experiencing a drop in intimacy, testosterone therapy might be the right choice for you. 
-<br></br>By restoring balance, this treatment can help you regain control over your body and mind, letting you live life to the fullest.
+// <h3>Who Can Benefit from Testosterone Therapy?</h3>
+// If you’re feeling less energetic, finding it harder to build or maintain muscle, struggling with 
+// <br></br>mood changes, or experiencing a drop in intimacy, testosterone therapy might be the right choice for you. 
+// <br></br>By restoring balance, this treatment can help you regain control over your body and mind, letting you live life to the fullest.
 
-<br></br>
-<button
+// <br></br>
+// <button
 
-        onClick={() => window.location.href = '/services'}
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          fontSize: "16px",
-          color: "#ffffff",
-          backgroundColor: "#78A2CC",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-      >
-        Let’s Explore More!
-      </button>
-      <br></br>
+//         onClick={() => window.location.href = '/services'}
+//         style={{
+//           marginTop: "20px",
+//           padding: "10px 20px",
+//           fontSize: "16px",
+//           color: "#ffffff",
+//           backgroundColor: "#78A2CC",
+//           border: "none",
+//           borderRadius: "5px",
+//           cursor: "pointer",
+//         }}
+//       >
+//         Let’s Explore More!
+//       </button>
+//       <br></br>
 
 
-    </div>
-);
-}
+//     </div>
+// );
+// }
 
 
 function AminoInjections() {
@@ -1461,186 +1461,186 @@ Sermorelin provides noticeable improvements within weeks of use:
 
 
 
-function ErectileDysfunction() {
-  return (
+// function ErectileDysfunction() {
+//   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/ED.jpg" 
-        alt="Erectile Dysfunction "
-        style={{
-          width: "60%", 
-          height: "auto", 
-          maxWidth: "600px", 
-          borderRadius: "10px",
-          marginBottom: "20px",
-        }}
-      />
-      <h1 style={{ color: "white" }}>
-      Regain Confidence and Vitality with Our ED Treatment Solutions</h1>
-      <h1>Take Control of Your Sexual Health Today
-        </h1>
-        Erectile dysfunction (ED) is a common concern that affects millions of men, but it’s not something you
-        <br></br>have to live with. If you’re struggling with ED, know that effective, non-invasive treatments are available to help
-        <br></br>you regain your confidence, vitality, and intimacy.
+//     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+//        <img
+//         src="/ED.jpg" 
+//         alt="Erectile Dysfunction "
+//         style={{
+//           width: "60%", 
+//           height: "auto", 
+//           maxWidth: "600px", 
+//           borderRadius: "10px",
+//           marginBottom: "20px",
+//         }}
+//       />
+//       <h1 style={{ color: "white" }}>
+//       Regain Confidence and Vitality with Our ED Treatment Solutions</h1>
+//       <h1>Take Control of Your Sexual Health Today
+//         </h1>
+//         Erectile dysfunction (ED) is a common concern that affects millions of men, but it’s not something you
+//         <br></br>have to live with. If you’re struggling with ED, know that effective, non-invasive treatments are available to help
+//         <br></br>you regain your confidence, vitality, and intimacy.
 
-      <h3>What is Erectile Dysfunction?</h3>
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-      ED is the inability to achieve or maintain an erection sufficient for sexual activity. It can be caused by various factors, including:      
-        <li>Age</li>
-        <li>Stress</li>
-        <li>Hormonal imbalances </li>
-        <li>Relationship issues</li>
-        <li>Underlying medical conditions like cardiovascular disease or diabetes</li>
-        While ED is a natural part of aging for some, it can also signal serious health issues. Fortunately, ED is treatable, and you don’t have to suffer in silence.
-      </ul>
+//       <h3>What is Erectile Dysfunction?</h3>
+//       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//       ED is the inability to achieve or maintain an erection sufficient for sexual activity. It can be caused by various factors, including:      
+//         <li>Age</li>
+//         <li>Stress</li>
+//         <li>Hormonal imbalances </li>
+//         <li>Relationship issues</li>
+//         <li>Underlying medical conditions like cardiovascular disease or diabetes</li>
+//         While ED is a natural part of aging for some, it can also signal serious health issues. Fortunately, ED is treatable, and you don’t have to suffer in silence.
+//       </ul>
 
 
 
-      <h3>Benefits of ED Treatment</h3>
+//       <h3>Benefits of ED Treatment</h3>
       
-        <br></br><b>✔ Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.
-        <br></br><b>✔ Improved Sexual Performance </b>- Achieve and maintain stronger, longer-lasting erections, boosting your confidence and performance.
-        <br></br><b>✔ Enhanced Relationship Satisfaction </b>- Overcoming ED can restore intimacy and deepen your connection with your partner.
-        <br></br><b>✔ Renewed Energy & Vitality </b>- Successful ED treatment can help you feel more energetic and confident in all areas of life.
-        <br></br><b>✔ Customized Care </b>- Our team tailors treatment plans to your unique needs and lifestyle, ensuring the best possible results.
+//         <br></br><b>✔ Boosts Energy and Vitality </b>- Restore youthful energy and motivation by naturally increasing growth hormone levels.
+//         <br></br><b>✔ Improved Sexual Performance </b>- Achieve and maintain stronger, longer-lasting erections, boosting your confidence and performance.
+//         <br></br><b>✔ Enhanced Relationship Satisfaction </b>- Overcoming ED can restore intimacy and deepen your connection with your partner.
+//         <br></br><b>✔ Renewed Energy & Vitality </b>- Successful ED treatment can help you feel more energetic and confident in all areas of life.
+//         <br></br><b>✔ Customized Care </b>- Our team tailors treatment plans to your unique needs and lifestyle, ensuring the best possible results.
     
 
 
 
-      <h3>How We Treat Erectile Dysfunction</h3>
-      We offer a variety of advanced, effective solutions for ED, including:
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>P-Shot® (Priapus Shot)</b> - A non-surgical procedure that uses your own blood platelets to stimulate tissue growth and improve blood flow to the penis, enhancing erectile function.</li>
-        <li><b>Shockwave Therapy</b> - Low-intensity shockwave therapy is a non-invasive treatment that stimulates blood flow, improves erectile function, and promotes long-term results.</li>
-        <li><b>Hormone Therapy</b> - If low testosterone is contributing to your ED, our hormone replacement therapy can restore balance and boost libido and performance.</li>
-        <li><b>Prescription Medications</b> - Medications like sildenafil (Viagra) or tadalafil (Cialis) can be prescribed to help you achieve and maintain erections.</li>
-      </ul>
+//       <h3>How We Treat Erectile Dysfunction</h3>
+//       We offer a variety of advanced, effective solutions for ED, including:
+//       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//         <li><b>P-Shot® (Priapus Shot)</b> - A non-surgical procedure that uses your own blood platelets to stimulate tissue growth and improve blood flow to the penis, enhancing erectile function.</li>
+//         <li><b>Shockwave Therapy</b> - Low-intensity shockwave therapy is a non-invasive treatment that stimulates blood flow, improves erectile function, and promotes long-term results.</li>
+//         <li><b>Hormone Therapy</b> - If low testosterone is contributing to your ED, our hormone replacement therapy can restore balance and boost libido and performance.</li>
+//         <li><b>Prescription Medications</b> - Medications like sildenafil (Viagra) or tadalafil (Cialis) can be prescribed to help you achieve and maintain erections.</li>
+//       </ul>
 
-<h3>Why Choose Our Clinic?</h3>
-We understand that ED can be a sensitive and frustrating issue. Seeking treatment is the first step toward reclaiming your confidence and sexual health. At our clinic, we provide:
+// <h3>Why Choose Our Clinic?</h3>
+// We understand that ED can be a sensitive and frustrating issue. Seeking treatment is the first step toward reclaiming your confidence and sexual health. At our clinic, we provide:
 
 
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Discreet, Compassionate Care </b> - Your privacy and comfort are our top priorities.</li>
-        <li><b>Personalized Treatment Plans</b> - Every man’s situation is unique, and our team will create a plan tailored to your needs.</li>
-        <li><b>Advanced Medical Technology</b> - We use the latest treatments to ensure effective, long-lasting results.</li>
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//         <li><b>Discreet, Compassionate Care </b> - Your privacy and comfort are our top priorities.</li>
+//         <li><b>Personalized Treatment Plans</b> - Every man’s situation is unique, and our team will create a plan tailored to your needs.</li>
+//         <li><b>Advanced Medical Technology</b> - We use the latest treatments to ensure effective, long-lasting results.</li>
        
-          </ul>
+//           </ul>
 
 
 
-<button
+// <button
 
-        onClick={() => window.location.href = '/services'}
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          fontSize: "16px",
-          color: "#ffffff",
-          backgroundColor: "#78A2CC",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-      >
-        Let’s Explore More!
-      </button>
+//         onClick={() => window.location.href = '/services'}
+//         style={{
+//           marginTop: "20px",
+//           padding: "10px 20px",
+//           fontSize: "16px",
+//           color: "#ffffff",
+//           backgroundColor: "#78A2CC",
+//           border: "none",
+//           borderRadius: "5px",
+//           cursor: "pointer",
+//         }}
+//       >
+//         Let’s Explore More!
+//       </button>
 
-    </div>
-);
-}
+//     </div>
+// );
+// }
 
-function SexualCream() {
-  return (
+// function SexualCream() {
+//   return (
 
     
-    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/scream.jpg" 
-        alt="Sexual Cream "
-        style={{
-          width: "60%", 
-          height: "auto", 
-          maxWidth: "600px", 
-          borderRadius: "10px",
-          marginBottom: "20px",
-        }}
-      />
-      <h1 style={{ color: "white" }}>
-      Enhance Your Sexual Health and Pleasure with Our Specially Formulated Sexual Cream</h1>
-      <h1>Reignite Desire, Boost Intimacy, and Experience More Pleasure
-        </h1>
-        As women age or go through life changes, it’s common to experience reduced sexual drive, discomfort during intimacy,        <br></br>have to live with. If you’re struggling with ED, know that effective, non-invasive treatments are available to help
-        <br></br>or a loss of sensation. Our Sexual Cream is designed to address these concerns, helping you rediscover intimacy, enhance
-        <br></br>sexual pleasure, and reconnect with your partner.
+//     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#AEC6CF", fontFamily: "Arial, sans-serif" }}>
+//        <img
+//         src="/scream.jpg" 
+//         alt="Sexual Cream "
+//         style={{
+//           width: "60%", 
+//           height: "auto", 
+//           maxWidth: "600px", 
+//           borderRadius: "10px",
+//           marginBottom: "20px",
+//         }}
+//       />
+//       <h1 style={{ color: "white" }}>
+//       Enhance Your Sexual Health and Pleasure with Our Specially Formulated Sexual Cream</h1>
+//       <h1>Reignite Desire, Boost Intimacy, and Experience More Pleasure
+//         </h1>
+//         As women age or go through life changes, it’s common to experience reduced sexual drive, discomfort during intimacy,        <br></br>have to live with. If you’re struggling with ED, know that effective, non-invasive treatments are available to help
+//         <br></br>or a loss of sensation. Our Sexual Cream is designed to address these concerns, helping you rediscover intimacy, enhance
+//         <br></br>sexual pleasure, and reconnect with your partner.
 
-      <h3>What is Sexual Cream?</h3>
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-      Our Sexual Cream is a topical solution specially crafted to heighten female sexual pleasure. This unique blend of ingredients works to:   
-        <li>Increase blood flow</li>
-        <li>Enhance sensation</li>
-        <li>Boost sexual desire </li>
-        Whether you want to improve intimacy, experience heightened orgasms, or reconnect with your partner, our cream is here to help.
-      </ul>
+//       <h3>What is Sexual Cream?</h3>
+//       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//       Our Sexual Cream is a topical solution specially crafted to heighten female sexual pleasure. This unique blend of ingredients works to:   
+//         <li>Increase blood flow</li>
+//         <li>Enhance sensation</li>
+//         <li>Boost sexual desire </li>
+//         Whether you want to improve intimacy, experience heightened orgasms, or reconnect with your partner, our cream is here to help.
+//       </ul>
 
 
 
-      <h3>How Does It Work?</h3>
+//       <h3>How Does It Work?</h3>
       
-      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        Our cream combines potent ingredients that target various aspects of sexual health:
-        <li><b>Testosterone:</b> Improves sexual function, increases libido, and supports vitality.</li>
-        <li><b>L-Arginine: </b> Boosts blood flow to the genital area, enhancing arousal and sensitivity. </li>
-        <li><b>Pentoxifylline:</b> Enhances circulation for better lubrication and increased pleasure.</li>
-        <li><b>Sildenafil:</b>  Improves clitoral blood flow, intensifying stimulation and orgasms.</li>
-        <li><b>Niacin (Vitamin B3):</b> Supports blood flow to genitalia for easier arousal and satisfaction.</li>
-        <li><b>Oxytocin:</b> Strengthens emotional bonding and sexual receptiveness.</li>
-        Each cream is customized with a specific blend tailored to your needs for maximum effectiveness.
+//       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//         Our cream combines potent ingredients that target various aspects of sexual health:
+//         <li><b>Testosterone:</b> Improves sexual function, increases libido, and supports vitality.</li>
+//         <li><b>L-Arginine: </b> Boosts blood flow to the genital area, enhancing arousal and sensitivity. </li>
+//         <li><b>Pentoxifylline:</b> Enhances circulation for better lubrication and increased pleasure.</li>
+//         <li><b>Sildenafil:</b>  Improves clitoral blood flow, intensifying stimulation and orgasms.</li>
+//         <li><b>Niacin (Vitamin B3):</b> Supports blood flow to genitalia for easier arousal and satisfaction.</li>
+//         <li><b>Oxytocin:</b> Strengthens emotional bonding and sexual receptiveness.</li>
+//         Each cream is customized with a specific blend tailored to your needs for maximum effectiveness.
 
 
-      </ul>
+//       </ul>
     
 
-      <h3>Benefits of Our Sexual Cream</h3>
-      <br></br><b>✔ Increase Libido </b>- Rediscover your sexual desire and enjoy a more fulfilling intimate life.
-        <br></br><b>✔ Improve Sexual Receptiveness </b>- Experience enhanced stimulation and responsiveness for more enjoyable intimacy.
-        <br></br><b>✔ Increase Vaginal Blood Flow </b>- Improved circulation ensures heightened sensation and easier arousal.
-        <br></br><b>✔ Enhance Bonding and Intimacy </b>- Strengthen emotional connections with your partner through oxytocin’s effects.
-        <br></br><b>✔ Intensify Orgasms </b>- Enjoy stronger, more satisfying orgasms with enhanced sensitivity.
+//       <h3>Benefits of Our Sexual Cream</h3>
+//       <br></br><b>✔ Increase Libido </b>- Rediscover your sexual desire and enjoy a more fulfilling intimate life.
+//         <br></br><b>✔ Improve Sexual Receptiveness </b>- Experience enhanced stimulation and responsiveness for more enjoyable intimacy.
+//         <br></br><b>✔ Increase Vaginal Blood Flow </b>- Improved circulation ensures heightened sensation and easier arousal.
+//         <br></br><b>✔ Enhance Bonding and Intimacy </b>- Strengthen emotional connections with your partner through oxytocin’s effects.
+//         <br></br><b>✔ Intensify Orgasms </b>- Enjoy stronger, more satisfying orgasms with enhanced sensitivity.
 
 
-<h3>Why Choose Our Clinic?</h3>
+// <h3>Why Choose Our Clinic?</h3>
 
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-        <li><b>Tailored Solutions: </b> Customized blends to meet your specific needs and goals.</li>
-        <li><b>Safe and Effective:</b> Formulated with proven, clinically supported ingredients.</li>
-        <li><b>Confidential Care</b> Compassionate and discreet support for your sexual wellness journey.</li>
-          </ul>
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+//         <li><b>Tailored Solutions: </b> Customized blends to meet your specific needs and goals.</li>
+//         <li><b>Safe and Effective:</b> Formulated with proven, clinically supported ingredients.</li>
+//         <li><b>Confidential Care</b> Compassionate and discreet support for your sexual wellness journey.</li>
+//           </ul>
 
 
 
-<button
+// <button
 
-        onClick={() => window.location.href = '/services'}
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          fontSize: "16px",
-          color: "#ffffff",
-          backgroundColor: "#78A2CC",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-      >
-        Let’s Explore More!
-      </button>
+//         onClick={() => window.location.href = '/services'}
+//         style={{
+//           marginTop: "20px",
+//           padding: "10px 20px",
+//           fontSize: "16px",
+//           color: "#ffffff",
+//           backgroundColor: "#78A2CC",
+//           border: "none",
+//           borderRadius: "5px",
+//           cursor: "pointer",
+//         }}
+//       >
+//         Let’s Explore More!
+//       </button>
 
-    </div>
-);
-}
+//     </div>
+// );
+// }
 
 function B12Injections() {
   return (
@@ -2025,12 +2025,12 @@ function ContactUs() {
             <option value="Phosphatidylcholine/Deoxycholate Injections">
               Phosphatidylcholine/Deoxycholate Injections</option>
               <option value="BeautiTOX">BeautiTOX</option>
-            <option value="Testosterone">Testosterone</option>
+            {/* <option value="Testosterone">Testosterone</option> */}
             <option value="Amino Injection">Amino Injections</option>
             <option value="Fillers">Fillers</option>
             <option value="Sermorelin">Sermorelin</option>
-            <option value="Erectile Dysfunction">Erectile Dysfunction</option>
-            <option value="Sexual Cream">Sexual Cream</option>
+            /
+            {/* <option value="Sexual Cream">Sexual Cream</option> */}
             <option value="B12 Injections">B12 Injections</option>
             <option value="Consultation">Consultation</option>
             
@@ -2087,12 +2087,12 @@ function App() {
             element={<PhosphatidylcholineDeoxycholateInjections />} />
              <Route path="/services/lipotropic-injection" element={<LipotropicInjection />} />
              <Route path="services/beautiTOX" element ={<BeautiTOX />} />
-             <Route path="services/testosterone" element ={<Testosterone />} />
+             {/* <Route path="services/testosterone" element ={<Testosterone />} /> */}
              <Route path="services/amino-injections" element ={<AminoInjections />} />
              <Route path="services/fillers" element ={<Fillers />} />
              <Route path="services/sermorelin" element ={<Sermorelin />} />
-             <Route path="services/erectile-dysfunction" element ={<ErectileDysfunction />} />
-             <Route path="services/sexual-cream" element ={<SexualCream />} />
+             {/* <Route path="services/erectile-dysfunction" element ={<ErectileDysfunction />} /> */}
+             {/* <Route path="services/sexual-cream" element ={<SexualCream />} /> */}
              <Route path="services/b12-injections" element ={<B12Injections />} />
         </Routes>
 
