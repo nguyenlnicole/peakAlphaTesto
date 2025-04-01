@@ -314,7 +314,6 @@ function AboutUs() {
          <br />
 
         2. <b>Dermal Fillers (Hyaluronic Acid, EZ Gel, Sculptra)</b> 
-        <br />
         <br />Our dermal filler options are perfect for adding volume, enhancing facial contours, and 
         <br />reducing the appearance of fine lines. Hyaluronic Acid (HA) fillers like Juvederm and 
         <br /> Restylane are popular choices for restoring lost volume in the face, smoothing wrinkles, 
