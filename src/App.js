@@ -80,7 +80,7 @@ function Home() {
       <header className="App-header" style={{ position: 'relative', textAlign: 'center' }}>
         <img
           src="/PATCover.jpg"
-          alt="Peak Alpha Testo Cover"
+          alt="EverPure cover"
           style={{
             width: '100vw',
             height: 'auto',
