@@ -99,7 +99,7 @@ function Home() {
           }}
         >
           <h1 className="main-title">EverPure Aesthetics</h1>
-          <h2 className="sub-title">San Antonio Elite Wellness Center</h2>
+          <h2 className="sub-title">Enhancing Your Natural Beauty, One Treatment at a Timer</h2>
 
         </div>
         <div>
@@ -111,11 +111,14 @@ function Home() {
           <h4>Welcome to Our Medical Clinic – Where Health, Confidence, and Wellness Meet </h4>
 
           <h6>
-<br></br>At our clinic, we’re here to help you feel your best and embrace a more confident you. Whether you're 
-looking to improve your sexual health, achieve weight loss goals, or enhance your appearance, our expert team is 
-dedicated to providing personalized care just for you. We specialize in customized treatments that are designed 
-to meet your unique needs, ensuring a tailored approach to support your health journey. Let us partner with you 
-to create a plan that enhances your well-being and brings out the vibrant life you deserve.</h6>
+<br></br>At EverPure Aesthetics, we are dedicated to helping you look and feel your best through 
+a range of advanced, customized treatments. Our team of experienced professionals offers a variety 
+of services, including EZ Gel, dermal fillers, Botox, weight loss solutions, and chemical peels—all
+ designed to enhance your natural beauty and rejuvenate your skin. We take pride in offering a welcoming, 
+ safe, and comfortable environment where you can trust that your individual needs and goals are our top 
+ priority. Whether you’re looking for a subtle enhancement or a complete transformation, we are here to 
+ guide you on your journey to feeling confident and refreshed. At EverPure Aesthetics, we combine 
+ cutting-edge technology with personalized care to deliver beautiful, lasting results you’ll love..</h6>
         </div>
       </header>
        {/* Pop-Up Modal */}
