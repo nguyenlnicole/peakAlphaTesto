@@ -99,12 +99,12 @@ function Home() {
           }}
         >
           <h1 className="main-title">EverPure Aesthetics</h1>
-          <h2 className="sub-title">Enhancing Your Natural Beauty, One Treatment at a Timer</h2>
+          <h2 className="sub-title">Your Journey to Pure Beauty</h2>
 
         </div>
         <div>
           
-          <h3> Unleash Your Best Self: Peak Performance and Peak Confidence.</h3>
+          <h3> Enhancing Your Natural Beauty, One Treatment at a Timer</h3>
           
 
 
