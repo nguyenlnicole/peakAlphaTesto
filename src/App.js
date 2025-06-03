@@ -29,7 +29,7 @@ function DropdownMenu() {
           src="/Logo2.jpg"
           alt="Logo2"
           style={{
-            width: "85px",
+            width: "75px",
             height: "auto",
             cursor: "pointer",
           }}
