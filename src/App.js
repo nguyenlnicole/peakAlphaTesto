@@ -104,7 +104,7 @@ function Home() {
         </div>
         <div>
           
-          <h3> Enhancing Your Natural Beauty, One Treatment at a Timer</h3>
+          <h3> Enhancing Your Natural Beauty, One Treatment at a Time</h3>
           
 
 
@@ -2106,7 +2106,7 @@ function App() {
 
         <footer>
         <p>(210)-920-0253</p>
-        <p>9150 Huebner Road Suite 204, San Antonio, Texas 78240, United States</p>
+        <p>4071 Medical Dr, San Antonio, TX 78229, United States</p>
       </footer>
       </div>
     </Router>
