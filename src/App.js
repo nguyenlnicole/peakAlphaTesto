@@ -1850,9 +1850,9 @@ function Payment() {
             <h1 style={{ color: 'white' }}>Indulge Now, Pay Later—On Your Terms 💫
  </h1>
             <img
-        src="/LoanDoan.jpg" 
+        src="/Payment.jpg" 
 
-        alt="Loan Doan"
+        alt="payment"
         style={{
           width: '300px',
           height: 'auto',
