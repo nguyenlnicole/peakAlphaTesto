@@ -61,6 +61,7 @@ function DropdownMenu() {
         <option value="/about-us">About Us</option>
         <option value="/services">Services</option>
         <option value="/about-loan-doan">Provider</option>
+        <option value="/payment">Payment Options</option>
         <option value="/contact-us">Contact Us</option>
       </select>
     </div>
@@ -85,7 +86,7 @@ function Home() {
             width: '100vw',
             height: 'auto',
             objectFit: 'cover',
-          }}
+          }}z
         />
         <div
           style={{
@@ -159,9 +160,10 @@ of services, including EZ Gel, dermal fillers, Botox, weight loss solutions, and
   >
     Subscribe to our page for monthly deals and save big!
   </p>
-  <h2 style={{ fontSize: "1.5rem", margin: "10px 0" }}>Get $50 Off Semaglutide!</h2>
+(Please check your spam) 
+  
   <h2 style={{ fontSize: "1.5rem", margin: "10px 0" }}>
-    Or FREE wellness injection:
+    FREE wellness injection:
   </h2>
   <h6 style={{ fontSize: "1rem", margin: "5px 0" }}>
     - Amino Blend Injection: Boost your energy and support your muscle recovery.
@@ -406,13 +408,13 @@ function Services() {
       <h1>Services Page</h1>
       <ul style={{ listStyle: 'none', padding: 0 }}>
         <li>
-        <a
+        {/* <a
             href="/services/medical-weight-loss"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
             Medical Weight Loss
           </a>
-          <br></br>
+          <br></br> */}
 
           <a
             href="/services/phosphatidylcholine-deoxycholate-injections"
@@ -492,136 +494,136 @@ function Services() {
 
 // New Page Component
 
-function MedicalWeightLoss() {
-  return (
-    <div
-      style={{
-        padding: "20px",
-        textAlign: "center",
-        backgroundColor: "#E0BFB8",
-        fontFamily: "Arial, sans-serif",
-        lineHeight: "1.6",
-      }}
-    >
-      {/* Responsive Image Section */}
-      <img
-        src="/MWL.jpg" 
-        alt="Medical Weight Loss"
-        style={{
-          width: "60%",
-          height: "auto", 
-          maxWidth: "600px", 
-          borderRadius: "10px",
-          marginBottom: "20px",
-        }}
-      />
+// function MedicalWeightLoss() {
+//   return (
+//     <div
+//       style={{
+//         padding: "20px",
+//         textAlign: "center",
+//         backgroundColor: "#E0BFB8",
+//         fontFamily: "Arial, sans-serif",
+//         lineHeight: "1.6",
+//       }}
+//     >
+//       {/* Responsive Image Section */}
+//       <img
+//         src="/MWL.jpg" 
+//         alt="Medical Weight Loss"
+//         style={{
+//           width: "60%",
+//           height: "auto", 
+//           maxWidth: "600px", 
+//           borderRadius: "10px",
+//           marginBottom: "20px",
+//         }}
+//       />
 
-      {/* Content Section */}
-      <h1 style={{ color: 'white' }}>Transform Your Life with Medical Weight Loss</h1>
-
-      
-      <h1>Achieve Real, Lasting Results</h1>
-      Are you tired of struggling with weight loss programs that just don’t work? Medical weight loss offers a science-backed 
-        <br>
-        </br>approach to help you shed those stubborn pounds and reclaim your confidence, energy, and health—once and for all.
-
-        <h3>What Is Medical Weight Loss?</h3>
-Medical weight loss is a personalized program designed by trained medical professionals who understand that every body is unique.        <br></br>treatment that effectively targets and breaks down stubborn fat in specific areas of your body.
-<br></br>
-Whether you're battling slow metabolism, hormonal imbalances, or need extra support to break through weight loss plateaus,
-<br></br>
-we offer targeted treatments that work with your body’s natural processes.
+//       {/* Content Section */}
+//       <h1 style={{ color: 'white' }}>Transform Your Life with Medical Weight Loss</h1>
 
       
+//       <h1>Achieve Real, Lasting Results</h1>
+//       Are you tired of struggling with weight loss programs that just don’t work? Medical weight loss offers a science-backed 
+//         <br>
+//         </br>approach to help you shed those stubborn pounds and reclaim your confidence, energy, and health—once and for all.
 
-    <h3>Why Choose Medical Weight Loss?</h3>
-    <b>Proven Results:</b> Forget gimmicks. Our medical weight loss plans, including FDA-approved medications like Semaglutide, deliver real, sustainable weight loss.
-<br></br><b>Personalized Plans: </b> Receive customized strategies with medical evaluations, lab work, and ongoing support
-<br></br><b>Comprehensive Support:</b> Transform your relationship with food, improve metabolism, and address underlying conditions like hormonal imbalances
-<br></br><b>Faster, Sustainable Results: </b> Lose weight more efficiently and safely with medical treatments that accelerate the process.
-<br></br><b>Boost Your Health: </b> Improve overall health and reduce risks of heart disease, diabetes, and high blood pressure.
+//         <h3>What Is Medical Weight Loss?</h3>
+// Medical weight loss is a personalized program designed by trained medical professionals who understand that every body is unique.        <br></br>treatment that effectively targets and breaks down stubborn fat in specific areas of your body.
+// <br></br>
+// Whether you're battling slow metabolism, hormonal imbalances, or need extra support to break through weight loss plateaus,
+// <br></br>
+// we offer targeted treatments that work with your body’s natural processes.
+
+      
+
+//     <h3>Why Choose Medical Weight Loss?</h3>
+//     <b>Proven Results:</b> Forget gimmicks. Our medical weight loss plans, including FDA-approved medications like Semaglutide, deliver real, sustainable weight loss.
+// <br></br><b>Personalized Plans: </b> Receive customized strategies with medical evaluations, lab work, and ongoing support
+// <br></br><b>Comprehensive Support:</b> Transform your relationship with food, improve metabolism, and address underlying conditions like hormonal imbalances
+// <br></br><b>Faster, Sustainable Results: </b> Lose weight more efficiently and safely with medical treatments that accelerate the process.
+// <br></br><b>Boost Your Health: </b> Improve overall health and reduce risks of heart disease, diabetes, and high blood pressure.
     
-    <h3>Benefits of Semaglutide</h3>
-    Semaglutide is an FDA-approved medication used for nearly a decade to treat high blood sugar and diabetes. Recently approved for weight loss, it’s effective even for individuals without diabetes, helping to:
-    <br></br>
-    <b>✔ Suppress appetite.
-<br></br>✔ Improve metabolism.
-<br></br>✔ Deliver noticeable weight loss results.</b>
+//     <h3>Benefits of Semaglutide</h3>
+//     Semaglutide is an FDA-approved medication used for nearly a decade to treat high blood sugar and diabetes. Recently approved for weight loss, it’s effective even for individuals without diabetes, helping to:
+//     <br></br>
+//     <b>✔ Suppress appetite.
+// <br></br>✔ Improve metabolism.
+// <br></br>✔ Deliver noticeable weight loss results.</b>
 
 
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>Pre-Care: Preparing for Your Treatment  </h3>
-<li><b>Consultation is Key: </b>Before starting weight loss injections like semaglutide or tirzepatide, you’ll have a consultation with a healthcare provider to discuss your goals, health history, and expectations.</li>
-<li><b>Healthy Start:</b>Begin incorporating a balanced diet and regular light activity to prepare your body for the treatment. These injections work best when combined with healthy lifestyle changes. </li>
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>Pre-Care: Preparing for Your Treatment  </h3>
+// <li><b>Consultation is Key: </b>Before starting weight loss injections like semaglutide or tirzepatide, you’ll have a consultation with a healthcare provider to discuss your goals, health history, and expectations.</li>
+// <li><b>Healthy Start:</b>Begin incorporating a balanced diet and regular light activity to prepare your body for the treatment. These injections work best when combined with healthy lifestyle changes. </li>
 
 
-<li><b>Stay Hydrated: </b>Drinking plenty of water supports your metabolism and helps your body adjust to the treatment..</li>
-<li><b>Avoid Heavy Meals Before Your Appointment </b>Eating smaller, balanced meals before treatment can help minimize potential nausea, a common side effect.</li>
-<li><b>Understand the Process </b>These injections are typically administered weekly, and results are gradual. Consistency is key to achieving your goals. </li>
-</ul>
+// <li><b>Stay Hydrated: </b>Drinking plenty of water supports your metabolism and helps your body adjust to the treatment..</li>
+// <li><b>Avoid Heavy Meals Before Your Appointment </b>Eating smaller, balanced meals before treatment can help minimize potential nausea, a common side effect.</li>
+// <li><b>Understand the Process </b>These injections are typically administered weekly, and results are gradual. Consistency is key to achieving your goals. </li>
+// </ul>
 
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>Post-Care: Maximizing Your Results </h3>
-<li><b>Follow Your Provider’s Guidance: </b> Stick to the prescribed dosage schedule and follow any dietary or activity recommendations from your provider.</li> 
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>Post-Care: Maximizing Your Results </h3>
+// <li><b>Follow Your Provider’s Guidance: </b> Stick to the prescribed dosage schedule and follow any dietary or activity recommendations from your provider.</li> 
 
-<li><b>Monitor Your Body: </b>Pay attention to how your body responds. Mild nausea, decreased appetite, or gastrointestinal discomfort are common and usually subside as your body adjusts. Notify your provider if you experience severe side effects.</li>
+// <li><b>Monitor Your Body: </b>Pay attention to how your body responds. Mild nausea, decreased appetite, or gastrointestinal discomfort are common and usually subside as your body adjusts. Notify your provider if you experience severe side effects.</li>
 
-<li><b>Stay Active: </b>Incorporate regular, moderate exercise like walking, yoga, or swimming to boost the effectiveness of the treatment.</li>
+// <li><b>Stay Active: </b>Incorporate regular, moderate exercise like walking, yoga, or swimming to boost the effectiveness of the treatment.</li>
 
-<li><b>Balanced Nutrition: </b>Focus on a high-protein, nutrient-dense diet with smaller, frequent meals. Avoid heavy, greasy, or sugary foods to reduce the risk of nausea.</li>
+// <li><b>Balanced Nutrition: </b>Focus on a high-protein, nutrient-dense diet with smaller, frequent meals. Avoid heavy, greasy, or sugary foods to reduce the risk of nausea.</li>
 
-<li><b>Hydration is Vital: </b>Drink plenty of water throughout the day to support your body’s metabolism and overall health. </li>
-<li><b>Avoid Alcohol: </b>Limit alcohol consumption, especially during the early weeks of treatment, as it may amplify side effects like nausea. </li>
-</ul>
+// <li><b>Hydration is Vital: </b>Drink plenty of water throughout the day to support your body’s metabolism and overall health. </li>
+// <li><b>Avoid Alcohol: </b>Limit alcohol consumption, especially during the early weeks of treatment, as it may amplify side effects like nausea. </li>
+// </ul>
 
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>What to Expect After Treatment </h3>
-<li><b>Appetite Suppression: </b>You may feel less hungry, which helps you naturally consume fewer calories.</li> 
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>What to Expect After Treatment </h3>
+// <li><b>Appetite Suppression: </b>You may feel less hungry, which helps you naturally consume fewer calories.</li> 
 
-<li><b>Gradual Weight Loss: </b>Most patients see consistent, steady progress over weeks or months.</li> 
+// <li><b>Gradual Weight Loss: </b>Most patients see consistent, steady progress over weeks or months.</li> 
 
-<li><b>Side Effects: </b>Mild nausea or upset stomach may occur initially but typically improves as your body adjusts.</li>
-<li><b>Ongoing Adjustments: </b>Regular check-ins with your provider will ensure the treatment plan is working effectively and can be adjusted as needed.</li> 
+// <li><b>Side Effects: </b>Mild nausea or upset stomach may occur initially but typically improves as your body adjusts.</li>
+// <li><b>Ongoing Adjustments: </b>Regular check-ins with your provider will ensure the treatment plan is working effectively and can be adjusted as needed.</li> 
 
-</ul>
+// </ul>
 
-<ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-<h3>Why People Love Medical Weight Loss Injections  </h3>
-<li><b>Sustainable Results: </b>These treatments offer a science-backed way to achieve weight loss goals with gradual, lasting results.</li> 
+// <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+// <h3>Why People Love Medical Weight Loss Injections  </h3>
+// <li><b>Sustainable Results: </b>These treatments offer a science-backed way to achieve weight loss goals with gradual, lasting results.</li> 
 
-<li><b>Boost Confidence: </b>Feel empowered and energized as you see progress over time.</li> 
+// <li><b>Boost Confidence: </b>Feel empowered and energized as you see progress over time.</li> 
 
-<li><b>Convenience: </b>Quick sessions that fit into a busy lifestyle.</li> 
+// <li><b>Convenience: </b>Quick sessions that fit into a busy lifestyle.</li> 
 
-<li><b>Minimal Disruption: </b>Weekly injections fit seamlessly into busy lifestyles, offering flexibility and convenience.</li> 
-<br></br>
-Take control of your health and start your transformation today. Your weight loss journey begins here! 🌟 
-</ul>
-
-
+// <li><b>Minimal Disruption: </b>Weekly injections fit seamlessly into busy lifestyles, offering flexibility and convenience.</li> 
+// <br></br>
+// Take control of your health and start your transformation today. Your weight loss journey begins here! 🌟 
+// </ul>
 
 
-<br></br>
-<button
 
-        onClick={() => window.location.href = '/services'}
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          fontSize: "16px",
-          color: "#ffffff",
-          backgroundColor: "#B76E79",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-      >
-      Let’s Explore More!
-      </button>
 
-    </div>
-  );
-}
+// <br></br>
+// <button
+
+//         onClick={() => window.location.href = '/services'}
+//         style={{
+//           marginTop: "20px",
+//           padding: "10px 20px",
+//           fontSize: "16px",
+//           color: "#ffffff",
+//           backgroundColor: "#B76E79",
+//           border: "none",
+//           borderRadius: "5px",
+//           cursor: "pointer",
+//         }}
+//       >
+//       Let’s Explore More!
+//       </button>
+
+//     </div>
+//   );
+// }
 
 
 
@@ -1842,6 +1844,61 @@ function AboutLoanDoan() {
   );
 }
 
+function Payment() {
+  return (
+    <div style={{ textAlign: 'center' }}>
+            <h1 style={{ color: 'white' }}>Indulge Now, Pay Later—On Your Terms 💫
+ </h1>
+            <img
+        src="/LoanDoan.jpg" 
+
+        alt="Loan Doan"
+        style={{
+          width: '300px',
+          height: 'auto',
+          borderRadius: '10px',
+          marginTop: '20px',
+        }}
+      />
+
+      <h3> At EverPure Aesthetics, your beauty journey should feel effortless—from booking to results. 
+        <br></br>That’s why we’ve partnered with Cherry and PatientFi to offer luxurious payment flexibility tailored to you.</h3>
+       <h4 style={{ color: 'white' }}> Enjoy your favorite treatments now and pay over time with simple, stress-free monthly plans.</h4>
+<p><br></br>✨ Up to 0% interest for 6 months for qualifying clients
+<br></br>✨ No hard credit check to apply
+<br></br>✨ Instant approvals
+<br></br>✨ Designed for both convenience and discretion
+<br></br>From skin-perfecting treatments to wellness injections, experience the care you deserve—without compromise.
+<br></br>Click below to apply and discover your options:
+<br></br>
+<br></br><a 
+  href="http://pay.withcherry.com/everpure-aesthetics-llc" 
+  target="_blank" 
+  style={{ color: 'hotpink', fontWeight: 'bold', textDecoration: 'underline' }}
+>
+  Apply with Cherry
+</a>
+<br />
+<br />OR
+<br />
+<br />
+<a 
+  href="https://app.patientfi.com/v2/everpure-aesthetics/apply" 
+  target="_blank" 
+  style={{ color: 'hotpink', fontWeight: 'bold', textDecoration: 'underline' }}
+>
+  Apply with PatientFi
+</a>
+</p>
+
+
+        <br></br>
+        <br></br>
+        <br></br>
+      
+    </div>
+  );
+}
 
 
 
@@ -2089,7 +2146,8 @@ function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/about-loan-doan" element={<AboutLoanDoan />} />
           <Route path="/contact-us" element={<ContactUs />} />
-          <Route path="services/Medical-weight-loss" element ={<MedicalWeightLoss />} />
+          <Route path="/payment" element={<Payment />} />
+          {/* <Route path="services/Medical-weight-loss" element ={<MedicalWeightLoss />} /> */}
           <Route
             path="/services/phosphatidylcholine-deoxycholate-injections"
             element={<PhosphatidylcholineDeoxycholateInjections />} />
