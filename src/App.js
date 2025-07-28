@@ -367,7 +367,7 @@ function AboutUs() {
  
       <h4>
         
-          <b>Why Choose Us?</b>
+          <b>💖 Why Clients Love Us</b>
         
       </h4>
       <div style={{ lineHeight: '1.6' }}>
@@ -397,19 +397,27 @@ function AboutUs() {
 
 
 
-      <h4><b>Who We Serve</b></h4>
-We support individuals looking to:
+      <h4><b>🌟 Who We’re For</b></h4>
+We proudly serve clients who want to::
 <br></br><ul style={{ listStyleType: 'disc', listStylePosition: 'inside', paddingLeft: '0' }}>
-<li>Boost energy and vitality</li>
-<li>Manage weight and feel healthier</li>
-<li>Enhance confidence in their appearance</li>
-{/* <li>Improve intimacy and sexual performance</li> */}
-{/* <li>Find relief from chronic pain</li> */}
-<li>Take the First Step Today</li>
-<li>Discover how our tailored treatments can help you live healthier, feel confident, and look your best.</li>
+<b>✔ Feel more confident in their skin</b>
+<br></br>
+<b>✔ Improve skin clarity, texture, and tone</b>
+<br></br>
+<b>✔ Slow down the signs of aging</b>
+<br></br>
+<b>✔ Manage weight and wellness goals</b>
+<br></br>
+<b>✔ Look fresh, youthful, and empowered</b>
+<br></br>
 </ul>
-<h3>📅 Book a Consultation Now
-Let us create the perfect care plan for you.</h3>
+
+Ready to Glow?
+<br></br>Let’s build your perfect treatment plan together. Whether you're new to aesthetics or looking for a trusted home, we’re here to guide you every step of the way.
+
+<h3>📅 Book a Consultation today
+  <br></br>
+and let EverPure Aesthetics help you shine from the inside out.</h3>
 <br></br>
 <button
 
@@ -518,11 +526,19 @@ function Services() {
           </a>
 
           <a
-            href="/services/other-services"
+            href="/services/laser-hair-removal"
             style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
           >
-          <br></br>  Other Services
+          <br></br> Laser Hair Removal
           </a>
+
+          <a
+            href="/services/skin-rejuvenation"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br> Skin Rejuvenation
+          </a>
+
 
 
         </li>
@@ -1818,39 +1834,48 @@ Reclaim your energy and feel your best with B12 injections. Book your session to
 );
 }
 
-function OtherServices() {
+function LaserHairRemoval() {
   return (
 
+ 
     
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
     
-      <h3>Skin Renewal & Correction</h3>
-      
+      <h1 style={{ color: "white" }}>
+     Ditch the Razor—Stay Silky Smooth with EverPure</h1>
+      <h3>Tired of stubble, bumps, and endless shaving? we make laser hair removal feel like self-care, not a chore. Our  laser is a top-tier device that delivers powerful results gently—so you get smooth, glowing skin without the guesswork or irritation.
+        </h3>
+        Whether you're ready to toss the razor for good or just want softer skin with less upkeep, we’ve got you covered.       
+        <br></br>
+
+      <h3>Areas We Treat:</h3>
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-      Using our advanced  laser system, we treat a variety of skin concerns with precision and minimal downtime:  
-        <li>Acne scars & surgical scars</li>
-        <li>Stretch marks</li>
-        <li>Sunspots, freckles & dark patches</li>
-        <li>Facial veins & redness (rosacea or broken capillaries)</li>
-        <li>Uneven texture and tone</li>
-        <li>Fine lines and skin laxity</li>
-        <li>Skin resurfacing for an overall youthful glow</li>
-        </ul>
+        <li>💋 Face (lip, chin, sideburns)</li>
+        <li>🩱 Bikini + Brazilian </li>
+        <li>🫶 Underarms</li>
+        <li>🦵 Legs & arms</li>
+        <li>💪 Back & chest</li>
+        <li>👣 Stomach, toes, and more!</li>
 
-<h3>Laser Hair Removal</h3>
-     <p> Ditch the razor for good. Our laser hair removal treatments offer long-term smoothness for the face, underarms, bikini line, legs, and more.</p>
+      </ul>
+
+
+
+      <h3>Why Our Clients Choose Us Over Anywhere Else:</h3>
+    
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+          <li>💕 We use one of the most advanced lasers in the industry</li>
+        <li>✨ Custom treatments based on your skin + hair type</li>
+
+
+      </ul>
+    
+
+    
+
       
-<h3>Wrinkle-Relaxing Injections</h3>
-     <p> Ditch the razor for good. Our laser hair removal treatments offer long-term smoothness for the face, underarms, bikini line, legs, and more.</p>
 
-<h3>Dermal Fillers & Natural Volume Boosters</h3>
-     <p>From hyaluronic acid fillers (like Juvederm® and Restylane®) to collagen-stimulating treatments like Sculptra® and EZ Gel, we help restore volume, define your features, and enhance natural beauty—no filters needed.</p>
 
-<h3>Brightening & Pigment Treatments</h3>
-     <p> Tired of dark spots or uneven skin tone? Our pigment-fighting treatments target sun damage, melasma, acne marks, and more for a luminous, even complexion.</p>
-
-     <h3>Skin Tightening & Lifting</h3>
-     <p> We offer treatments that firm, lift, and tighten skin over time—no surgery required. Great for jawlines, necks, and anywhere you want a little boost.</p>
 <button
 
         onClick={() => window.location.href = '/services'}
@@ -1871,6 +1896,75 @@ function OtherServices() {
     </div>
 );
 }
+
+function SkinRejuvenation() {
+  return (
+
+ 
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
+    
+      <h1 style={{ color: "white" }}>
+     Glow Up Your Skin with Our Rejuvenation Services ✨</h1>
+      <h3>Want smoother, clearer, and more radiant skin? We’ve got you covered! Whether it’s fading scars, lightening dark spots, or reducing those pesky stretch marks, our Skin Rejuvenation Services are here to help you love the skin you're in. 🌟
+        </h3>
+             
+        <br></br>
+
+      <h3>Scar Reduction 💖</h3>
+      Want smoother, clearer, and more radiant skin? We’ve got you covered! Whether it’s fading scars, lightening dark spots, or reducing those pesky stretch marks, our Skin Rejuvenation Services are here to help you love the skin you're in. 🌟
+   
+      <h3>Hyperpigmentation Treatment 🌞</h3>
+      Say goodbye to dark spots, sun damage, or melasma! If you’ve been wanting to brighten your complexion and even out your skin tone, our treatments are here to help. We’ll target those stubborn spots, so you can enjoy glowing skin all year round.
+
+    
+      <h3>Stretch Mark Removal 🌸</h3>
+      Say goodbye to dark spots, sun damage, or melasma! If you’ve been wanting to brighten your complexion and even out your skin tone, our treatments are here to help. We’ll target those stubborn spots, so you can enjoy glowing skin all year round.
+
+
+      <h3>Hyperpigmentation Treatment 🌞</h3>
+     Stretch marks can be a challenge, but with our specialized treatments, we can help minimize their appearance and restore smooth, beautiful skin. No more hiding or feeling self-conscious—just smooth, even skin you’ll love to show off!
+ 
+      <h3>Other Skin-Perfecting Treatments You’ll Love 💕</h3>
+      Our laser is one of our secret weapons for treating a variety of skin concerns, and you can get all these amazing benefits in one go:
+       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+        <li>Skin Resurfacing: Smooth out rough texture and fine lines, leaving you with a silky-soft, glowing complexion.</li>
+        <li>Wrinkle Reduction: Target those fine lines and wrinkles with our non-invasive treatments that give your skin a smoother, youthful appearance </li>
+        <li>Pore Refining: If large pores are bugging you, we’ve got treatments that’ll leave your skin looking smooth and flawless.</li>
+        <li>Pigment Correction: Beyond hyperpigmentation, our treatments can even out skin tone, making your complexion look so fresh and clear!</li>
+
+      </ul>
+
+
+      <h3>No matter what you’re looking to improve, we’ve got a treatment that can help you get there. Each service is totally personalized to your skin’s needs, so you can feel confident and glowing in your own skin!</h3>
+
+
+    
+
+
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#B76E79",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Let’s Explore More!
+      </button>
+
+    </div>
+);
+}
+
+
+
 
 function AboutLoanDoan() {
   return (
@@ -2188,7 +2282,8 @@ function ContactUs() {
             /
             {/* <option value="Sexual Cream">Sexual Cream</option> */}
             <option value="B12 Injections">B12 Injections</option>
-            <option value="Other Services">Other Services</option>
+            <option value="Laser Hair Removal">Laser Hair Removal</option>
+            <option value="Laser Hair Removal">Skin Rejuvenation</option>
             <option value="Consultation">Consultation</option>
              
             
@@ -2253,7 +2348,8 @@ function App() {
              {/* <Route path="services/erectile-dysfunction" element ={<ErectileDysfunction />} /> */}
              {/* <Route path="services/sexual-cream" element ={<SexualCream />} /> */}
              <Route path="services/b12-injections" element ={<B12Injections />} />
-             <Route path="services/other-services" element ={<OtherServices />} />
+             <Route path="services/laser-hair-removal" element ={<LaserHairRemoval/>} />
+             <Route path="services/skin-rejuvenation" element ={<SkinRejuvenation/>} />
         </Routes>
 
 
