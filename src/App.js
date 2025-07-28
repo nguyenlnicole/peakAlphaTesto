@@ -310,7 +310,7 @@ function AboutUs() {
       </h4>
 
       <div style={{ lineHeight: '1.6' }}>
-        1. <b>Neuromodulators (Botox, Dysport, Xeomin, Daxxify, etc.)</b> 
+        1. <b>Neuromodulators (Botox, Dysport, Xeomin, Daxxify, etc.) </b> 
        Our neuromodulator treatments are designed to help you achieve smoother,
         wrinkle-free skin. Botox, Dysport, Daxxify and Xeomin are injectable treatments 
          that temporarily reduce the appearance of fine lines and wrinkles by relaxing 
@@ -319,7 +319,7 @@ function AboutUs() {
          fresh appearance.
          <br />
 
-        2. <b>Dermal Fillers (Hyaluronic Acid, EZ Gel, Sculptra)</b> 
+        2. <b>Dermal Fillers (Hyaluronic Acid, EZ Gel, Sculptra </b> 
         Our dermal filler options are perfect for adding volume, enhancing facial contours, and 
         reducing the appearance of fine lines. Hyaluronic Acid (HA) fillers like Juvederm and 
          Restylane are popular choices for restoring lost volume in the face, smoothing wrinkles, 
@@ -327,11 +327,40 @@ function AboutUs() {
         natural, soft feel. Sculptra, a unique collagen stimulator, promotes the gradual production 
         of your own collagen, resulting in long-lasting, natural volume restoration.
 <br></br>
-        3. <b>Hyperpigmentation Treatments</b> 
+        3. <b>Hyperpigmentation Treatments </b> 
         Say goodbye to dark spots and uneven skin tone with our hyperpigmentation treatments. Whether 
         it’s caused by sun exposure, acne scars, or melasma, we offer customized solutions to brighten 
         and even out your skin tone. Using advanced techniques and high-quality products, we’ll help 
         you achieve a glowing, clear complexion.
+        <br></br>
+
+      <b>Skin Renewal & Correction </b>
+      
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      Using our advanced  laser system, we treat a variety of skin concerns with precision and minimal downtime:  
+        <li>Acne scars & surgical scars</li>
+        <li>Stretch marks</li>
+        <li>Sunspots, freckles & dark patches</li>
+        <li>Facial veins & redness (rosacea or broken capillaries)</li>
+        <li>Uneven texture and tone</li>
+        <li>Fine lines and skin laxity</li>
+        <li>Skin resurfacing for an overall youthful glow</li>
+        </ul>
+
+<b>Laser Hair Removal </b>
+      Ditch the razor for good. Our laser hair removal treatments offer long-term smoothness for the face, underarms, bikini line, legs, and more.
+ <br></br>     
+<b>Wrinkle-Relaxing Injections </b>
+    Ditch the razor for good. Our laser hair removal treatments offer long-term smoothness for the face, underarms, bikini line, legs, and more.
+<br></br>
+<b>Dermal Fillers & Natural Volume Boosters </b>
+     From hyaluronic acid fillers (like Juvederm® and Restylane®) to collagen-stimulating treatments like Sculptra® and EZ Gel, we help restore volume, define your features, and enhance natural beauty—no filters needed.
+<br></br>
+<b>Brightening & Pigment Treatments </b>
+      Tired of dark spots or uneven skin tone? Our pigment-fighting treatments target sun damage, melasma, acne marks, and more for a luminous, even complexion.
+<br></br>
+     <b>Skin Tightening & Lifting </b>
+      We offer treatments that firm, lift, and tighten skin over time—no surgery required. Great for jawlines, necks, and anywhere you want a little boost.
 
       </div>
 
@@ -361,6 +390,8 @@ function AboutUs() {
             <b>Affordable Options:</b> Beauty should be accessible to everyone, so we offer competitive pricing and payment plans to fit your budget.
           </li>
         </ul>
+
+
 
       </div>
 
@@ -1796,16 +1827,30 @@ function OtherServices() {
       <h3>Skin Renewal & Correction</h3>
       
       <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
-      Sermorelin is ideal for individuals seeking to:  
-        <li>Regain energy and vitality </li>
-        <li>Need an energy boost to stay active and motivated.</li>
-        <li>Slow down the effects of aging</li>
-        <li>Support overall wellness</li>
-        If you’re feeling like your body isn’t functioning at its best, Sermorelin may be the key to unlocking a healthier, more vibrant version of yourself.
-      </ul>
+      Using our advanced  laser system, we treat a variety of skin concerns with precision and minimal downtime:  
+        <li>Acne scars & surgical scars</li>
+        <li>Stretch marks</li>
+        <li>Sunspots, freckles & dark patches</li>
+        <li>Facial veins & redness (rosacea or broken capillaries)</li>
+        <li>Uneven texture and tone</li>
+        <li>Fine lines and skin laxity</li>
+        <li>Skin resurfacing for an overall youthful glow</li>
+        </ul>
 
+<h3>Laser Hair Removal</h3>
+     <p> Ditch the razor for good. Our laser hair removal treatments offer long-term smoothness for the face, underarms, bikini line, legs, and more.</p>
+      
+<h3>Wrinkle-Relaxing Injections</h3>
+     <p> Ditch the razor for good. Our laser hair removal treatments offer long-term smoothness for the face, underarms, bikini line, legs, and more.</p>
 
+<h3>Dermal Fillers & Natural Volume Boosters</h3>
+     <p>From hyaluronic acid fillers (like Juvederm® and Restylane®) to collagen-stimulating treatments like Sculptra® and EZ Gel, we help restore volume, define your features, and enhance natural beauty—no filters needed.</p>
 
+<h3>Brightening & Pigment Treatments</h3>
+     <p> Tired of dark spots or uneven skin tone? Our pigment-fighting treatments target sun damage, melasma, acne marks, and more for a luminous, even complexion.</p>
+
+     <h3>Skin Tightening & Lifting</h3>
+     <p> We offer treatments that firm, lift, and tighten skin over time—no surgery required. Great for jawlines, necks, and anywhere you want a little boost.</p>
 <button
 
         onClick={() => window.location.href = '/services'}
