@@ -105,11 +105,12 @@ function Home() {
         </div>
         <div>
           
-          <h3> Enhancing Your Natural Beauty, One Treatment at a Time</h3>
+          <h2> Enhancing Your Natural Beauty, One Treatment at a Time</h2>
           
 
 
-          <h4>Welcome to Our Medical Clinic – Where Health, Confidence, and Wellness Meet </h4>
+          <h4>Welcome to EverPure Aesthetics, your new favorite destination for glowing skin, smooth curves, and timeless beauty. We believe looking and feeling your best should be simple, personalized, and empowering. </h4>
+          <h5>We specialize in non-invasive treatments designed to treat real skin concerns—like acne scars, unwanted hair, stretch marks, dark spots, redness, and dull or sagging skin. Whether you’re here for a quick refresh or a full glow-up, we’re here to help you feel radiant and confident in your own skin.</h5>
 
           <h6>
 <br></br>At EverPure Aesthetics, we are dedicated to helping you look and feel your best through 
@@ -310,27 +311,27 @@ function AboutUs() {
 
       <div style={{ lineHeight: '1.6' }}>
         1. <b>Neuromodulators (Botox, Dysport, Xeomin, Daxxify, etc.)</b> 
-        <br></br>Our neuromodulator treatments are designed to help you achieve smoother,
-        <br />wrinkle-free skin. Botox, Dysport, Daxxify and Xeomin are injectable treatments 
-         <br />that temporarily reduce the appearance of fine lines and wrinkles by relaxing 
-         <br />the muscles responsible for their formation. Whether you're concerned about crow’s 
-         <br />feet, forehead lines, or frown lines, these treatments can help restore a youthful, 
-         <br />fresh appearance.
+       Our neuromodulator treatments are designed to help you achieve smoother,
+        wrinkle-free skin. Botox, Dysport, Daxxify and Xeomin are injectable treatments 
+         that temporarily reduce the appearance of fine lines and wrinkles by relaxing 
+         the muscles responsible for their formation. Whether you're concerned about crow’s 
+         feet, forehead lines, or frown lines, these treatments can help restore a youthful, 
+         fresh appearance.
          <br />
 
         2. <b>Dermal Fillers (Hyaluronic Acid, EZ Gel, Sculptra)</b> 
-        <br />Our dermal filler options are perfect for adding volume, enhancing facial contours, and 
-        <br />reducing the appearance of fine lines. Hyaluronic Acid (HA) fillers like Juvederm and 
-        <br /> Restylane are popular choices for restoring lost volume in the face, smoothing wrinkles, 
-        <br />and creating a plump, youthful look. EZ Gel is an advanced filler designed to provide a 
-        <br />natural, soft feel. Sculptra, a unique collagen stimulator, promotes the gradual production 
-        <br />of your own collagen, resulting in long-lasting, natural volume restoration.
+        Our dermal filler options are perfect for adding volume, enhancing facial contours, and 
+        reducing the appearance of fine lines. Hyaluronic Acid (HA) fillers like Juvederm and 
+         Restylane are popular choices for restoring lost volume in the face, smoothing wrinkles, 
+        and creating a plump, youthful look. EZ Gel is an advanced filler designed to provide a 
+        natural, soft feel. Sculptra, a unique collagen stimulator, promotes the gradual production 
+        of your own collagen, resulting in long-lasting, natural volume restoration.
 <br></br>
         3. <b>Hyperpigmentation Treatments</b> 
-        <br />Say goodbye to dark spots and uneven skin tone with our hyperpigmentation treatments. Whether 
-        <br />it’s caused by sun exposure, acne scars, or melasma, we offer customized solutions to brighten 
-        <br /> and even out your skin tone. Using advanced techniques and high-quality products, we’ll help 
-        <br /> you achieve a glowing, clear complexion.
+        Say goodbye to dark spots and uneven skin tone with our hyperpigmentation treatments. Whether 
+        it’s caused by sun exposure, acne scars, or melasma, we offer customized solutions to brighten 
+        and even out your skin tone. Using advanced techniques and high-quality products, we’ll help 
+        you achieve a glowing, clear complexion.
 
       </div>
 
