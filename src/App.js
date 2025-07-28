@@ -374,20 +374,20 @@ function AboutUs() {
       We understand that beauty is personal, and so are our treatments. Here’s why you should choose us for your aesthetic journey:
         <ul style={{ listStyleType: 'disc', listStylePosition: 'inside', paddingLeft: '0' }}>
           <li>
-            <b>Personalized Care:</b> We take the time to listen to your needs and customize treatments to fit your individual goals.
+            <b>Personalized Care:</b>We don’t do one-size-fits-all. Every treatment is customized to your skin, goals, and lifestyle.
           </li>
           <li>
-            <b>Expert Professionals</b> Our team is highly trained in the latest techniques and technologies, ensuring you get the best results.
+            <b>Real Results, Real Care </b> Our team is expertly trained and focused on delivering safe, effective, and natural-looking results.
           </li>
           <li>
-            <b>Minimal Downtime:</b> We offer non-invasive treatments that fit seamlessly into your busy life, so you can look great and feel confident without taking time out of your day.
+            <b>Relaxing Vibes</b> Our space is modern, warm, and designed to make you feel pampered from the moment you walk in.
             .
           </li>
           <li>
-            <b>Modern and Relaxed Environment:</b> We create a welcoming space where you can relax, unwind, and enjoy the experience
+            <b>Flexible Pricing </b> Beauty should be accessible. We offer competitive pricing and 0% interest payment plans.
           </li>
           <li>
-            <b>Affordable Options:</b> Beauty should be accessible to everyone, so we offer competitive pricing and payment plans to fit your budget.
+            <b>Fast & Easy Appointments</b> Minimal downtime. Seamless scheduling. Perfect for busy lifestyles.
           </li>
         </ul>
 
