@@ -486,6 +486,13 @@ function Services() {
           <br></br>  B12 Injections
           </a>
 
+          <a
+            href="/services/other-services"
+            style={{ color: 'white', textDecoration: 'underline',fontSize: 'clamp(2rem, 1.5vw, 2rem)', }}
+          >
+          <br></br>  Other Services
+          </a>
+
 
         </li>
       </ul>
@@ -1780,7 +1787,45 @@ Reclaim your energy and feel your best with B12 injections. Book your session to
 );
 }
 
+function OtherServices() {
+  return (
 
+    
+    <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
+    
+      <h3>Skin Renewal & Correction</h3>
+      
+      <ul style={{ listStyleType: "disc", listStylePosition: "inside", paddingLeft: "0" }}>
+      Sermorelin is ideal for individuals seeking to:  
+        <li>Regain energy and vitality </li>
+        <li>Need an energy boost to stay active and motivated.</li>
+        <li>Slow down the effects of aging</li>
+        <li>Support overall wellness</li>
+        If you’re feeling like your body isn’t functioning at its best, Sermorelin may be the key to unlocking a healthier, more vibrant version of yourself.
+      </ul>
+
+
+
+<button
+
+        onClick={() => window.location.href = '/services'}
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          fontSize: "16px",
+          color: "#ffffff",
+          backgroundColor: "#B76E79",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+        }}
+      >
+        Let’s Explore More!
+      </button>
+
+    </div>
+);
+}
 
 function AboutLoanDoan() {
   return (
@@ -2086,7 +2131,7 @@ function ContactUs() {
               marginBottom: "15px",
             }}
           >
-            <option value="MEdical Weight Loss">Medical Weight Loss</option>
+            <option value="Medical Weight Loss">Medical Weight Loss</option>
             <option value="Lipotropic Injection">Lipotropic Injection</option>
             <option value="Phosphatidylcholine/Deoxycholate Injections">
               Phosphatidylcholine/Deoxycholate Injections</option>
@@ -2098,7 +2143,9 @@ function ContactUs() {
             /
             {/* <option value="Sexual Cream">Sexual Cream</option> */}
             <option value="B12 Injections">B12 Injections</option>
+            <option value="Other Services">Other Services</option>
             <option value="Consultation">Consultation</option>
+             
             
 
 
@@ -2161,7 +2208,9 @@ function App() {
              {/* <Route path="services/erectile-dysfunction" element ={<ErectileDysfunction />} /> */}
              {/* <Route path="services/sexual-cream" element ={<SexualCream />} /> */}
              <Route path="services/b12-injections" element ={<B12Injections />} />
+             <Route path="services/other-services" element ={<OtherServices />} />
         </Routes>
+
 
         <footer>
         <p>(210)-920-0253</p>
