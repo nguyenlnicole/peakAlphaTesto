@@ -2321,9 +2321,10 @@ function ContactUs() {
 
 
 // Main App Component
+// Main App Component
 function App() {
   return (
-    <Router>
+    <Router basename="/peakAlphaTesto">
       <div className="App">
         <header className="App-header">
           <DropdownMenu />
