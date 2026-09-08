@@ -816,10 +816,6 @@ Embrace a confident, sculpted look with PCDC treatments. Start your journey toda
 
 
 
-
-function LipotropicInjection() {
-  return (
-
     
     function LipotropicInjection() {
   return (
