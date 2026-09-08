@@ -24,24 +24,24 @@ function DropdownMenu() {
       }}
     >
       {/* Link for the logo */}
-      <Link to="/" style={{ position: "absolute", top: "10px", left: "10px" }}>
-        <img
-          src="/Logo2.jpg"
-          alt="Logo2"
-          style={{
-            width: "75px",
-            height: "auto",
-            cursor: "pointer",
-          }}
-        />
-      </Link>
+<Link to="/" style={{ position: "absolute", top: "10px", left: "10px" }}>
+  <img
+    src={process.env.PUBLIC_URL + "/Logo2.jpg"}
+    alt="Logo2"
+    style={{
+      width: "75px",
+      height: "auto",
+      cursor: "pointer",
+    }}
+  />
+</Link>
 
       {/* Dropdown for navigation */}
       <select
         onChange={handleChange}
         defaultValue=""
         style={{
-          backgroundColor: "##E0BFB8",
+          backgroundColor: "#E0BFB8",
           color: "gray",
           padding: "10px",
           borderRadius: "6px",
@@ -79,15 +79,15 @@ function Home() {
   return (
     <div className="App">
       <header className="App-header" style={{ position: 'relative', textAlign: 'center' }}>
-        <img
-          src="/PATCover.jpg"
-          alt="EverPure cover"
-          style={{
-            width: '100vw',
-            height: 'auto',
-            objectFit: 'cover',
-          }}z
-        />
+  <img
+    src={process.env.PUBLIC_URL + "/PATCover.jpg"}
+    alt="EverPure cover"
+    style={{
+      width: '100vw',
+      height: 'auto',
+      objectFit: 'cover',
+    }}
+  />
         <div
           style={{
             position: 'absolute',
@@ -282,7 +282,7 @@ function AboutUs() {
     <div style={{ textAlign: 'center' }}>
       {/* Image Section */}
       <img
-        src="/Service.jpg" 
+        src={process.env.PUBLIC_URL + "/Service.jpg"}
         alt="Service"
         style={{
           width: '500px',
@@ -694,9 +694,8 @@ function PhosphatidylcholineDeoxycholateInjections() {
         lineHeight: "1.6",
       }}
     >
-      {/* Responsive Image Section */}
       <img
-        src="/pdinj.jpg" 
+        src={process.env.PUBLIC_URL + "/pdinj.jpg"}
         alt="Phosphatidylcholine/Deoxycholate Injections"
         style={{
           width: "60%",
@@ -822,9 +821,11 @@ function LipotropicInjection() {
   return (
 
     
+    function LipotropicInjection() {
+  return (
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/Lipot.jpg" 
+      <img
+        src={process.env.PUBLIC_URL + "/Lipot.jpg"}
         alt="Lipotrpic Injections"
         style={{
           width: "60%", 
@@ -962,11 +963,9 @@ Boost your energy and take control of your wellness journey with lipotropic inje
 
 function BeautiTOX() {
   return (
-
-    
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/BeautiTOX.jpg" 
+      <img
+        src={process.env.PUBLIC_URL + "/BeautiTOX.jpg"}
         alt="BeautiTOX"
         style={{
           width: "60%", 
@@ -1263,11 +1262,9 @@ Neurotoxin treatments are safe and effective for most people, but they may not b
 
 function Fillers() {
   return (
-
-    
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/Fillers.jpg" 
+      <img
+        src={process.env.PUBLIC_URL + "/Fillers.jpg"}
         alt="fillers"
         style={{
           width: "60%", 
@@ -1709,11 +1706,9 @@ Get ready to enhance, contour, and glow with fillers. Confidence starts here—l
 
 function B12Injections() {
   return (
-
-    
     <div style={{ padding: "20px", textAlign: "center", backgroundColor: "#E0BFB8", fontFamily: "Arial, sans-serif" }}>
-       <img
-        src="/b12.jpg" 
+      <img
+        src={process.env.PUBLIC_URL + "/b12.jpg"}
         alt="B12 Injections "
         style={{
           width: "60%", 
@@ -1969,10 +1964,12 @@ function SkinRejuvenation() {
 function AboutLoanDoan() {
   return (
     <div style={{ textAlign: 'center' }}>
-            <h1 style={{ color: 'white' }}>Meet Loan (Lexi) Doan, PA-C, M.S. in Physician Assistant Studies </h1>
-            <img
-        src="/LoanDoan.jpg" 
+      <h1 style={{ color: 'white' }}>
+        Meet Loan (Lexi) Doan, PA-C, M.S. in Physician Assistant Studies
+      </h1>
 
+      <img
+        src={process.env.PUBLIC_URL + "/LoanDoan.jpg"}
         alt="Loan Doan"
         style={{
           width: '300px',
@@ -2032,11 +2029,12 @@ function AboutLoanDoan() {
 function Payment() {
   return (
     <div style={{ textAlign: 'center' }}>
-            <h1 style={{ color: 'white' }}>Indulge Now, Pay Later—On Your Terms 💫
- </h1>
-            <img
-        src="/Payment.jpg" 
+      <h1 style={{ color: 'white' }}>
+        Indulge Now, Pay Later—On Your Terms 💫
+      </h1>
 
+      <img
+        src={process.env.PUBLIC_URL + "/Payment.jpg"}
         alt="payment"
         style={{
           width: '300px',
